@@ -1,135 +1,227 @@
 [
   {
-    "id": "b02811f5f1038ed5",
-    "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
-    "brand": "vivo",
-    "category": "software",
+    "id": "7696a9d8a51d41b6",
+    "title": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
+    "brand": "Other",
+    "category": "pmf",
+    "event_type": "场景信号",
+    "summary": "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱。这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6.0\" 1480×720 LCD 扩充屏幕 。 Stage 450 TG ARGB 三维 533×239×479 (mm)， 前方和左侧均为 4mm 强化玻璃面板 。其兼容背插主板，可容纳 450mm 显卡、",
+    "details": [
+      "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱",
+      "这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6",
+      "0\" 1480×720 LCD 扩充屏幕"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "IT之家",
+    "source_url": "https://www.ithome.com/0/991/783.htm",
+    "week_tag": "2026-W34",
+    "source_id": "ithome-imaging",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
+    "title_original": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱。这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6.0\" 1480×720 LCD 扩充屏幕 。 Stage 450 TG ARGB 三维 533×239×479 (mm)， 前方和左侧均为 4mm 强化玻璃面板 。其兼容背插主板，可容纳 450mm 显卡、200mm 电源、175mm 处理器散热",
+    "details_zh": [
+      "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱",
+      "这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6",
+      "0\" 1480×720 LCD 扩充屏幕"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "IT之家",
+        "url": "https://www.ithome.com/0/991/783.htm",
+        "snippet": "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱。这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6.0\" 1480×720 LCD 扩充屏幕 。 Stage 450 TG ARGB 三维 533×239×479 (mm)， 前方和左侧均为 4mm 强化玻璃面板 。其兼容背插主板，可容纳 450mm 显卡、"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "1fef92feece6a690",
+    "title": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
+    "brand": "DJI",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情。 公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生。 2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技。 王兴兴在采访中表示：我从小就非常喜欢科技，也非常喜欢机器人，2009 年读大一的时候，我做了第一款双足",
+    "details": [
+      "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情",
+      "公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生",
+      "2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "IT之家",
+    "source_url": "https://www.ithome.com/0/991/770.htm",
+    "week_tag": "2026-W34",
+    "source_id": "ithome-imaging",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
+    "title_original": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情。 公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生。 2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技。 王兴兴在采访中表示：我从小就非常喜欢科技，也非常喜欢机器人，2009 年读大一的时候，我做了第一款双足人形机器人。2016 年的时候，我在学校",
+    "details_zh": [
+      "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情",
+      "公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生",
+      "2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "IT之家",
+        "url": "https://www.ithome.com/0/991/770.htm",
+        "snippet": "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情。 公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生。 2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技。 王兴兴在采访中表示：我从小就非常喜欢科技，也非常喜欢机器人，2009 年读大一的时候，我做了第一款双足"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "aecfb0f85b296c5b",
+    "title": "联想 ThinkBook Plus G7 翻转触控笔记本国行发售：酷睿 Ultra X7-358H 配电动转轴，首发 18999 元",
+    "brand": "Other",
+    "category": "industry",
     "event_type": "新品发布",
-    "summary": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G",
+    "summary": "IT之家 8 月 19 日消息，联想 ThinkBook Plus G7 Auto Twist 翻转本今日正式开售，京东显示首发价 18999 元，叠加国补后 17499 元。 京东 联想 ThinkBook Plus 商用办公笔记本电脑 酷睿 Ultra 7-358H/32G/1TB / 触控屏 18999 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。 数码补贴： 点",
     "details": [
-      "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
-      "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
-      "同时手机使用圆润 R 角设计，搭配 2"
+      "IT之家 8 月 19 日消息，联想 ThinkBook Plus G7 Auto Twist 翻转本今日正式开售，京东显示首发价 18999 元，叠加国补后 17499 元",
+      "京东 联想 ThinkBook Plus 商用办公笔记本电脑 酷睿 Ultra 7-358H/32G/1TB / 触控屏 18999 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取",
+      "数码补贴： 点此领券 手机 / 平板 / 3C 数码支持 8"
     ],
-    "insight": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
-    "threat_level": "medium",
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-19",
     "source_name": "IT之家",
-    "source_url": "https://www.ithome.com/0/969/232.htm",
-    "week_tag": "2026-W26",
+    "source_url": "https://www.ithome.com/0/991/726.htm",
+    "week_tag": "2026-W34",
     "source_id": "ithome-imaging",
     "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
-    "title_original": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+    "pushed": false,
+    "title_zh": "联想 ThinkBook Plus G7 翻转触控笔记本国行发售：酷睿 Ultra X7-358H 配电动转轴，首发 18999 元",
+    "title_original": "联想 ThinkBook Plus G7 翻转触控笔记本国行发售：酷睿 Ultra X7-358H 配电动转轴，首发 18999 元",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：122",
+    "summary_zh": "IT之家 8 月 19 日消息，联想 ThinkBook Plus G7 Auto Twist 翻转本今日正式开售，京东显示首发价 18999 元，叠加国补后 17499 元。 京东 联想 ThinkBook Plus 商用办公笔记本电脑 酷睿 Ultra 7-358H/32G/1TB / 触控屏 18999 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。 数码补贴： 点此领券 手机 / 平板 / 3C 数码支",
     "details_zh": [
-      "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
-      "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
-      "同时手机使用圆润 R 角设计，搭配 2"
+      "IT之家 8 月 19 日消息，联想 ThinkBook Plus G7 Auto Twist 翻转本今日正式开售，京东显示首发价 18999 元，叠加国补后 17499 元",
+      "京东 联想 ThinkBook Plus 商用办公笔记本电脑 酷睿 Ultra 7-358H/32G/1TB / 触控屏 18999 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取",
+      "数码补贴： 点此领券 手机 / 平板 / 3C 数码支持 8"
     ],
-    "insight_zh": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
-    "importance_score": 5,
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
     "confidence_score": 0.75,
-    "push_decision": "push",
+    "push_decision": "dashboard_only",
     "evidence": [
       {
         "source_name": "IT之家",
-        "url": "https://www.ithome.com/0/969/232.htm",
-        "snippet": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G"
+        "url": "https://www.ithome.com/0/991/726.htm",
+        "snippet": "IT之家 8 月 19 日消息，联想 ThinkBook Plus G7 Auto Twist 翻转本今日正式开售，京东显示首发价 18999 元，叠加国补后 17499 元。 京东 联想 ThinkBook Plus 商用办公笔记本电脑 酷睿 Ultra 7-358H/32G/1TB / 触控屏 18999 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。 数码补贴： 点"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "fdc01d651e24715c",
-    "title": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
-    "brand": "Nikon",
-    "category": "hardware",
-    "event_type": "软件更新",
-    "summary": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m",
+    "id": "191a1e78449763de",
+    "title": "台湾军方演练乌克兰FPV无人机战术 - voachinese.com",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "台湾军方演练乌克兰FPV无人机战术 voachinese.com",
     "details": [
-      "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
-      "5 1",
-      "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+      "台湾军方演练乌克兰FPV无人机战术 voachinese",
+      "com"
     ],
-    "insight": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "medium",
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "IT之家",
-    "source_url": "https://www.ithome.com/0/969/226.htm",
-    "week_tag": "2026-W26",
-    "source_id": "ithome-imaging",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaEdReFBwZ0hnZ0E0Q1dnX0daTzR1eXZhWk9nNWNMYWNoN0tOOVpwZmJ4RUJjZURuN3J3NVNvUGhGZWNxMldJck54LWxiRTFHMWhINlZNellRTWlOazZkNTZrWnllQ04zX0lQY0o1SVAwMXY0d2dLcTh0WjV1SlZxUXJaRDc1Ym5FTzlTeFFxUnRrcG9NSlo2bTNYR2ZDekc4Y2ZERDBDR2NWc0hoUWVETHA3OFc3VWRLRFRENmk0YWg1ZjdJQ0l4YlVlYw?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
-    "title_original": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+    "pushed": false,
+    "title_zh": "台湾军方演练乌克兰FPV无人机战术 - voachinese.com",
+    "title_original": "台湾军方演练乌克兰FPV无人机战术 - voachinese.com",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6mm（微距专用），最大放大倍率 1.5 倍",
+    "summary_zh": "台湾军方演练乌克兰FPV无人机战术 voachinese.com",
     "details_zh": [
-      "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
-      "5 1",
-      "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+      "台湾军方演练乌克兰FPV无人机战术 voachinese",
+      "com"
     ],
-    "insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
     "confidence_score": 0.75,
-    "push_decision": "push",
+    "push_decision": "dashboard_only",
     "evidence": [
       {
-        "source_name": "IT之家",
-        "url": "https://www.ithome.com/0/969/226.htm",
-        "snippet": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m"
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaEdReFBwZ0hnZ0E0Q1dnX0daTzR1eXZhWk9nNWNMYWNoN0tOOVpwZmJ4RUJjZURuN3J3NVNvUGhGZWNxMldJck54LWxiRTFHMWhINlZNellRTWlOazZkNTZrWnllQ04zX0lQY0o1SVAwMXY0d2dLcTh0WjV1SlZxUXJaRDc1Ym5FTzlTeFFxUnRrcG9NSlo2bTNYR2ZDekc4Y2ZERDBDR2NWc0hoUWVETHA3OFc3VWRLRFRENmk0YWg1ZjdJQ0l4YlVlYw?oc=5",
+        "snippet": "台湾军方演练乌克兰FPV无人机战术 voachinese.com"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "17ce312eb2023ed2",
-    "title": "Swissbit 发布 A2000 系列工业级固态硬盘：TLC 直写，至高 1DWPD",
+    "id": "0403297d0bd12dc6",
+    "title": "暑期爆火的运动相机：买就吃灰，租才真香 - 新浪财经",
     "brand": "Other",
     "category": "hardware",
-    "event_type": "新品发布",
-    "summary": "IT之家 6 月 26 日消息，欧洲工业级存储制造商 Swissbit 当地时间昨日宣布推出基于自封 BiCS8 FLASH 3D TLC NAND 的 A2000 系列工业级固态硬盘。 A2000 系列采用 8 通道 PCIe Gen4 主控，配备 DDR4 DRAM 缓存， 搭配 TLC 直写固件方案 ，符合 NVMe 1.4 规范。其初始提供 M.2 2280 外形规格版本，容量覆盖 480GB~3.84TB，后续还将推出扩展到 ",
+    "event_type": "行业趋势",
+    "summary": "暑期爆火的运动相机：买就吃灰，租才真香 新浪财经",
     "details": [
-      "IT之家 6 月 26 日消息，欧洲工业级存储制造商 Swissbit 当地时间昨日宣布推出基于自封 BiCS8 FLASH 3D TLC NAND 的 A2000 系列工业级固态硬盘",
-      "A2000 系列采用 8 通道 PCIe Gen4 主控，配备 DDR4 DRAM 缓存， 搭配 TLC 直写固件方案 ，符合 NVMe 1",
-      "4 规范"
+      "暑期爆火的运动相机：买就吃灰，租才真香 新浪财经"
     ],
     "insight": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "IT之家",
-    "source_url": "https://www.ithome.com/0/969/147.htm",
-    "week_tag": "2026-W26",
-    "source_id": "ithome-imaging",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGdvS0w5OEE4TGxyUHp1dlVjWUtWSnAxQUZDY2wtdC1NNjQ3NWs4SFlwOUozd2lfc1hLX2lkcGdud3QxRk81ZWplLWJrNkVwWlFtWWN1Q2RtSWJwUmZlVWJaNEQwWHROWHZHeFM5bGZsTUxKbDJOQWFaRlNxY21DUktGTkJmbFVvWi1VSk10UTZRdEY5S3hfYQ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "Swissbit 发布 A2000 系列工业级固态硬盘：TLC 直写，至高 1DWPD",
-    "title_original": "Swissbit 发布 A2000 系列工业级固态硬盘：TLC 直写，至高 1DWPD",
+    "title_zh": "暑期爆火的运动相机：买就吃灰，租才真香 - 新浪财经",
+    "title_original": "暑期爆火的运动相机：买就吃灰，租才真香 - 新浪财经",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "IT之家 6 月 26 日消息，欧洲工业级存储制造商 Swissbit 当地时间昨日宣布推出基于自封 BiCS8 FLASH 3D TLC NAND 的 A2000 系列工业级固态硬盘。 A2000 系列采用 8 通道 PCIe Gen4 主控，配备 DDR4 DRAM 缓存， 搭配 TLC 直写固件方案 ，符合 NVMe 1.4 规范。其初始提供 M.2 2280 外形规格版本，容量覆盖 480GB~3.84TB，后续还将推出扩展到 8TB 容量点的 U.2 / EDSFF",
+    "summary_zh": "暑期爆火的运动相机：买就吃灰，租才真香 新浪财经",
     "details_zh": [
-      "IT之家 6 月 26 日消息，欧洲工业级存储制造商 Swissbit 当地时间昨日宣布推出基于自封 BiCS8 FLASH 3D TLC NAND 的 A2000 系列工业级固态硬盘",
-      "A2000 系列采用 8 通道 PCIe Gen4 主控，配备 DDR4 DRAM 缓存， 搭配 TLC 直写固件方案 ，符合 NVMe 1",
-      "4 规范"
+      "暑期爆火的运动相机：买就吃灰，租才真香 新浪财经"
     ],
     "insight_zh": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "importance_score": 5,
@@ -137,48 +229,89 @@
     "push_decision": "dashboard_only",
     "evidence": [
       {
-        "source_name": "IT之家",
-        "url": "https://www.ithome.com/0/969/147.htm",
-        "snippet": "IT之家 6 月 26 日消息，欧洲工业级存储制造商 Swissbit 当地时间昨日宣布推出基于自封 BiCS8 FLASH 3D TLC NAND 的 A2000 系列工业级固态硬盘。 A2000 系列采用 8 通道 PCIe Gen4 主控，配备 DDR4 DRAM 缓存， 搭配 TLC 直写固件方案 ，符合 NVMe 1.4 规范。其初始提供 M.2 2280 外形规格版本，容量覆盖 480GB~3.84TB，后续还将推出扩展到 "
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGdvS0w5OEE4TGxyUHp1dlVjWUtWSnAxQUZDY2wtdC1NNjQ3NWs4SFlwOUozd2lfc1hLX2lkcGdud3QxRk81ZWplLWJrNkVwWlFtWWN1Q2RtSWJwUmZlVWJaNEQwWHROWHZHeFM5bGZsTUxKbDJOQWFaRlNxY21DUktGTkJmbFVvWi1VSk10UTZRdEY5S3hfYQ?oc=5",
+        "snippet": "暑期爆火的运动相机：买就吃灰，租才真香 新浪财经"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "438172ba74562460",
-    "title": "Kubuntu Focus 带来 Linux 轻薄本 Ar GEN 1，搭载 X7 358H 处理器",
+    "id": "1938b60308dbabdc",
+    "title": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
+    "brand": "Insta360",
+    "category": "hardware",
+    "event_type": "行业趋势",
+    "summary": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
+    "details": [
+      "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
+    ],
+    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "threat_level": "medium",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": true,
+    "title_zh": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
+    "title_original": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
+    "details_zh": [
+      "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
+    ],
+    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "push",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+        "snippet": "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "9e289cee0745f501",
+    "title": "乌称俄军无人机袭击赫尔松市一辆公交车，致4死5伤 - 京报网",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "IT之家 6 月 26 日消息，Linux PC 制造商 Kubuntu Focus 现已在官网上线轻薄笔记本电脑 Ar GEN 1。这一机型提供 16\" 屏幕和含数字区键盘，内置 73Wh 电池，厚度 20mm，质量 1.42kg。 Ar GEN 1 基于英特尔酷睿 Ultra X7 处理器 358H ，集成 32GB LPDDR5X-7467 内存，基础配备 500GB 英睿达 P310 固态硬盘存储，显示面板分辨率 2560×16",
+    "summary": "乌称俄军无人机袭击赫尔松市一辆公交车，致4死5伤 京报网",
     "details": [
-      "IT之家 6 月 26 日消息，Linux PC 制造商 Kubuntu Focus 现已在官网上线轻薄笔记本电脑 Ar GEN 1",
-      "这一机型提供 16\" 屏幕和含数字区键盘，内置 73Wh 电池，厚度 20mm，质量 1",
-      "42kg"
+      "乌称俄军无人机袭击赫尔松市一辆公交车，致4死5伤 京报网"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "IT之家",
-    "source_url": "https://www.ithome.com/0/969/109.htm",
-    "week_tag": "2026-W26",
-    "source_id": "ithome-imaging",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wckJfWnhRcWVhS1I3R3JCOERyRWNPWXFpT0dwX2dNck5UUGVpOUJFYVJual93X1dLQXk0UURET1ktNDAyVzFiRS1EQVpmRnp6WjN4MWkxaDZFVTAwamc?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "Kubuntu Focus 带来 Linux 轻薄本 Ar GEN 1，搭载 X7 358H 处理器",
-    "title_original": "Kubuntu Focus 带来 Linux 轻薄本 Ar GEN 1，搭载 X7 358H 处理器",
+    "title_zh": "乌称俄军无人机袭击赫尔松市一辆公交车，致4死5伤 - 京报网",
+    "title_original": "乌称俄军无人机袭击赫尔松市一辆公交车，致4死5伤 - 京报网",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "IT之家 6 月 26 日消息，Linux PC 制造商 Kubuntu Focus 现已在官网上线轻薄笔记本电脑 Ar GEN 1。这一机型提供 16\" 屏幕和含数字区键盘，内置 73Wh 电池，厚度 20mm，质量 1.42kg。 Ar GEN 1 基于英特尔酷睿 Ultra X7 处理器 358H ，集成 32GB LPDDR5X-7467 内存，基础配备 500GB 英睿达 P310 固态硬盘存储，显示面板分辨率 2560×1600、刷新率 165Hz、亮度 450n",
+    "summary_zh": "乌称俄军无人机袭击赫尔松市一辆公交车，致4死5伤 京报网",
     "details_zh": [
-      "IT之家 6 月 26 日消息，Linux PC 制造商 Kubuntu Focus 现已在官网上线轻薄笔记本电脑 Ar GEN 1",
-      "这一机型提供 16\" 屏幕和含数字区键盘，内置 73Wh 电池，厚度 20mm，质量 1",
-      "42kg"
+      "乌称俄军无人机袭击赫尔松市一辆公交车，致4死5伤 京报网"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -186,48 +319,89 @@
     "push_decision": "dashboard_only",
     "evidence": [
       {
-        "source_name": "IT之家",
-        "url": "https://www.ithome.com/0/969/109.htm",
-        "snippet": "IT之家 6 月 26 日消息，Linux PC 制造商 Kubuntu Focus 现已在官网上线轻薄笔记本电脑 Ar GEN 1。这一机型提供 16\" 屏幕和含数字区键盘，内置 73Wh 电池，厚度 20mm，质量 1.42kg。 Ar GEN 1 基于英特尔酷睿 Ultra X7 处理器 358H ，集成 32GB LPDDR5X-7467 内存，基础配备 500GB 英睿达 P310 固态硬盘存储，显示面板分辨率 2560×16"
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wckJfWnhRcWVhS1I3R3JCOERyRWNPWXFpT0dwX2dNck5UUGVpOUJFYVJual93X1dLQXk0UURET1ktNDAyVzFiRS1EQVpmRnp6WjN4MWkxaDZFVTAwamc?oc=5",
+        "snippet": "乌称俄军无人机袭击赫尔松市一辆公交车，致4死5伤 京报网"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "4428711e9c012754",
-    "title": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
-    "brand": "vivo",
+    "id": "61fb6405a2fc4792",
+    "title": "“丝绸之路万里行·多彩非洲”无人机光影秀在坦桑尼亚成功举办--国际 - 人民网",
+    "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 1570x720 分辨率 120Hz LCD 打孔面板（峰值亮度 1200 尼特），匹配 8MP 自拍摄像头；手",
+    "summary": "“丝绸之路万里行·多彩非洲”无人机光影秀在坦桑尼亚成功举办--国际 人民网",
     "details": [
-      "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元",
-      "该机可选三种配色，厚度 8",
-      "39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6"
+      "“丝绸之路万里行·多彩非洲”无人机光影秀在坦桑尼亚成功举办--国际 人民网"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "IT之家",
-    "source_url": "https://www.ithome.com/0/969/097.htm",
-    "week_tag": "2026-W26",
-    "source_id": "ithome-imaging",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDOUhadkc4SXZ3dHgyYkR6bWYtSkJMN25GYlhKY3pJTy1lcVpvaUU4eFFvc0hHRnVNX0RTcnRtUVBDY05LTUdFWUF1dnZlUlhKSnZzSHJTazU2eFl4RnBMUERmOE1mdWNpbVc1SQ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
-    "title_original": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
+    "title_zh": "“丝绸之路万里行·多彩非洲”无人机光影秀在坦桑尼亚成功举办--国际 - 人民网",
+    "title_original": "“丝绸之路万里行·多彩非洲”无人机光影秀在坦桑尼亚成功举办--国际 - 人民网",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 1570x720 分辨率 120Hz LCD 打孔面板（峰值亮度 1200 尼特），匹配 8MP 自拍摄像头；手机背面匹配 50MP 主摄。 该机搭载高",
+    "summary_zh": "“丝绸之路万里行·多彩非洲”无人机光影秀在坦桑尼亚成功举办--国际 人民网",
     "details_zh": [
-      "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元",
-      "该机可选三种配色，厚度 8",
-      "39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6"
+      "“丝绸之路万里行·多彩非洲”无人机光影秀在坦桑尼亚成功举办--国际 人民网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDOUhadkc4SXZ3dHgyYkR6bWYtSkJMN25GYlhKY3pJTy1lcVpvaUU4eFFvc0hHRnVNX0RTcnRtUVBDY05LTUdFWUF1dnZlUlhKSnZzSHJTazU2eFl4RnBMUERmOE1mdWNpbVc1SQ?oc=5",
+        "snippet": "“丝绸之路万里行·多彩非洲”无人机光影秀在坦桑尼亚成功举办--国际 人民网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "d6edbd6bab3a34ec",
+    "title": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 - 东方财富",
+    "brand": "DJI",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富",
+    "details": [
+      "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xX3NYazVvbklYZzZHOVIyWE9VbUxVbWdJRVE3eDNSYm0xRE1kS2YzeEliSWtsTHJOVVNhbzJKUW1UYk0zaDk0YXkxSmtmNERUN1RaLW5EZmdSLXlfNVBqLQ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 - 东方财富",
+    "title_original": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 - 东方财富",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富",
+    "details_zh": [
+      "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 5,
@@ -235,89 +409,44 @@
     "push_decision": "dashboard_only",
     "evidence": [
       {
-        "source_name": "IT之家",
-        "url": "https://www.ithome.com/0/969/097.htm",
-        "snippet": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 1570x720 分辨率 120Hz LCD 打孔面板（峰值亮度 1200 尼特），匹配 8MP 自拍摄像头；手"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "373815e32fdf1bb9",
-    "title": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
-    "brand": "DJI",
-    "category": "hardware",
-    "event_type": "新品发布",
-    "summary": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
-    "details": [
-      "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
-    ],
-    "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "medium",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
-    "title_original": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
-    "details_zh": [
-      "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
-    ],
-    "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
-        "snippet": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xX3NYazVvbklYZzZHOVIyWE9VbUxVbWdJRVE3eDNSYm0xRE1kS2YzeEliSWtsTHJOVVNhbzJKUW1UYk0zaDk0YXkxSmtmNERUN1RaLW5EZmdSLXlfNVBqLQ?oc=5",
+        "snippet": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "4bfae4bb92dd4d72",
-    "title": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+    "id": "4ae90e8a7ffb8fb3",
+    "title": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
     "brand": "DJI",
     "category": "hardware",
     "event_type": "行业趋势",
-    "summary": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+    "summary": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
     "details": [
-      "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+      "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
     ],
     "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "threat_level": "medium",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-19",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": true,
-    "title_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
-    "title_original": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+    "title_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
+    "title_original": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+    "summary_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
     "details_zh": [
-      "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+      "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
     ],
     "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "importance_score": 5,
@@ -326,44 +455,226 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
-        "snippet": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
+        "snippet": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "cce4abded91d4752",
-    "title": "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” - shobserver.com",
+    "id": "b684b4bdb3f6dfaf",
+    "title": "“续航大考”，氢能无人机全面碾压锂电 - 中国产业发展促进会氢能分会",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” shobserver.com",
+    "summary": "“续航大考”，氢能无人机全面碾压锂电 中国产业发展促进会氢能分会",
     "details": [
-      "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” shobserver",
+      "“续航大考”，氢能无人机全面碾压锂电 中国产业发展促进会氢能分会"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51dEFNMXpDdUs2LWdVMFBXcmVENjZJX3ViRzhCQnpCcmd2YVNtMXJpbEVmSlFpNEwwU2JlWXBqNFJqSlgxWVMtT2VTYXZac3JjeVFkZmZn?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "“续航大考”，氢能无人机全面碾压锂电 - 中国产业发展促进会氢能分会",
+    "title_original": "“续航大考”，氢能无人机全面碾压锂电 - 中国产业发展促进会氢能分会",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "“续航大考”，氢能无人机全面碾压锂电 中国产业发展促进会氢能分会",
+    "details_zh": [
+      "“续航大考”，氢能无人机全面碾压锂电 中国产业发展促进会氢能分会"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51dEFNMXpDdUs2LWdVMFBXcmVENjZJX3ViRzhCQnpCcmd2YVNtMXJpbEVmSlFpNEwwU2JlWXBqNFJqSlgxWVMtT2VTYXZac3JjeVFkZmZn?oc=5",
+        "snippet": "“续航大考”，氢能无人机全面碾压锂电 中国产业发展促进会氢能分会"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "1f8580f2315d1228",
+    "title": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 - 财联社",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 财联社",
+    "details": [
+      "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 财联社"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1czJfRUxlbU1SY1JHeTV2eHVuc0RIVnZOejZ2VkFIOGtEYmIybUt3dDdoLUVOM2g0VjdVb0ZTZGRnX2JSSU9zQQ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 - 财联社",
+    "title_original": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 - 财联社",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 财联社",
+    "details_zh": [
+      "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 财联社"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1czJfRUxlbU1SY1JHeTV2eHVuc0RIVnZOejZ2VkFIOGtEYmIybUt3dDdoLUVOM2g0VjdVb0ZTZGRnX2JSSU9zQQ?oc=5",
+        "snippet": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 财联社"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "a2b5c9f58eabe648",
+    "title": "俄外长警告：英国无人机参与对俄打击将视为参战 - 新浪新闻_手机新浪网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "俄外长警告：英国无人机参与对俄打击将视为参战 新浪新闻_手机新浪网",
+    "details": [
+      "俄外长警告：英国无人机参与对俄打击将视为参战 新浪新闻_手机新浪网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3WURXYnRHMU9xc0xuNTJHdnNPb1FwY2VwemVFN1dFQlRQVFRkQXdRbFRydVRNQ25GOEZNd2dkdlpwbkVMNEdaUTRmeGl4a0tRV01mam5UY3R0Qy1oZmk3UGtUUmNMUXJ3bWp6azA0d3cwWTNOOVE?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "俄外长警告：英国无人机参与对俄打击将视为参战 - 新浪新闻_手机新浪网",
+    "title_original": "俄外长警告：英国无人机参与对俄打击将视为参战 - 新浪新闻_手机新浪网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "俄外长警告：英国无人机参与对俄打击将视为参战 新浪新闻_手机新浪网",
+    "details_zh": [
+      "俄外长警告：英国无人机参与对俄打击将视为参战 新浪新闻_手机新浪网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3WURXYnRHMU9xc0xuNTJHdnNPb1FwY2VwemVFN1dFQlRQVFRkQXdRbFRydVRNQ25GOEZNd2dkdlpwbkVMNEdaUTRmeGl4a0tRV01mam5UY3R0Qy1oZmk3UGtUUmNMUXJ3bWp6azA0d3cwWTNOOVE?oc=5",
+        "snippet": "俄外长警告：英国无人机参与对俄打击将视为参战 新浪新闻_手机新浪网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "7b7297bf6a4b9761",
+    "title": "本土空袭倒逼战力升级：俄罗斯无人机攻防体系的全面重塑 - 凤凰网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "本土空袭倒逼战力升级：俄罗斯无人机攻防体系的全面重塑 凤凰网",
+    "details": [
+      "本土空袭倒逼战力升级：俄罗斯无人机攻防体系的全面重塑 凤凰网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-18",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84THhuaFV0c25OM3g4MVdreHlZNHUyVXZaLUE2a3RKMFh4ZzV1UEg2cDVMem1kbXhJM0FfMkVMME5FZ2owWGE1MGVlTQ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "本土空袭倒逼战力升级：俄罗斯无人机攻防体系的全面重塑 - 凤凰网",
+    "title_original": "本土空袭倒逼战力升级：俄罗斯无人机攻防体系的全面重塑 - 凤凰网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "本土空袭倒逼战力升级：俄罗斯无人机攻防体系的全面重塑 凤凰网",
+    "details_zh": [
+      "本土空袭倒逼战力升级：俄罗斯无人机攻防体系的全面重塑 凤凰网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84THhuaFV0c25OM3g4MVdreHlZNHUyVXZaLUE2a3RKMFh4ZzV1UEg2cDVMem1kbXhJM0FfMkVMME5FZ2owWGE1MGVlTQ?oc=5",
+        "snippet": "本土空袭倒逼战力升级：俄罗斯无人机攻防体系的全面重塑 凤凰网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "ee5b5dabd7d8693f",
+    "title": "无人机非法狩猎，公审！ - news.66wz.com",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "无人机非法狩猎，公审！ news.66wz.com",
+    "details": [
+      "无人机非法狩猎，公审！ news",
+      "66wz",
       "com"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-19",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mZVdBS2lnR3JaU0YtUjVBN2E3VHVSdldxV2dCUHhhZnQ5VkFrclNyYU9LNTFFTkpKWnNCOHdFUE52WHc5MUJjRlE2S0h6SmhueEhhejZxcEJZeDFXaXc?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11WVBScGRTQjFaajRTVEphSlI4cU90UFktYzVWSTczNjc5TEhvNklSSEc0TUwzRk1PTXVZTWlqOFJYVHVZcEZPR2RSUklrNkRhS0ZqVE9ndk54NnF3bVVBSFZzWTlXdw?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” - shobserver.com",
-    "title_original": "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” - shobserver.com",
+    "title_zh": "无人机非法狩猎，公审！ - news.66wz.com",
+    "title_original": "无人机非法狩猎，公审！ - news.66wz.com",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” shobserver.com",
+    "summary_zh": "无人机非法狩猎，公审！ news.66wz.com",
     "details_zh": [
-      "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” shobserver",
+      "无人机非法狩猎，公审！ news",
+      "66wz",
       "com"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
@@ -373,43 +684,45 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mZVdBS2lnR3JaU0YtUjVBN2E3VHVSdldxV2dCUHhhZnQ5VkFrclNyYU9LNTFFTkpKWnNCOHdFUE52WHc5MUJjRlE2S0h6SmhueEhhejZxcEJZeDFXaXc?oc=5",
-        "snippet": "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” shobserver.com"
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11WVBScGRTQjFaajRTVEphSlI4cU90UFktYzVWSTczNjc5TEhvNklSSEc0TUwzRk1PTXVZTWlqOFJYVHVZcEZPR2RSUklrNkRhS0ZqVE9ndk54NnF3bVVBSFZzWTlXdw?oc=5",
+        "snippet": "无人机非法狩猎，公审！ news.66wz.com"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "f20b1de94ed92f4a",
-    "title": "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ - 奥一网",
+    "id": "50e3c8a2850c1e7c",
+    "title": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 - voachinese.com",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ 奥一网",
+    "summary": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 voachinese.com",
     "details": [
-      "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ 奥一网"
+      "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 voachinese",
+      "com"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-18",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QZ1o3d043YTRSVmQ1Q3NYLTdKWUR3cnQ0clpiOHZFQXlLRFBGRm1WTG9ISWRjNjVTc2dxbk9RNlYzeXVPd0hGb01Cc3hobFpYOUdtSEwwTmN0Z1RnTmFjRy1yTnJsQQ?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnFPRmZ3OGdiRU54RnN1TW53amc5TzFGeDkxTDBxZ3liWElxZ3VRMm9OVEFXMWpFeDNqdFM4WExvTE1kaVVXbmtFZW9FbkxfekczazFrSHlMNHkwNEoyc3RlUnVKLVl6UmJYeHRWMjlCMW1DVnJWcVpsSlFaQ1hKcmx5UXpFTEo4N3JpS3JORG1FZGhuNmxFdEZ3enEzdk3SAaIBQVVfeXFMT1VXTTNqNzBBRFU3UEc2OXJvZ2pDR2ZFbVBYcFl6Q01KY290a3dGRXJvZjI2NXNHSS1ZUnpVdEl0elFIMUFZeFRPN1Z5WGp6d1pQQXBBTTluUExTa3U3cmlwTkxsNTFvdlYtZlltRW9qbU1tRE1QLWdTTlpjTmp2VjVheEFuZnROekpnUm9fcjlHQk9ZcUhLVE9rY2tvOHZudXRR?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ - 奥一网",
-    "title_original": "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ - 奥一网",
+    "title_zh": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 - voachinese.com",
+    "title_original": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 - voachinese.com",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ 奥一网",
+    "summary_zh": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 voachinese.com",
     "details_zh": [
-      "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ 奥一网"
+      "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 voachinese",
+      "com"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -418,411 +731,88 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QZ1o3d043YTRSVmQ1Q3NYLTdKWUR3cnQ0clpiOHZFQXlLRFBGRm1WTG9ISWRjNjVTc2dxbk9RNlYzeXVPd0hGb01Cc3hobFpYOUdtSEwwTmN0Z1RnTmFjRy1yTnJsQQ?oc=5",
-        "snippet": "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ 奥一网"
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnFPRmZ3OGdiRU54RnN1TW53amc5TzFGeDkxTDBxZ3liWElxZ3VRMm9OVEFXMWpFeDNqdFM4WExvTE1kaVVXbmtFZW9FbkxfekczazFrSHlMNHkwNEoyc3RlUnVKLVl6UmJYeHRWMjlCMW1DVnJWcVpsSlFaQ1hKcmx5UXpFTEo4N3JpS3JORG1FZGhuNmxFdEZ3enEzdk3SAaIBQVVfeXFMT1VXTTNqNzBBRFU3UEc2OXJvZ2pDR2ZFbVBYcFl6Q01KY290a3dGRXJvZjI2NXNHSS1ZUnpVdEl0elFIMUFZeFRPN1Z5WGp6d1pQQXBBTTluUExTa3U3cmlwTkxsNTFvdlYtZlltRW9qbU1tRE1QLWdTTlpjTmp2VjVheEFuZnROekpnUm9fcjlHQk9ZcUhLVE9rY2tvOHZudXRR?oc=5",
+        "snippet": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 voachinese.com"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "a6cc3db4b8cab1d0",
-    "title": "俄罗斯称一夜之间击落660架乌克兰无人机 - chinanews.com.cn",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "俄罗斯称一夜之间击落660架乌克兰无人机 chinanews.com.cn",
-    "details": [
-      "俄罗斯称一夜之间击落660架乌克兰无人机 chinanews",
-      "com",
-      "cn"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzQWt5a1ZRM3BpUVRiUDJYRlducExaUUtFUXN5TE9YMTlJUzB6MjhSOWVKMzJjUzJEcmVUc1pjWjN0TVpIemlaMDhBRHF2MUk0VlJkcUwxcDJWRXhXMk9HcGsySmdtNWNk?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "俄罗斯称一夜之间击落660架乌克兰无人机 - chinanews.com.cn",
-    "title_original": "俄罗斯称一夜之间击落660架乌克兰无人机 - chinanews.com.cn",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "俄罗斯称一夜之间击落660架乌克兰无人机 chinanews.com.cn",
-    "details_zh": [
-      "俄罗斯称一夜之间击落660架乌克兰无人机 chinanews",
-      "com",
-      "cn"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzQWt5a1ZRM3BpUVRiUDJYRlducExaUUtFUXN5TE9YMTlJUzB6MjhSOWVKMzJjUzJEcmVUc1pjWjN0TVpIemlaMDhBRHF2MUk0VlJkcUwxcDJWRXhXMk9HcGsySmdtNWNk?oc=5",
-        "snippet": "俄罗斯称一夜之间击落660架乌克兰无人机 chinanews.com.cn"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "93f03ae657de1975",
-    "title": "大疆影石竞争激烈 GoPro快被卷没了 - 驱动之家",
-    "brand": "DJI",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "大疆影石竞争激烈 GoPro快被卷没了 驱动之家",
-    "details": [
-      "大疆影石竞争激烈 GoPro快被卷没了 驱动之家"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hbTNWeVlhRXZ1a3M0UEFfQTJwcDR6aUpReHNxQmgxUV93YlZ2SjBZRnB2UmlnYV9lQnRDemdpVkdIZUNvemlPY1FuVGJkeXRWWHhvbGhjV0I?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "大疆影石竞争激烈 GoPro快被卷没了 - 驱动之家",
-    "title_original": "大疆影石竞争激烈 GoPro快被卷没了 - 驱动之家",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "大疆影石竞争激烈 GoPro快被卷没了 驱动之家",
-    "details_zh": [
-      "大疆影石竞争激烈 GoPro快被卷没了 驱动之家"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hbTNWeVlhRXZ1a3M0UEFfQTJwcDR6aUpReHNxQmgxUV93YlZ2SjBZRnB2UmlnYV9lQnRDemdpVkdIZUNvemlPY1FuVGJkeXRWWHhvbGhjV0I?oc=5",
-        "snippet": "大疆影石竞争激烈 GoPro快被卷没了 驱动之家"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "6c70976c59d2273a",
-    "title": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
-    "brand": "DJI",
+    "id": "0ad28e96a3abf4c6",
+    "title": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
+    "brand": "Insta360",
     "category": "hardware",
     "event_type": "行业趋势",
-    "summary": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+    "summary": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
     "details": [
-      "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+      "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
     ],
-    "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
     "threat_level": "medium",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-19",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": true,
-    "title_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
-    "title_original": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+    "title_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
+    "title_original": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+    "summary_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
     "details_zh": [
-      "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
-    ],
-    "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
-        "snippet": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "032b873d8cba46d8",
-    "title": "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 - 观点网",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 观点网",
-    "details": [
-      "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 观点网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hUFFfZzhMaTNKeEtOc3RRT19HU0wzZy1YSXR3ZGgwUTFMcHZZRV9kano4WHZrbXNFNEx1aTVIN0h2dkdrYmFfTHJ0dUJ4V1FhbVJKMGU0THFxM21fTzV0Zy13?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 - 观点网",
-    "title_original": "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 - 观点网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 观点网",
-    "details_zh": [
-      "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 观点网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hUFFfZzhMaTNKeEtOc3RRT19HU0wzZy1YSXR3ZGgwUTFMcHZZRV9kano4WHZrbXNFNEx1aTVIN0h2dkdrYmFfTHJ0dUJ4V1FhbVJKMGU0THFxM21fTzV0Zy13?oc=5",
-        "snippet": "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 观点网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "d46acf8f3200f7fc",
-    "title": "两月建成60座无人机机场，常州电网正式迈入全业务智能自主巡检新阶段 - 中国江苏网",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "两月建成60座无人机机场，常州电网正式迈入全业务智能自主巡检新阶段 中国江苏网",
-    "details": [
-      "两月建成60座无人机机场，常州电网正式迈入全业务智能自主巡检新阶段 中国江苏网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWxUVFhCeGxsMmpwU05aUlZxMklUTm4xZy1tSmNGb0pnRWhvdUtGaWotSDhidzgzWlR2MkQ4QXR5cWlVRXA0blRRV2hyOGxjOHJrcTUwTlBna3hvb3h6VkZNVlo3eHpvMXp4bTV0aUEta1dDaEZoc3lNcVJaS0RzSVU3S2VCeXpsMl9v?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "两月建成60座无人机机场，常州电网正式迈入全业务智能自主巡检新阶段 - 中国江苏网",
-    "title_original": "两月建成60座无人机机场，常州电网正式迈入全业务智能自主巡检新阶段 - 中国江苏网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "两月建成60座无人机机场，常州电网正式迈入全业务智能自主巡检新阶段 中国江苏网",
-    "details_zh": [
-      "两月建成60座无人机机场，常州电网正式迈入全业务智能自主巡检新阶段 中国江苏网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWxUVFhCeGxsMmpwU05aUlZxMklUTm4xZy1tSmNGb0pnRWhvdUtGaWotSDhidzgzWlR2MkQ4QXR5cWlVRXA0blRRV2hyOGxjOHJrcTUwTlBna3hvb3h6VkZNVlo3eHpvMXp4bTV0aUEta1dDaEZoc3lNcVJaS0RzSVU3S2VCeXpsMl9v?oc=5",
-        "snippet": "两月建成60座无人机机场，常州电网正式迈入全业务智能自主巡检新阶段 中国江苏网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "92f7eb89dad4e1a4",
-    "title": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ - 新浪财经",
-    "brand": "Insta360",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经",
-    "details": [
-      "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经"
-    ],
-    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmQySDR0eXZWVmFrV0NnNUpXV3UxczVtVkdkZEZjT21rd3Vlbk51bDQzcUtSY0hTRDlDV1BOOFdKVGFHdzczVjkwcEdKcWZSOFJEYVFuYlhjaHAwS3lOV1VnOWdETm9jZXJnaGtJb0E2OEctTVA5aGNLMkZ4VHBuZWF2R0Z1a0k?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ - 新浪财经",
-    "title_original": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ - 新浪财经",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经",
-    "details_zh": [
-      "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经"
+      "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
     ],
     "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
     "importance_score": 5,
     "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
+    "push_decision": "push",
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmQySDR0eXZWVmFrV0NnNUpXV3UxczVtVkdkZEZjT21rd3Vlbk51bDQzcUtSY0hTRDlDV1BOOFdKVGFHdzczVjkwcEdKcWZSOFJEYVFuYlhjaHAwS3lOV1VnOWdETm9jZXJnaGtJb0E2OEctTVA5aGNLMkZ4VHBuZWF2R0Z1a0k?oc=5",
-        "snippet": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经"
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
+        "snippet": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "e555514d529ff729",
-    "title": "蓝白联手封杀！台当局2100亿无人机采购案被挡下 - 凤凰网",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "蓝白联手封杀！台当局2100亿无人机采购案被挡下 凤凰网",
-    "details": [
-      "蓝白联手封杀！台当局2100亿无人机采购案被挡下 凤凰网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uTE9Xc0RRUUtWNl9fN1p4RFhUSmprT3hYbllCX0NxbnJpX1cta1dyN0hndE1qVENzQ1RDd3dMOXRWZ1ZZanI4RQ?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "蓝白联手封杀！台当局2100亿无人机采购案被挡下 - 凤凰网",
-    "title_original": "蓝白联手封杀！台当局2100亿无人机采购案被挡下 - 凤凰网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "蓝白联手封杀！台当局2100亿无人机采购案被挡下 凤凰网",
-    "details_zh": [
-      "蓝白联手封杀！台当局2100亿无人机采购案被挡下 凤凰网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uTE9Xc0RRUUtWNl9fN1p4RFhUSmprT3hYbllCX0NxbnJpX1cta1dyN0hndE1qVENzQ1RDd3dMOXRWZ1ZZanI4RQ?oc=5",
-        "snippet": "蓝白联手封杀！台当局2100亿无人机采购案被挡下 凤凰网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "db14eb152112f0bf",
-    "title": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） - 东方财富",
-    "brand": "Insta360",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） 东方财富",
-    "details": [
-      "大宗交易：影石创新成交1566",
-      "36万元，折价1",
-      "00%（6-26） 东方财富"
-    ],
-    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rSUQ2RTc2Q2c5VlY5WHhLVlRzdkNTamR6eEJFYjZmLVhWTklFQ3o3TGtuaS1oMnZ5Z01nVWkyWlBuN0h1dUhMaWlYVHBYZkNXWGQ2a2ZWM3VadlRkZmM3bEwtUQ?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） - 东方财富",
-    "title_original": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） - 东方财富",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） 东方财富",
-    "details_zh": [
-      "大宗交易：影石创新成交1566",
-      "36万元，折价1",
-      "00%（6-26） 东方财富"
-    ],
-    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rSUQ2RTc2Q2c5VlY5WHhLVlRzdkNTamR6eEJFYjZmLVhWTklFQ3o3TGtuaS1oMnZ5Z01nVWkyWlBuN0h1dUhMaWlYVHBYZkNXWGQ2a2ZWM3VadlRkZmM3bEwtUQ?oc=5",
-        "snippet": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） 东方财富"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "0889c086ad27db3f",
-    "title": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+    "id": "a7de6686028fbdad",
+    "title": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
     "brand": "DJI",
     "category": "hardware",
     "event_type": "行业趋势",
-    "summary": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网",
+    "summary": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
     "details": [
-      "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+      "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
     ],
     "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "threat_level": "medium",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-19",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzhkRVF3RTM5Xzl6dEdWR2NybkxsWVo5Wnczc3Jfdzh1OThsdzM1UWp2d3liMXJpbWFEa0lTaHF3OXlkbkxKbGY3Z19DWE4yYWVsWFdVc0FTZjNJY09kcnJ4SUdyN2Y2aEtwaUZwbFNxWFpoUXMtZkNqaGZlM2R6MnJqb2U5NU9MdWNodmV3UUhfMTdQ?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": true,
-    "title_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
-    "title_original": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+    "title_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
+    "title_original": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网",
+    "summary_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
     "details_zh": [
-      "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+      "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
     ],
     "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "importance_score": 5,
@@ -831,43 +821,90 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzhkRVF3RTM5Xzl6dEdWR2NybkxsWVo5Wnczc3Jfdzh1OThsdzM1UWp2d3liMXJpbWFEa0lTaHF3OXlkbkxKbGY3Z19DWE4yYWVsWFdVc0FTZjNJY09kcnJ4SUdyN2Y2aEtwaUZwbFNxWFpoUXMtZkNqaGZlM2R6MnJqb2U5NU9MdWNodmV3UUhfMTdQ?oc=5",
-        "snippet": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
+        "snippet": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "f563edce8394b65f",
-    "title": "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 - 光明网",
-    "brand": "Other",
+    "id": "e9524a1d263f6917",
+    "title": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” - 驱动之家",
+    "brand": "DJI",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 光明网",
+    "summary": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家",
     "details": [
-      "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 光明网"
+      "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-19",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uaE5GaENmR1BRR1B1Vk5Tb1ZDS1FlcWRxckRmUGRvUm5tQTRJdk84dHJzV0FLSENvU3hPQ01jNXVZLV8zdUdZd0prNkVqSzhhS0lpbE1DRFowTGY1dlFqRw?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vWnBJTXRlTzNEbTVOVFhFR3ZlbTdBZnJRTUp1UWRpbTRoMXpqVnc1bE5yTWotQlp6TExJTGU1Y2FHZTdUX0R1c1hIUW1fNnp1QzFnX0dEYWk?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 - 光明网",
-    "title_original": "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 - 光明网",
+    "title_zh": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” - 驱动之家",
+    "title_original": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” - 驱动之家",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 光明网",
+    "summary_zh": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家",
     "details_zh": [
-      "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 光明网"
+      "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vWnBJTXRlTzNEbTVOVFhFR3ZlbTdBZnJRTUp1UWRpbTRoMXpqVnc1bE5yTWotQlp6TExJTGU1Y2FHZTdUX0R1c1hIUW1fNnp1QzFnX0dEYWk?oc=5",
+        "snippet": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "7310256d2cc884f1",
+    "title": "台湾侦获首例涉及违反国安法，使用中国制零部件的国防无人机采购案 - voachinese.com",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "台湾侦获首例涉及违反国安法，使用中国制零部件的国防无人机采购案 voachinese.com",
+    "details": [
+      "台湾侦获首例涉及违反国安法，使用中国制零部件的国防无人机采购案 voachinese",
+      "com"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-18",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNajhIUlRvWkJFbDcxVTFsUWdscGlBVXRMcUwtSXRpX3RjeU1VT3JTYS1XeDhvSnRXSlFka2VuMjRFQkpOejdPZTQ0YXQyYjdOSXd3aVJmZXhOQkdnSF9RaVJzenowZFZkTlh1WTZnOWV0VHU1RktkVjhQZk43MDd2NWVHT21MVHBhTkVUS3FnZUJQUE5EUTYzaHoxaDVxcXJFVXh2MkQ0NkhVTndkRVlwdWExR1RRS3g0SXRVVV95UklzQ2ZkdXV0RTc5WUFZbzdzcnNQUNIB1wFBVV95cUxNSndkbzdCNFJpVFdmcWlNSjhsb1Vrc19OUGY0VEotd0JabExNdXc4eVJqYlJNdjJ2aVJSRGFLQ0FHOE1rUUI4aVBFQ0JIM0pxVGR3ZGx5d2E4THNob0JjajZ3bU9mdGd5c2Ryc0ZsXzgxV1Bkc0U0OVdSYXpzejRueU1YUmxjMDktMzlGY1dMS1lnNDNJekJqUDg1Y0FkOGZPeU5WY2J6Ujd5Y0NwZTdic1JsZXZ2VlUyWmpDQjhqdzBtM2YtcW9FYWkydzdtWUZTSFMzTkI2dw?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "台湾侦获首例涉及违反国安法，使用中国制零部件的国防无人机采购案 - voachinese.com",
+    "title_original": "台湾侦获首例涉及违反国安法，使用中国制零部件的国防无人机采购案 - voachinese.com",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "台湾侦获首例涉及违反国安法，使用中国制零部件的国防无人机采购案 voachinese.com",
+    "details_zh": [
+      "台湾侦获首例涉及违反国安法，使用中国制零部件的国防无人机采购案 voachinese",
+      "com"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -876,270 +913,43 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uaE5GaENmR1BRR1B1Vk5Tb1ZDS1FlcWRxckRmUGRvUm5tQTRJdk84dHJzV0FLSENvU3hPQ01jNXVZLV8zdUdZd0prNkVqSzhhS0lpbE1DRFowTGY1dlFqRw?oc=5",
-        "snippet": "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 光明网"
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNajhIUlRvWkJFbDcxVTFsUWdscGlBVXRMcUwtSXRpX3RjeU1VT3JTYS1XeDhvSnRXSlFka2VuMjRFQkpOejdPZTQ0YXQyYjdOSXd3aVJmZXhOQkdnSF9RaVJzenowZFZkTlh1WTZnOWV0VHU1RktkVjhQZk43MDd2NWVHT21MVHBhTkVUS3FnZUJQUE5EUTYzaHoxaDVxcXJFVXh2MkQ0NkhVTndkRVlwdWExR1RRS3g0SXRVVV95UklzQ2ZkdXV0RTc5WUFZbzdzcnNQUNIB1wFBVV95cUxNSndkbzdCNFJpVFdmcWlNSjhsb1Vrc19OUGY0VEotd0JabExNdXc4eVJqYlJNdjJ2aVJSRGFLQ0FHOE1rUUI4aVBFQ0JIM0pxVGR3ZGx5d2E4THNob0JjajZ3bU9mdGd5c2Ryc0ZsXzgxV1Bkc0U0OVdSYXpzejRueU1YUmxjMDktMzlGY1dMS1lnNDNJekJqUDg1Y0FkOGZPeU5WY2J6Ujd5Y0NwZTdic1JsZXZ2VlUyWmpDQjhqdzBtM2YtcW9FYWkydzdtWUZTSFMzTkI2dw?oc=5",
+        "snippet": "台湾侦获首例涉及违反国安法，使用中国制零部件的国防无人机采购案 voachinese.com"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "e5e016c2b9e59268",
-    "title": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
-    "brand": "DJI",
-    "category": "hardware",
-    "event_type": "行业趋势",
-    "summary": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻",
-    "details": [
-      "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
-    ],
-    "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "medium",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vclVqcmQ3TkRkZGRRS2xTSzdSeTZaWG12alBqMmlkWno4cnJpSXE1elluSmhja0R2VWp5MXRWYjloU0Z4RjVPTWc2ZjFBWDN3MjFjcUFVUDFuQk0?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
-    "title_original": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻",
-    "details_zh": [
-      "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
-    ],
-    "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vclVqcmQ3TkRkZGRRS2xTSzdSeTZaWG12alBqMmlkWno4cnJpSXE1elluSmhja0R2VWp5MXRWYjloU0Z4RjVPTWc2ZjFBWDN3MjFjcUFVUDFuQk0?oc=5",
-        "snippet": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "6d871067fdea5d58",
-    "title": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 - 证券之星",
-    "brand": "Insta360",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 证券之星",
-    "details": [
-      "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243",
-      "64万元_主力研究 证券之星"
-    ],
-    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yYzVxUFdiZ183OWRiMjZodFBMdGRINkdncDZWUmhabE5MbGx3NTdtREQzdjBRLTlFUVlsaXBJR2ZyOFZ5MHp3QzBrRnpxMElUYVhQTUc2MTREZDhXeDYxMnh3?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 - 证券之星",
-    "title_original": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 - 证券之星",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 证券之星",
-    "details_zh": [
-      "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243",
-      "64万元_主力研究 证券之星"
-    ],
-    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yYzVxUFdiZ183OWRiMjZodFBMdGRINkdncDZWUmhabE5MbGx3NTdtREQzdjBRLTlFUVlsaXBJR2ZyOFZ5MHp3QzBrRnpxMElUYVhQTUc2MTREZDhXeDYxMnh3?oc=5",
-        "snippet": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 证券之星"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "b8ec0a108bad1d2c",
-    "title": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 - 新浪财经",
-    "brand": "DJI",
-    "category": "hardware",
-    "event_type": "行业趋势",
-    "summary": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经",
-    "details": [
-      "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经"
-    ],
-    "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "medium",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHB3NE9COVN3ZE5wWG1YMkhBSThKVHY4VUd2OW55VVhmUVlTRUlIMGhjd040RmxOcGlmSDZ3Q0R6N0RXLU5oc2ZTSmp1dmJXWDlLTFBILTRQNzhsTndPbFRaaEkzYW56ajUyLVdzaUFuNTZ2cmJhRWRQYjE1YTkwUDl5WV80X1FDRG8xZ0NVU2lETG9Bb1dVN3Nid0ZCVzRsMm9mRHdsbw?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 - 新浪财经",
-    "title_original": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 - 新浪财经",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经",
-    "details_zh": [
-      "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经"
-    ],
-    "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHB3NE9COVN3ZE5wWG1YMkhBSThKVHY4VUd2OW55VVhmUVlTRUlIMGhjd040RmxOcGlmSDZ3Q0R6N0RXLU5oc2ZTSmp1dmJXWDlLTFBILTRQNzhsTndPbFRaaEkzYW56ajUyLVdzaUFuNTZ2cmJhRWRQYjE1YTkwUDl5WV80X1FDRG8xZ0NVU2lETG9Bb1dVN3Nid0ZCVzRsMm9mRHdsbw?oc=5",
-        "snippet": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "e41958eb6ddd99f5",
-    "title": "专利之外，影石与大疆角逐零售终端 - 新浪财经",
-    "brand": "DJI",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "专利之外，影石与大疆角逐零售终端 新浪财经",
-    "details": [
-      "专利之外，影石与大疆角逐零售终端 新浪财经"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-25",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2c2UldMRmV5dXFzRjJHaGw3TVc1XzQtb3hiRVFaNEFGWDZoOThQQTRBWFpTTy0zVWxfT1VxSGxRdTY5bmhYUEpRdU9JaUExaXpPT1p2aWdWUDhFZ01XZEhpdFlWQWVILVk4TFgxR1Z5NE5fNUdxYUp0LXZ0SURiQmZqc0puTWs?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "专利之外，影石与大疆角逐零售终端 - 新浪财经",
-    "title_original": "专利之外，影石与大疆角逐零售终端 - 新浪财经",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "专利之外，影石与大疆角逐零售终端 新浪财经",
-    "details_zh": [
-      "专利之外，影石与大疆角逐零售终端 新浪财经"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2c2UldMRmV5dXFzRjJHaGw3TVc1XzQtb3hiRVFaNEFGWDZoOThQQTRBWFpTTy0zVWxfT1VxSGxRdTY5bmhYUEpRdU9JaUExaXpPT1p2aWdWUDhFZ01XZEhpdFlWQWVILVk4TFgxR1Z5NE5fNUdxYUp0LXZ0SURiQmZqc0puTWs?oc=5",
-        "snippet": "专利之外，影石与大疆角逐零售终端 新浪财经"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "ac2834426537ab03",
-    "title": "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 - 搜狐网",
-    "brand": "DJI",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 搜狐网",
-    "details": [
-      "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 搜狐网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcGRPNkNiSkZLUEIwMTYxQkY3U3pfT2N4QXBlOHFBTHFoZ2dvWl91S0lhSzZ0dUI5SkNvX3NqS0FJcGVjOTVSa05xc3R1UjI4WVM3ZktOOW5rOGM1RnFaOVJ5MFpBOHEzTTBjR25Qc2JYVlI5a2tXazdMelNLOXlYNVc5Q2pzTjZsOWRn?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 - 搜狐网",
-    "title_original": "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 - 搜狐网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 搜狐网",
-    "details_zh": [
-      "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 搜狐网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcGRPNkNiSkZLUEIwMTYxQkY3U3pfT2N4QXBlOHFBTHFoZ2dvWl91S0lhSzZ0dUI5SkNvX3NqS0FJcGVjOTVSa05xc3R1UjI4WVM3ZktOOW5rOGM1RnFaOVJ5MFpBOHEzTTBjR25Qc2JYVlI5a2tXazdMelNLOXlYNVc5Q2pzTjZsOWRn?oc=5",
-        "snippet": "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 搜狐网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "83fa406961497584",
-    "title": "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 - 央广网",
+    "id": "d8f718e251225048",
+    "title": "“空中哨兵”上岗！ 赣州绕城高速无人机智慧巡检全面落地 - 赣州新闻",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 央广网",
+    "summary": "“空中哨兵”上岗！ 赣州绕城高速无人机智慧巡检全面落地 赣州新闻",
     "details": [
-      "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 央广网"
+      "“空中哨兵”上岗！ 赣州绕城高速无人机智慧巡检全面落地 赣州新闻"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-19",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxd2t4OXFPcDlZdGJ5SGNKdDNnRURBbDM2UGJ4dUxZTFNqSUVrSnlaUUVEbTduNmRVTVoyelRELVBvTjYxNThxWndaT2ZaRkJFRGowRDlCb216YUZsZHRlRmxXOVVWbVY1b2c?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPY1VpUDkzNXJGTWpBWF94SlR1aU5pdlZIekU4YVlWT2lRQWJiQmxJZHBWbngxbUEzbEdkM0RPcm1pb3FXSkhQLVdHZzdfVzBDY0NXZUsxTTYwTm13R0xHbzNqeWo0dWtzWFI3OQ?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 - 央广网",
-    "title_original": "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 - 央广网",
+    "title_zh": "“空中哨兵”上岗！ 赣州绕城高速无人机智慧巡检全面落地 - 赣州新闻",
+    "title_original": "“空中哨兵”上岗！ 赣州绕城高速无人机智慧巡检全面落地 - 赣州新闻",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 央广网",
+    "summary_zh": "“空中哨兵”上岗！ 赣州绕城高速无人机智慧巡检全面落地 赣州新闻",
     "details_zh": [
-      "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 央广网"
+      "“空中哨兵”上岗！ 赣州绕城高速无人机智慧巡检全面落地 赣州新闻"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -1148,88 +958,43 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxd2t4OXFPcDlZdGJ5SGNKdDNnRURBbDM2UGJ4dUxZTFNqSUVrSnlaUUVEbTduNmRVTVoyelRELVBvTjYxNThxWndaT2ZaRkJFRGowRDlCb216YUZsZHRlRmxXOVVWbVY1b2c?oc=5",
-        "snippet": "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 央广网"
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPY1VpUDkzNXJGTWpBWF94SlR1aU5pdlZIekU4YVlWT2lRQWJiQmxJZHBWbngxbUEzbEdkM0RPcm1pb3FXSkhQLVdHZzdfVzBDY0NXZUsxTTYwTm13R0xHbzNqeWo0dWtzWFI3OQ?oc=5",
+        "snippet": "“空中哨兵”上岗！ 赣州绕城高速无人机智慧巡检全面落地 赣州新闻"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "52566674a5dc08b3",
-    "title": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 - 新浪网",
-    "brand": "DJI",
-    "category": "hardware",
-    "event_type": "行业趋势",
-    "summary": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网",
-    "details": [
-      "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网"
-    ],
-    "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "medium",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGxlY094YlBRWVJlU3VyU0dGb2c2aDUzcVpxdUFkUzJ2UV9BMVRuWUpCckRoMXRHQzVQR2hISFZmUTlmd2N5eEQzX2VVdVdjVnNzcFJRU2ZRSHkzMTRxY0s4RFRteWEtaUE4UmdUUjJKQmdlQk41dFpiN29wYjFYQmE1TXpSelJiakx1T01UX0x2S0lKaWNyMWx2Q0JhSkMwU3BmNnZZSQ?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 - 新浪网",
-    "title_original": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 - 新浪网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网",
-    "details_zh": [
-      "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网"
-    ],
-    "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGxlY094YlBRWVJlU3VyU0dGb2c2aDUzcVpxdUFkUzJ2UV9BMVRuWUpCckRoMXRHQzVQR2hISFZmUTlmd2N5eEQzX2VVdVdjVnNzcFJRU2ZRSHkzMTRxY0s4RFRteWEtaUE4UmdUUjJKQmdlQk41dFpiN29wYjFYQmE1TXpSelJiakx1T01UX0x2S0lKaWNyMWx2Q0JhSkMwU3BmNnZZSQ?oc=5",
-        "snippet": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "1b21f49a39dd7756",
-    "title": "浙江大学研发机载AI控制系统无人机自主习得窄缝穿梭能力_车市动态 - 中金在线",
+    "id": "bd1e21e63cfc3780",
+    "title": "只需动动嘴，无人机就能起飞- 湖北日报新闻客户端 - 湖北日报传媒集团",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "浙江大学研发机载AI控制系统无人机自主习得窄缝穿梭能力_车市动态 中金在线",
+    "summary": "只需动动嘴，无人机就能起飞- 湖北日报新闻客户端 湖北日报传媒集团",
     "details": [
-      "浙江大学研发机载AI控制系统无人机自主习得窄缝穿梭能力_车市动态 中金在线"
+      "只需动动嘴，无人机就能起飞- 湖北日报新闻客户端 湖北日报传媒集团"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-18",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xVkVsNEpnX01rTU95OHhlX3IyYW9qdU5SbGl2czVXbWwxdFlXa1ZGN0VRQjlWbFdHelkzQ0JTaXlmMWMxTGVfdUJOTS1rRVAtbldMbHFYRU55X2h4emxjaGNCNl9acjRJTENV?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11UndDV0o4Tkt3QjlRQ0I0cF8tSnJtLVJhdjJiSGgzVUw3NWc5b2dpblE4M0ZkTVhpN3ZXTUhDbVJNWDVzUi1rMlZMWVpudkxMQV9hdEdNSXo?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "浙江大学研发机载AI控制系统无人机自主习得窄缝穿梭能力_车市动态 - 中金在线",
-    "title_original": "浙江大学研发机载AI控制系统无人机自主习得窄缝穿梭能力_车市动态 - 中金在线",
+    "title_zh": "只需动动嘴，无人机就能起飞- 湖北日报新闻客户端 - 湖北日报传媒集团",
+    "title_original": "只需动动嘴，无人机就能起飞- 湖北日报新闻客户端 - 湖北日报传媒集团",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "浙江大学研发机载AI控制系统无人机自主习得窄缝穿梭能力_车市动态 中金在线",
+    "summary_zh": "只需动动嘴，无人机就能起飞- 湖北日报新闻客户端 湖北日报传媒集团",
     "details_zh": [
-      "浙江大学研发机载AI控制系统无人机自主习得窄缝穿梭能力_车市动态 中金在线"
+      "只需动动嘴，无人机就能起飞- 湖北日报新闻客户端 湖北日报传媒集团"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -1238,88 +1003,43 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xVkVsNEpnX01rTU95OHhlX3IyYW9qdU5SbGl2czVXbWwxdFlXa1ZGN0VRQjlWbFdHelkzQ0JTaXlmMWMxTGVfdUJOTS1rRVAtbldMbHFYRU55X2h4emxjaGNCNl9acjRJTENV?oc=5",
-        "snippet": "浙江大学研发机载AI控制系统无人机自主习得窄缝穿梭能力_车市动态 中金在线"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11UndDV0o4Tkt3QjlRQ0I0cF8tSnJtLVJhdjJiSGgzVUw3NWc5b2dpblE4M0ZkTVhpN3ZXTUhDbVJNWDVzUi1rMlZMWVpudkxMQV9hdEdNSXo?oc=5",
+        "snippet": "只需动动嘴，无人机就能起飞- 湖北日报新闻客户端 湖北日报传媒集团"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "1d4eaf297f832aab",
-    "title": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪财经",
-    "brand": "DJI",
-    "category": "hardware",
-    "event_type": "行业趋势",
-    "summary": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经",
-    "details": [
-      "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经"
-    ],
-    "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "medium",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-06-26",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sVUtMYTZIWmlfRTE2blZXMUV1U0tQNUhvejVEdUVHMGR4bzA3REFNY0w5SDZQUURRV3c1NnNUOFlPeEMtYU1sNTExU3FjNTR1ZFloV1VQZzJYTmdXcjIwcDlJeWxPaW1mc0E4Yy1DUTljRWU3ZmZTamMwdWphNlk?oc=5",
-    "week_tag": "2026-W26",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪财经",
-    "title_original": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪财经",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经",
-    "details_zh": [
-      "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经"
-    ],
-    "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sVUtMYTZIWmlfRTE2blZXMUV1U0tQNUhvejVEdUVHMGR4bzA3REFNY0w5SDZQUURRV3c1NnNUOFlPeEMtYU1sNTExU3FjNTR1ZFloV1VQZzJYTmdXcjIwcDlJeWxPaW1mc0E4Yy1DUTljRWU3ZmZTamMwdWphNlk?oc=5",
-        "snippet": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
-    "is_new": true
-  },
-  {
-    "id": "c5cbf6df135222db",
-    "title": "大疆独家回应：警方对“黄牛”采取刑事强制措施 - 搜狐网",
+    "id": "8db93912d09a3d42",
+    "title": "大疆无人机两次送修均“检测正常” 可每次维修后回来都添点新毛病 - 搜狐网",
     "brand": "DJI",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "大疆独家回应：警方对“黄牛”采取刑事强制措施 搜狐网",
+    "summary": "大疆无人机两次送修均“检测正常” 可每次维修后回来都添点新毛病 搜狐网",
     "details": [
-      "大疆独家回应：警方对“黄牛”采取刑事强制措施 搜狐网"
+      "大疆无人机两次送修均“检测正常” 可每次维修后回来都添点新毛病 搜狐网"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-19",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazRYT2JJWU9IU2lySjdScl90STBjN2NiX2NIZ0hZSE9fbzg1Nkw5d1JFTkNKZ1p6aURnTHkxVjhCang3T0I3emJYN2FhaWgybmJXYlhwSGdUSHM3THVqQkdiWDkxeTRRUm93UGE4SWhVTERxMUFFU3VmU3RfR0FXMWQ2bHN5bkVt?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEpFcS1QM2d4RVhkUXJMYnI0bHhwUW91UmtnMkt4VEh5QjROSm5SY1R5YXR2NFI5THQwa3JZUWNmdG4ycVVqMW5lWEQwcTZ1MVN1MUZicm5tb29MaGwxRHVDQ0tWeFZ4Sm9mbmV6R1dhc0F1Zlc0X2dKMXJfc2pmelVVUUZkdDN3ZWJXcA?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "大疆独家回应：警方对“黄牛”采取刑事强制措施 - 搜狐网",
-    "title_original": "大疆独家回应：警方对“黄牛”采取刑事强制措施 - 搜狐网",
+    "title_zh": "大疆无人机两次送修均“检测正常” 可每次维修后回来都添点新毛病 - 搜狐网",
+    "title_original": "大疆无人机两次送修均“检测正常” 可每次维修后回来都添点新毛病 - 搜狐网",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "大疆独家回应：警方对“黄牛”采取刑事强制措施 搜狐网",
+    "summary_zh": "大疆无人机两次送修均“检测正常” 可每次维修后回来都添点新毛病 搜狐网",
     "details_zh": [
-      "大疆独家回应：警方对“黄牛”采取刑事强制措施 搜狐网"
+      "大疆无人机两次送修均“检测正常” 可每次维修后回来都添点新毛病 搜狐网"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 5,
@@ -1328,43 +1048,45 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazRYT2JJWU9IU2lySjdScl90STBjN2NiX2NIZ0hZSE9fbzg1Nkw5d1JFTkNKZ1p6aURnTHkxVjhCang3T0I3emJYN2FhaWgybmJXYlhwSGdUSHM3THVqQkdiWDkxeTRRUm93UGE4SWhVTERxMUFFU3VmU3RfR0FXMWQ2bHN5bkVt?oc=5",
-        "snippet": "大疆独家回应：警方对“黄牛”采取刑事强制措施 搜狐网"
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEpFcS1QM2d4RVhkUXJMYnI0bHhwUW91UmtnMkt4VEh5QjROSm5SY1R5YXR2NFI5THQwa3JZUWNmdG4ycVVqMW5lWEQwcTZ1MVN1MUZicm5tb29MaGwxRHVDQ0tWeFZ4Sm9mbmV6R1dhc0F1Zlc0X2dKMXJfc2pmelVVUUZkdDN3ZWJXcA?oc=5",
+        "snippet": "大疆无人机两次送修均“检测正常” 可每次维修后回来都添点新毛病 搜狐网"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   },
   {
-    "id": "f086f2d8f312108a",
-    "title": "韩国防部：将培训50万名“无人机战士”应对朝鲜 - 联合早报",
+    "id": "9801fe8037b986ab",
+    "title": "俄罗斯导弹袭击乌克兰村庄造成10人死亡，基辅对莫斯科地区发动大规模无人机袭击 - voachinese.com",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "韩国防部：将培训50万名“无人机战士”应对朝鲜 联合早报",
+    "summary": "俄罗斯导弹袭击乌克兰村庄造成10人死亡，基辅对莫斯科地区发动大规模无人机袭击 voachinese.com",
     "details": [
-      "韩国防部：将培训50万名“无人机战士”应对朝鲜 联合早报"
+      "俄罗斯导弹袭击乌克兰村庄造成10人死亡，基辅对莫斯科地区发动大规模无人机袭击 voachinese",
+      "com"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-06-26",
+    "published_at": "2026-08-18",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QbzhFNlhNYkpsSy1qVXRUQ0dpd285QnNienpmUWpXZ3haY0hvVGZla2dzWllNQWFpeU1la2FaMnZYRG5wc0x3SDhoaVFNLWlQNl9ZVUpSRy1VNl9CUU1kX3hxWGJobk93cnc?oc=5",
-    "week_tag": "2026-W26",
+    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV2xMYVlvVm4tZElGN2htNWswNEQySnVLeVVpWnhPV1E0ZmpSelBZV09jMlBNUWV5RF9qbS1udk1rbi04QTY1aVV0ajA4Qk00b2RsVUg2SklrNW1CbU80d1lMMV8ySUtEZHoyRjlWN0VFUXJtOXZCcUgwZkthQTYxS3ZPazdOR25UMGpzcW56Uk16YVlwM2dIQXFKSHFiZlZ1R3FPLUhudmsxZTdCU0RzVHhtSEpVbW9jM0FhNmV6OWV4dWtLQkVfOGFoRklRVXMtbnNNWUZ3RmNWZkR5UjlzVFVQaTJpTl9SSDZqSNIB7wFBVV95cUxPOVhMTDREcjJQcFZiSTJNNV92ZkRaZnRHV29GblZaMW9VTEhaTHhZSFF2RTNZQk1XdHZlaXVZUHRlU0pQQmJseVlZMjhTWGhaV2lzeUVIVEhBX3BIczhXT05TSUxkbVZUeUdELTNxc2ViQk9ZTWRxaXpBZjB4Yzc2c1lteUFGUlQxRUJhaThqekhYOWhvZnJXb2N2b1N0Y3d1dFZyRFk4TTgtbTA0QU43X2VNaFIteVRJR1FFYS1WQ3ZkQUpxNmxCZGQ5OUVWckZ5QzdQNDIwZG56ekotNkRuejRMcmNGVkQwVVkxcFRwWQ?oc=5",
+    "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "韩国防部：将培训50万名“无人机战士”应对朝鲜 - 联合早报",
-    "title_original": "韩国防部：将培训50万名“无人机战士”应对朝鲜 - 联合早报",
+    "title_zh": "俄罗斯导弹袭击乌克兰村庄造成10人死亡，基辅对莫斯科地区发动大规模无人机袭击 - voachinese.com",
+    "title_original": "俄罗斯导弹袭击乌克兰村庄造成10人死亡，基辅对莫斯科地区发动大规模无人机袭击 - voachinese.com",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "韩国防部：将培训50万名“无人机战士”应对朝鲜 联合早报",
+    "summary_zh": "俄罗斯导弹袭击乌克兰村庄造成10人死亡，基辅对莫斯科地区发动大规模无人机袭击 voachinese.com",
     "details_zh": [
-      "韩国防部：将培训50万名“无人机战士”应对朝鲜 联合早报"
+      "俄罗斯导弹袭击乌克兰村庄造成10人死亡，基辅对莫斯科地区发动大规模无人机袭击 voachinese",
+      "com"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -1373,12 +1095,286 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QbzhFNlhNYkpsSy1qVXRUQ0dpd285QnNienpmUWpXZ3haY0hvVGZla2dzWllNQWFpeU1la2FaMnZYRG5wc0x3SDhoaVFNLWlQNl9ZVUpSRy1VNl9CUU1kX3hxWGJobk93cnc?oc=5",
-        "snippet": "韩国防部：将培训50万名“无人机战士”应对朝鲜 联合早报"
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV2xMYVlvVm4tZElGN2htNWswNEQySnVLeVVpWnhPV1E0ZmpSelBZV09jMlBNUWV5RF9qbS1udk1rbi04QTY1aVV0ajA4Qk00b2RsVUg2SklrNW1CbU80d1lMMV8ySUtEZHoyRjlWN0VFUXJtOXZCcUgwZkthQTYxS3ZPazdOR25UMGpzcW56Uk16YVlwM2dIQXFKSHFiZlZ1R3FPLUhudmsxZTdCU0RzVHhtSEpVbW9jM0FhNmV6OWV4dWtLQkVfOGFoRklRVXMtbnNNWUZ3RmNWZkR5UjlzVFVQaTJpTl9SSDZqSNIB7wFBVV95cUxPOVhMTDREcjJQcFZiSTJNNV92ZkRaZnRHV29GblZaMW9VTEhaTHhZSFF2RTNZQk1XdHZlaXVZUHRlU0pQQmJseVlZMjhTWGhaV2lzeUVIVEhBX3BIczhXT05TSUxkbVZUeUdELTNxc2ViQk9ZTWRxaXpBZjB4Yzc2c1lteUFGUlQxRUJhaThqekhYOWhvZnJXb2N2b1N0Y3d1dFZyRFk4TTgtbTA0QU43X2VNaFIteVRJR1FFYS1WQ3ZkQUpxNmxCZGQ5OUVWckZ5QzdQNDIwZG56ekotNkRuejRMcmNGVkQwVVkxcFRwWQ?oc=5",
+        "snippet": "俄罗斯导弹袭击乌克兰村庄造成10人死亡，基辅对莫斯科地区发动大规模无人机袭击 voachinese.com"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-06-26T12:32:08.629621+00:00",
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "fa5ee7820e75d525",
+    "title": "赖清德想以无人机决胜？ - 风闻",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "赖清德想以无人机决胜？ 风闻",
+    "details": [
+      "赖清德想以无人机决胜？ 风闻"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEVEpKc0cyaWtOdFY2bmpiNGptMlJ2cGNqTmZPMDVqbEFwOUFVWXBxYWJJTC1NY0dudWNDR1hiRWlSUklvNTRGeFBHd0dUcDRheUp4ZDRsYjJ4alE?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "赖清德想以无人机决胜？ - 风闻",
+    "title_original": "赖清德想以无人机决胜？ - 风闻",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "赖清德想以无人机决胜？ 风闻",
+    "details_zh": [
+      "赖清德想以无人机决胜？ 风闻"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEVEpKc0cyaWtOdFY2bmpiNGptMlJ2cGNqTmZPMDVqbEFwOUFVWXBxYWJJTC1NY0dudWNDR1hiRWlSUklvNTRGeFBHd0dUcDRheUp4ZDRsYjJ4alE?oc=5",
+        "snippet": "赖清德想以无人机决胜？ 风闻"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "9d9c5774f9e765b9",
+    "title": "无人机天上巡、志愿者地上走、皮影戏里学，渝水区防溺水“上天入地”全包围 - 凤凰网江西",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "无人机天上巡、志愿者地上走、皮影戏里学，渝水区防溺水“上天入地”全包围 凤凰网江西",
+    "details": [
+      "无人机天上巡、志愿者地上走、皮影戏里学，渝水区防溺水“上天入地”全包围 凤凰网江西"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDSlVobXdPZEhpM0MtMFpBNWVwU3RMek5aVHZyTGxFWE1zYXAyLWVqdWViWDFQMHJWdi15RnI5UzBaYXI1eHQxbHVn?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "无人机天上巡、志愿者地上走、皮影戏里学，渝水区防溺水“上天入地”全包围 - 凤凰网江西",
+    "title_original": "无人机天上巡、志愿者地上走、皮影戏里学，渝水区防溺水“上天入地”全包围 - 凤凰网江西",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "无人机天上巡、志愿者地上走、皮影戏里学，渝水区防溺水“上天入地”全包围 凤凰网江西",
+    "details_zh": [
+      "无人机天上巡、志愿者地上走、皮影戏里学，渝水区防溺水“上天入地”全包围 凤凰网江西"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDSlVobXdPZEhpM0MtMFpBNWVwU3RMek5aVHZyTGxFWE1zYXAyLWVqdWViWDFQMHJWdi15RnI5UzBaYXI1eHQxbHVn?oc=5",
+        "snippet": "无人机天上巡、志愿者地上走、皮影戏里学，渝水区防溺水“上天入地”全包围 凤凰网江西"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "0a6ea112eaa9d118",
+    "title": "一夜拦截822架无人机，俄罗斯被逼无奈，只能互相伤害 - 凤凰网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "一夜拦截822架无人机，俄罗斯被逼无奈，只能互相伤害 凤凰网",
+    "details": [
+      "一夜拦截822架无人机，俄罗斯被逼无奈，只能互相伤害 凤凰网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0cW9VTDRJb0tKbGpiU0tSelJCUDU3NXlRNXV0eEZFNEM3aEJ2RHNQS0JiZV9NdnVSYWNKSEROUElyMVpxQjYyUkpXelA?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "一夜拦截822架无人机，俄罗斯被逼无奈，只能互相伤害 - 凤凰网",
+    "title_original": "一夜拦截822架无人机，俄罗斯被逼无奈，只能互相伤害 - 凤凰网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "一夜拦截822架无人机，俄罗斯被逼无奈，只能互相伤害 凤凰网",
+    "details_zh": [
+      "一夜拦截822架无人机，俄罗斯被逼无奈，只能互相伤害 凤凰网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0cW9VTDRJb0tKbGpiU0tSelJCUDU3NXlRNXV0eEZFNEM3aEJ2RHNQS0JiZV9NdnVSYWNKSEROUElyMVpxQjYyUkpXelA?oc=5",
+        "snippet": "一夜拦截822架无人机，俄罗斯被逼无奈，只能互相伤害 凤凰网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "142e2b9b7cc04c76",
+    "title": "中无人机(688297.SH)：2026年中报净利润为5492.56万元、同比较去年同期上涨72.87% - 东方财富",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "中无人机(688297.SH)：2026年中报净利润为5492.56万元、同比较去年同期上涨72.87% 东方财富",
+    "details": [
+      "中无人机(688297",
+      "SH)：2026年中报净利润为5492",
+      "56万元、同比较去年同期上涨72"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sOFJOVmFEZE1OWWlkc1pGblBuSnd5T2Z6ZTBDYUdWSWU5WXoweXh0RXhERloyblR6aXplVWE2VzUxOC1XTEt3QjBEcFJzd3VaSFN5ZnpUcW9YNXFBdUU5X3B4cnpEQQ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "中无人机(688297.SH)：2026年中报净利润为5492.56万元、同比较去年同期上涨72.87% - 东方财富",
+    "title_original": "中无人机(688297.SH)：2026年中报净利润为5492.56万元、同比较去年同期上涨72.87% - 东方财富",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "中无人机(688297.SH)：2026年中报净利润为5492.56万元、同比较去年同期上涨72.87% 东方财富",
+    "details_zh": [
+      "中无人机(688297",
+      "SH)：2026年中报净利润为5492",
+      "56万元、同比较去年同期上涨72"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sOFJOVmFEZE1OWWlkc1pGblBuSnd5T2Z6ZTBDYUdWSWU5WXoweXh0RXhERloyblR6aXplVWE2VzUxOC1XTEt3QjBEcFJzd3VaSFN5ZnpUcW9YNXFBdUU5X3B4cnpEQQ?oc=5",
+        "snippet": "中无人机(688297.SH)：2026年中报净利润为5492.56万元、同比较去年同期上涨72.87% 东方财富"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "a5a7dc49a3a14a47",
+    "title": "守护农业蓝天，共筑飞行安全 —— 武胜县沿口镇长伸沟村农业无人机法治困境报道 - 中华网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "守护农业蓝天，共筑飞行安全 —— 武胜县沿口镇长伸沟村农业无人机法治困境报道 中华网",
+    "details": [
+      "守护农业蓝天，共筑飞行安全 —— 武胜县沿口镇长伸沟村农业无人机法治困境报道 中华网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-19",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zbEx1bVh4MmZ2T0Q0bEVjM2FxVW1VX2VTYWxzaXlwQ2xnUm9tSTVweHBOUlliTWJUbGxtRVZvMXpGdDg2WXBrdkYybkJpVjE1MnpyTEtHS2VGZXFIVVE?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "守护农业蓝天，共筑飞行安全 —— 武胜县沿口镇长伸沟村农业无人机法治困境报道 - 中华网",
+    "title_original": "守护农业蓝天，共筑飞行安全 —— 武胜县沿口镇长伸沟村农业无人机法治困境报道 - 中华网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "守护农业蓝天，共筑飞行安全 —— 武胜县沿口镇长伸沟村农业无人机法治困境报道 中华网",
+    "details_zh": [
+      "守护农业蓝天，共筑飞行安全 —— 武胜县沿口镇长伸沟村农业无人机法治困境报道 中华网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zbEx1bVh4MmZ2T0Q0bEVjM2FxVW1VX2VTYWxzaXlwQ2xnUm9tSTVweHBOUlliTWJUbGxtRVZvMXpGdDg2WXBrdkYybkJpVjE1MnpyTEtHS2VGZXFIVVE?oc=5",
+        "snippet": "守护农业蓝天，共筑飞行安全 —— 武胜县沿口镇长伸沟村农业无人机法治困境报道 中华网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
+    "is_new": true
+  },
+  {
+    "id": "34a2285e0078329f",
+    "title": "美媒揭秘：重创俄军的乌无人机，竟出自一位90后家具设计师之手 - 凤凰网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "美媒揭秘：重创俄军的乌无人机，竟出自一位90后家具设计师之手 凤凰网",
+    "details": [
+      "美媒揭秘：重创俄军的乌无人机，竟出自一位90后家具设计师之手 凤凰网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-18",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XbklGLVE0aHVwRXRtbFhEYlBTYnhmUy1faHd3djJoTUVuTWRLNjlIaDloLWs1b0ZuWGV6cUZkdzlieERFbTJTZ0ZZTWk?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "美媒揭秘：重创俄军的乌无人机，竟出自一位90后家具设计师之手 - 凤凰网",
+    "title_original": "美媒揭秘：重创俄军的乌无人机，竟出自一位90后家具设计师之手 - 凤凰网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "美媒揭秘：重创俄军的乌无人机，竟出自一位90后家具设计师之手 凤凰网",
+    "details_zh": [
+      "美媒揭秘：重创俄军的乌无人机，竟出自一位90后家具设计师之手 凤凰网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XbklGLVE0aHVwRXRtbFhEYlBTYnhmUy1faHd3djJoTUVuTWRLNjlIaDloLWs1b0ZuWGV6cUZkdzlieERFbTJTZ0ZZTWk?oc=5",
+        "snippet": "美媒揭秘：重创俄军的乌无人机，竟出自一位90后家具设计师之手 凤凰网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-19T10:57:17.402169+00:00",
     "is_new": true
   }
 ]

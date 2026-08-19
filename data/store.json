@@ -1590,6 +1590,666 @@
           "evidence_count": 1
         }
       ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/991/783.htm": {
+      "event_id": "7696a9d8a51d41b6",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/991/770.htm": {
+      "event_id": "1fef92feece6a690",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "DJI",
+      "title_zh": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/991/726.htm": {
+      "event_id": "aecfb0f85b296c5b",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "联想 ThinkBook Plus G7 翻转触控笔记本国行发售：酷睿 Ultra X7-358H 配电动转轴，首发 18999 元",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiywfbvv95cuxnaedrefbwz0hnz0e0q1dnx0datzr1exzhwk9nnwnmywnon0toovpwzmj4rujjzurun3j3nvnvughgzwnxmldjck54lwxirtfhmwhinlznellrtwloazzkntzrwnllq04zx0lqy0o1svawmxy0d2dlcth0wjv1slzxuxjardc1ym5ftzlteffxunrrcg9nslo2btnyr2zdekc4y2zerdbdr2nwc0houwvetha3ofc3vwrlrfrenmk0ywg1zjdjq0l4ylvlyw?oc=5": {
+      "event_id": "191a1e78449763de",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "台湾军方演练乌克兰FPV无人机战术 - voachinese.com",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmimafbvv95cuxqrgdvs0w5oee4tgxyuhp1dlvjwutwsnaxquzdy2wtdc1nnjq3nws4sflwouozd2lfc1hlx2lkcgdud3qxrk81zwpllwjrnkvwwlftwwn1q2rtswjwumzlvwjaneqwwhrowhzhefm5bgzstuxkbdjoqwfarlnxy21duktgtkjmbfvvwi1vsk10utzrdey5s3hfyq?oc=5": {
+      "event_id": "0403297d0bd12dc6",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "暑期爆火的运动相机：买就吃灰，租才真香 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiykfvx3lxte4xaux5aurru2vmvezpdjjdcm5tbhr5ykhlbwzuuxlotzr6bnfob0hxuudlevfjsdzzuklxvnlvbjzgwc1rczq0owhnbjhwaddvahlzbjy0oghuznlgvhg3a2hn?oc=5": {
+      "event_id": "1938b60308dbabdc",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Insta360",
+      "title_zh": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmixkfvx3lxte8wckjfwnhrcwvhs1i3r3jcoeryrwnpwxfpt0dwx2dnck5uugvpoujfyvjual93x1dlqxk0uuret1ktndayvzfirs1eqvpmrnp6wjn4mwkxadzfvtawamc?oc=5": {
+      "event_id": "9e289cee0745f501",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "乌称俄军无人机袭击赫尔松市一辆公交车，致4死5伤 - 京报网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmibefvx3lxtfbdouhadkc4sxz3dhgyykr6bwytskjmn25gylhky3pjty1lcvpvauu4effvc0hhrnvnx0rtcnrtuvbdy05ltudfwuf1dnzlulhksnzzshjtazu2efl4rnbmuermoe1mdwnpbvc1sq?oc=5": {
+      "event_id": "61fb6405a2fc4792",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "“丝绸之路万里行·多彩非洲”无人机光影秀在坦桑尼亚成功举办--国际 - 人民网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiyefvx3lxte4xx3nyazvvbklyzzzhoviywe9vbuxvbwdjrve3ednsym0xre1ks2yzeeliswtsthjovvnhbzjkuw1uyk0zadk0yxkxsmtmnerun1ralw5ezmdslxlfnvbqlq?oc=5": {
+      "event_id": "d6edbd6bab3a34ec",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "DJI",
+      "title_zh": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 - 东方财富",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiwefvx3lxte5vuvptzjj1rtbrq213v2jqrtjnre9iq0nzrelumefqbzfpt2ttzgrsn1pqmgtom3l1n1lwuhjqv3rttva4x29makvyblj2x1fwzmhwnw9tahe?oc=5": {
+      "event_id": "4ae90e8a7ffb8fb3",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "DJI",
+      "title_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmivkfvx3lxte51defnmxpddus2lwdvmfbxcmvenjzjx3virzhcqnpccmd2yvntmxjpbevmslfpnewwu2jlwxbqnfjqslgxwvmtt2vtyxzac3jjevfkzmzn?oc=5": {
+      "event_id": "b684b4bdb3f6dfaf",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "“续航大考”，氢能无人机全面碾压锂电 - 中国产业发展促进会氢能分会",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmisefvx3lxtfb1czjfruxlbu1sy1jhetv2ehvuc0rivnzoejz2vkfiogteymiybut3dddoluvom2g0vjdvb0ztzgrnx2jssu9zqq?oc=5": {
+      "event_id": "1f8580f2315d1228",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行 - 财联社",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmidkfvx3lxtfa3wurxynrhmu9xc0xuntjhdnnpb1fwy2vwemvfn1dfqlrqvfrkqxdrbfrydvrnq25goeznd2dkdlpwbkvmnedautrmegl4a0trv01mam5uy3r0qy1ozmk3ugtuumnmuxj3bwp6aza0d3cwwtnoove?oc=5": {
+      "event_id": "a2b5c9f58eabe648",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "俄外长警告：英国无人机参与对俄打击将视为参战 - 新浪新闻_手机新浪网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmis0fvx3lxte84thhuafv0c25om3g4mvdrehlznhuyvxzalue2a3rkmfh4zzv1ueg2cdvmem1kbxhjm0ffmkvmme5fz2owwge1mgvltq?oc=5": {
+      "event_id": "7b7297bf6a4b9761",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "本土空袭倒逼战力升级：俄罗斯无人机攻防体系的全面重塑 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmizkfvx3lxte11wvbscgrtqjfaajrtvephsli4cu90ufktyzvwstcznjc5tehvnklssec0tuwzrk1ptxvztwlqofjyvhvzcezpr2rsuklrnkrhs0zqve9ndk54nnf3bvvbsfzzwtlxdw?oc=5": {
+      "event_id": "ee5b5dabd7d8693f",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "无人机非法狩猎，公审！ - news.66wz.com",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbminwfbvv95cuxprnfprmz3ogdiru54rnn1tw53amc5tzfgedkxtdbxz3liwelxz3vrmm9ovefxmwpfednqdfm4wexvte1kavvxbmtfzw9fbkxfekczazfrshlmnhkwneoyc3rlunvklvl6umjyehrwmjlcmw1dvnjwcvpsslfaq1hkcmx5uxpfteo4n3jps3jorg1fzghunmxfdez3enezdk3saaibqvvfexfmt1vxttnqnzbbrfu3uec2oxjvz2pdr2zfbvbycfl6q01ky290a3dgrxjvzji2nxnhss1zunpvdel0elfimufzefrpn1z5wgp6d1pqqxbbttluuexta3u3cmlwtkxsntfvdlytzlltrw9qbu1tre1qlwdttlpjtmp2vjvheefuznroekpnum9fcjlhqk9zcuhlve9ry2tvohzudxrr?oc=5": {
+      "event_id": "50e3c8a2850c1e7c",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 - voachinese.com",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmif0fvx3lxte84owi0s0jwt05outdawlnqvu1zvmvmuji2rez6cdvevdjlyzntoepkqtrssnnouduza1buzxp0u1jiwkztv1hkq20wlwfzmkduwwt6new0mki4cg5vugc2mxzzbenqvutpdjv5ae02bhltvy12mmmza1frsxjgsza?oc=5": {
+      "event_id": "0ad28e96a3abf4c6",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Insta360",
+      "title_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmivefvx3lxte1nu0oxzuvnvjnheev5bjd3x05hdm12luhgdxridvvim1zeqmniay1xukhgafoxywdpcu1sodhgcwzgz3dqc0vom3vtcfnzazhjv3z5dq?oc=5": {
+      "event_id": "a7de6686028fbdad",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiwefvx3lxte9vwnbjtxrltznebtvovfhfr3zlbtdbznjrtup1uwrpbtromxpqvnc1be5ytwotqlp6texjtgu1y2fhztdux0r1c1hiuw1fnnp1qzfnx0deywk?oc=5": {
+      "event_id": "e9524a1d263f6917",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "DJI",
+      "title_zh": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” - 驱动之家",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmi1afbvv95cuxnajhiulrvwkjfbdcxvtfsuwdscglbvxrmcuwtsxrpx3rjeu1vt3jtys1xedhvsnrxslfka2vumjrfqkpoejdpztq0yxqyyjdosxd3avjmzxhoqkdnsf9ravjzenowzfzktlh1wtznowv0vhu1rktkvjhqzk43mdd2nwvht21mvhbhtkvus3fnzujque5eutyzahoxadvxcxjfvxh2mkq0nkhvtndkrvlwdwexr1rrs3g0sxrvvv95uklzq2zkdxv0rtc5wufzbzdzcnnqunib1wfbvv95cuxnsndkbzdcnfjpvfdmcwlnsjhsb1vrc19ougy0veotd0jabexndxc4evjqyljndjj2avjsrgflq0fhoe1ruui4avbfq0jim0pxvgr3zgx5d2e4thnob0jjajz3bu9mdgd5c2ryc0zsxzgxv1bkc0u0ovdsyxpzejrueu1yumxjmdktmzlgy1dms1lnndnjekjqudg1y0fkogzpeu5wy2j6ujd5y0nwztdic1jszxz2vluywmpdqjhqdzbtm2ytcw9fywkydzdtwuztsfmztki2dw?oc=5": {
+      "event_id": "7310256d2cc884f1",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "台湾侦获首例涉及违反国安法，使用中国制零部件的国防无人机采购案 - voachinese.com",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmibefvx3lxtfbpy1vpudkznxjgtwpbwf94slr1au5pdlzieku4yvlwt2lrqwjiqmxjzhbwbngxbuezbedkm0rpcm1pb3fxskhqlvdhzzdfvzbdy0nxzusxttywtm13r0xhbznqewo0dwtzwfi3oq?oc=5": {
+      "event_id": "d8f718e251225048",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "“空中哨兵”上岗！ 赣州绕城高速无人机智慧巡检全面落地 - 赣州新闻",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiwefvx3lxte11unddv0o4tkt3qjlrq0i0cf8tsnjtlvjhdjjisggzvuw3nwc5b2dpble4m0zktvhpn3zxtuhdbvjnwdvzui1rmlzmwvpudkxmqv9hdednsxo?oc=5": {
+      "event_id": "bd1e21e63cfc3780",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "只需动动嘴，无人机就能起飞- 湖北日报新闻客户端 - 湖北日报传媒集团",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmijafbvv95cuxnaepfcs1qm2d4rvhkuxjmyni0bhhwuw91umtnmkt4veh5qjrosm5sy1r5yxr2nfi5thqwa3jzuwnmdg4ycvvqmw5lweqwctz1mvn1muzicm5tb29magwxrhvdq0twefz4sm9mbmv6r1dhc0f1zlc0x2dkmxjfc2pmelvvuuzkddn3zwjxca?oc=5": {
+      "event_id": "8db93912d09a3d42",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆无人机两次送修均“检测正常” 可每次维修后回来都添点新毛病 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmi7afbvv95cuxqv2xmyvlvvm4tzelgn2htnwswneqysnvlevvpwnhpv1e0zmpselbzv09jmlbnuwv5rf9qbs1udk1rbi04qty1avv0aja4qk00b2rsvug2sklrnw1cbu80d1lmmv8ysutezhoyrjlwn0vfuxjtoxzccugwzkthqtyxs3zpazdor25umgpzcw56uk16yvlwm2diqxfkshfizlz1r3fpluhudmsxztdcu0rzvhhtsepvbw9jm0fhnmv6owv4dwtlqkvfogforklrvxmtbnnnwuz3rmnwzkr5ujlzvfvqatjptl9ssdzqsnib7wfbvv95cuxpovhmtdrecjjqcfzistjnnv92zkraznrhv29gblzamw9vtehathhzsff2rtnzqk1xdhzlaxvzuhrlu0pqqmjsevlzmjhtwghav2lzeuvivehbx3biczhxt05tsuxkbvzueudeltnxc2viqk9ztwrxaxpbzjb4yzc2c1lteufgulqxrujhathqekhyowhvznjxb2n2b1n0y3d1dfzyrfk4ttgtbta0qu43x2vnafitevrjr1ffys1wq3zkqupxnmxczgq5ouvwckz5qzdqndiwzg56ekotnkruejrmcmngvkqwvvkxcfrwwq?oc=5": {
+      "event_id": "9801fe8037b986ab",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "俄罗斯导弹袭击乌克兰村庄造成10人死亡，基辅对莫斯科地区发动大规模无人机袭击 - voachinese.com",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiw0fvx3lxtfbevepkc0cyawtodfy2bmpingptmlj2cgnqtmzpmdvqbefwoufvwxbxywjjtc1ny0dudwndr1hirwlsuklvntrgefbhd0ducdrheup4zdrsyjj4ale?oc=5": {
+      "event_id": "fa5ee7820e75d525",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "赖清德想以无人机决胜？ - 风闻",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiskfvx3lxtfbdslvobxdpzehpm0mtmfpbnwvwu3rmek5avhzytgxfwe1zyxaylwvqdwviwdfqmhjwdi15rni5uzbayxi1ehqxbhvn?oc=5": {
+      "event_id": "9d9c5774f9e765b9",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "无人机天上巡、志愿者地上走、皮影戏里学，渝水区防溺水“上天入地”全包围 - 凤凰网江西",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmitefvx3lxtfb0cw9vtdrjb0tkbgpiu0tseljcudu3nxlrnxv0eezfnem3aej2rhnqs0jizv9ndnvsywnkserouelymvpxqjyyukpxela?oc=5": {
+      "event_id": "0a6ea112eaa9d118",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "一夜拦截822架无人机，俄罗斯被逼无奈，只能互相伤害 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmizkfvx3lxte1sofjovmfeze1owwlkc1pgblbusnd5t2z6ztbdyudwswu5wxowexh0rxherloyblr6axplvwe2vzuxoc1xtet3qjbecfjzd3vasfn5znpucw9ynxfbduu5x3b4cnpeqq?oc=5": {
+      "event_id": "142e2b9b7cc04c76",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "中无人机(688297.SH)：2026年中报净利润为5492.56万元、同比较去年同期上涨72.87% - 东方财富",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmixkfvx3lxte0zbex1bvh4mmz2t0q0bevjm2fxvw1vx2vtywxzaxlwq2xnum9tstvwehboullitwjubgxtrvzvmxpgddg2wxbrdkyybkjpvje1mnpyteths2vgzxfivve?oc=5": {
+      "event_id": "a5a7dc49a3a14a47",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "守护农业蓝天，共筑飞行安全 —— 武胜县沿口镇长伸沟村农业无人机法治困境报道 - 中华网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmitefvx3lxte1xbklglve0ahvwrxrtbfheylbtynhmuy1fahd3djjotuvutwrlnjliadlolws1b0zuwgv6cuzkdzlieerfbtjtz0zztwk?oc=5": {
+      "event_id": "34a2285e0078329f",
+      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "brand": "Other",
+      "title_zh": "美媒揭秘：重创俄军的乌无人机，竟出自一位90后家具设计师之手 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-19T10:57:17.402169+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
     }
   },
   "runs": [
@@ -1649,6 +2309,16 @@
       "new_count": 30,
       "updated_count": 0,
       "pushable_count": 10,
+      "pushed_count": 0,
+      "source_ok": 25,
+      "source_failed": 2
+    },
+    {
+      "generated_at": "2026-08-19T10:57:17.402169+00:00",
+      "candidate_count": 30,
+      "new_count": 30,
+      "updated_count": 0,
+      "pushable_count": 4,
       "pushed_count": 0,
       "source_ok": 25,
       "source_failed": 2
