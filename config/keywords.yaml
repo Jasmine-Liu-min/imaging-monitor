@@ -1,0 +1,120 @@
+# imaging_first=true 的品牌以影像为主业，其全部新闻都保留；
+# 未标记的为综合厂商（手机/耳机/家电等），必须额外命中影像锚点词才保留，
+# 避免“OPPO 耳机 / vivo 手机”这类非影像产品靠品牌名混入。
+brands:
+  DJI:
+    imaging_first: true
+    aliases: ["DJI", "Osmo", "大疆"]
+  GoPro:
+    imaging_first: true
+    aliases: ["GoPro", "Quik", "HERO", "Mission"]
+  Insta360:
+    imaging_first: true
+    self: true                  # 自家品牌：看板单列「自家动态」，不按竞品威胁口径展示
+    aliases: ["Insta360", "影石", "Ace Pro", "X5", "GO Ultra"]
+  Canon:
+    imaging_first: true
+    aliases: ["Canon", "佳能", "EOS"]
+  Nikon:
+    imaging_first: true
+    aliases: ["Nikon", "尼康", "Z series"]
+  Sony:
+    imaging_first: true
+    aliases: ["Sony", "索尼", "Alpha"]
+  OPPO:
+    aliases: ["OPPO", "Reno", "Find X"]
+  vivo:
+    aliases: ["vivo", "VISION+", "X300"]
+
+categories:
+  hardware:
+    keywords: ["camera", "相机", "action cam", "运动相机", "pocket", "osmo", "gimbal", "云台", "lens", "镜头", "sensor", "8K", "4K", "新品", "发布", "preorder", "shipping"]
+  software:
+    keywords: ["app", "firmware", "软件", "固件", "update", "版本", "App Store", "Google Play", "Quik", "DJI Fly", "DJI Mimo"]
+  marketing:
+    keywords: ["campaign", "deal", "discount", "sale", "促销", "预售", "prime day", "bundle", "营销", "活动"]
+  industry:
+    keywords: ["industry", "market", "行业", "传感器", "AI", "spatial video", "visionOS", "展会", "MWC", "WWDC"]
+  pmf:
+    keywords: ["creator", "vlog", "旅行", "户外", "骑行", "空间视频", "全景", "workflow", "工作流", "生态", "配件"]
+  community:
+    keywords: ["reddit", "forum", "review", "hands-on", "评测", "用户", "complaint", "issue", "overheating", "bug"]
+
+# 影像领域锚点词：候选必须命中“品牌别名”或下列任一锚点，才算影像相关、才会送入 AI。
+# 这是“只保留影像”的核心闸门，用来挡掉大模型/汽车/游戏/鸿蒙等综合科技噪音。
+# 注意：不要放 AI / app / update / 发布 这类通用词，否则噪音会重新涌入。
+imaging_keywords:
+  - "camera"
+  - "cameras"
+  - "mirrorless"
+  - "dslr"
+  - "camcorder"
+  - "lens"
+  - "lenses"
+  - "gimbal"
+  - "stabilizer"
+  - "drone"
+  - "action cam"
+  - "action camera"
+  - "360 camera"
+  - "vlog"
+  - "vlogger"
+  - "photography"
+  - "photographer"
+  - "photo editing"
+  - "footage"
+  - "cinematography"
+  - "spatial video"
+  - "full-frame"
+  - "aps-c"
+  - "相机"
+  - "镜头"
+  - "影像"
+  - "摄影"
+  - "摄像"
+  - "拍摄"
+  - "拍照"
+  - "运动相机"
+  - "全景相机"
+  - "全景"
+  - "云台"
+  - "稳定器"
+  - "无人机"
+  - "微单"
+  - "单反"
+  - "卡口"
+  - "取景"
+  - "对焦"
+  - "创作者"
+  - "固件"
+
+exclude_keywords:
+  - "stock price"
+  - "wallpaper"
+  - "used camera"
+  - "二手"
+  - "招聘"
+  - "job opening"
+  - "汽车"
+  - "新能源"
+  - "电动车"
+  - "automotive"
+  - "鸿蒙"
+  - "大模型"
+  - "区块链"
+  - "加密货币"
+  - "楼市"
+  - "房价"
+
+priority_keywords:
+  - "launch"
+  - "announces"
+  - "released"
+  - "pre-order"
+  - "shipping"
+  - "review"
+  - "update"
+  - "发布"
+  - "开售"
+  - "评测"
+  - "更新"

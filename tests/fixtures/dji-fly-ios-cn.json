@@ -1,0 +1,12 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "trackName": "DJI Fly",
+      "version": "1.21.2",
+      "currentVersionReleaseDate": "2026-06-19T10:00:00Z",
+      "releaseNotes": "修复已知问题并提升近期 DJI 影像无人机的 App 稳定性。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/dji-fly/id1479649251"
+    }
+  ]
+}

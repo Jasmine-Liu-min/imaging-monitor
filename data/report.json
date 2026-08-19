@@ -1,0 +1,2196 @@
+{
+  "title": "影像行业与竞品信息监控报告",
+  "generated_at": "2026-06-26T12:32:08.632523+00:00",
+  "window": {
+    "start": "2026-06-25T19:32:08.630142+00:00",
+    "end": "2026-06-26T12:32:08.630142+00:00",
+    "hours": 17
+  },
+  "week_tag": "2026-W26",
+  "summary": {
+    "candidate_count": 30,
+    "pushable_count": 10,
+    "top_count": 5,
+    "new_count": 30,
+    "updated_count": 0,
+    "new_pushable_count": 10,
+    "source_ok": 25,
+    "source_failed": 2,
+    "domestic_count": 30,
+    "global_count": 0
+  },
+  "category_counts": {
+    "software": 1,
+    "hardware": 10,
+    "industry": 19
+  },
+  "brand_counts": {
+    "vivo": 2,
+    "Nikon": 1,
+    "Other": 12,
+    "DJI": 12,
+    "Insta360": 3
+  },
+  "region_counts": {
+    "domestic": 30
+  },
+  "language_counts": {
+    "zh": 30
+  },
+  "decision_counts": {
+    "push": 10,
+    "dashboard_only": 20
+  },
+  "top5": [
+    {
+      "id": "b02811f5f1038ed5",
+      "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "brand": "vivo",
+      "category": "software",
+      "event_type": "新品发布",
+      "summary": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G",
+      "details": [
+        "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+        "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+        "同时手机使用圆润 R 角设计，搭配 2"
+      ],
+      "insight": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/969/232.htm",
+      "week_tag": "2026-W26",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "title_original": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：122",
+      "details_zh": [
+        "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+        "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+        "同时手机使用圆润 R 角设计，搭配 2"
+      ],
+      "insight_zh": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/969/232.htm",
+          "snippet": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "fdc01d651e24715c",
+      "title": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "brand": "Nikon",
+      "category": "hardware",
+      "event_type": "软件更新",
+      "summary": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m",
+      "details": [
+        "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+        "5 1",
+        "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+      ],
+      "insight": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/969/226.htm",
+      "week_tag": "2026-W26",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "title_original": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6mm（微距专用），最大放大倍率 1.5 倍",
+      "details_zh": [
+        "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+        "5 1",
+        "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+      ],
+      "insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/969/226.htm",
+          "snippet": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "373815e32fdf1bb9",
+      "title": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+      "details": [
+        "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "title_original": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+      "details_zh": [
+        "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+          "snippet": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "4bfae4bb92dd4d72",
+      "title": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+      "details": [
+        "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "title_original": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+      "details_zh": [
+        "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+          "snippet": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "6c70976c59d2273a",
+      "title": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+      "details": [
+        "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "title_original": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+      "details_zh": [
+        "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+          "snippet": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    }
+  ],
+  "push_events": [
+    {
+      "id": "b02811f5f1038ed5",
+      "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "brand": "vivo",
+      "category": "software",
+      "event_type": "新品发布",
+      "summary": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G",
+      "details": [
+        "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+        "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+        "同时手机使用圆润 R 角设计，搭配 2"
+      ],
+      "insight": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/969/232.htm",
+      "week_tag": "2026-W26",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "title_original": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：122",
+      "details_zh": [
+        "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+        "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+        "同时手机使用圆润 R 角设计，搭配 2"
+      ],
+      "insight_zh": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/969/232.htm",
+          "snippet": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "fdc01d651e24715c",
+      "title": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "brand": "Nikon",
+      "category": "hardware",
+      "event_type": "软件更新",
+      "summary": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m",
+      "details": [
+        "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+        "5 1",
+        "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+      ],
+      "insight": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/969/226.htm",
+      "week_tag": "2026-W26",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "title_original": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6mm（微距专用），最大放大倍率 1.5 倍",
+      "details_zh": [
+        "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+        "5 1",
+        "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+      ],
+      "insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/969/226.htm",
+          "snippet": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "373815e32fdf1bb9",
+      "title": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+      "details": [
+        "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "title_original": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+      "details_zh": [
+        "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+          "snippet": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "4bfae4bb92dd4d72",
+      "title": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+      "details": [
+        "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "title_original": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+      "details_zh": [
+        "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+          "snippet": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "6c70976c59d2273a",
+      "title": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+      "details": [
+        "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "title_original": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+      "details_zh": [
+        "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+          "snippet": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    }
+  ],
+  "pushable_events": [
+    {
+      "id": "b02811f5f1038ed5",
+      "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "brand": "vivo",
+      "category": "software",
+      "event_type": "新品发布",
+      "summary": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G",
+      "details": [
+        "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+        "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+        "同时手机使用圆润 R 角设计，搭配 2"
+      ],
+      "insight": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/969/232.htm",
+      "week_tag": "2026-W26",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "title_original": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：122",
+      "details_zh": [
+        "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+        "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+        "同时手机使用圆润 R 角设计，搭配 2"
+      ],
+      "insight_zh": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/969/232.htm",
+          "snippet": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "fdc01d651e24715c",
+      "title": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "brand": "Nikon",
+      "category": "hardware",
+      "event_type": "软件更新",
+      "summary": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m",
+      "details": [
+        "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+        "5 1",
+        "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+      ],
+      "insight": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/969/226.htm",
+      "week_tag": "2026-W26",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "title_original": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6mm（微距专用），最大放大倍率 1.5 倍",
+      "details_zh": [
+        "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+        "5 1",
+        "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+      ],
+      "insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/969/226.htm",
+          "snippet": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "373815e32fdf1bb9",
+      "title": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+      "details": [
+        "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "title_original": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+      "details_zh": [
+        "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+          "snippet": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "4bfae4bb92dd4d72",
+      "title": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+      "details": [
+        "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "title_original": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+      "details_zh": [
+        "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+          "snippet": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "6c70976c59d2273a",
+      "title": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+      "details": [
+        "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "title_original": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+      "details_zh": [
+        "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+          "snippet": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "0889c086ad27db3f",
+      "title": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网",
+      "details": [
+        "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzhkRVF3RTM5Xzl6dEdWR2NybkxsWVo5Wnczc3Jfdzh1OThsdzM1UWp2d3liMXJpbWFEa0lTaHF3OXlkbkxKbGY3Z19DWE4yYWVsWFdVc0FTZjNJY09kcnJ4SUdyN2Y2aEtwaUZwbFNxWFpoUXMtZkNqaGZlM2R6MnJqb2U5NU9MdWNodmV3UUhfMTdQ?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+      "title_original": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网",
+      "details_zh": [
+        "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzhkRVF3RTM5Xzl6dEdWR2NybkxsWVo5Wnczc3Jfdzh1OThsdzM1UWp2d3liMXJpbWFEa0lTaHF3OXlkbkxKbGY3Z19DWE4yYWVsWFdVc0FTZjNJY09kcnJ4SUdyN2Y2aEtwaUZwbFNxWFpoUXMtZkNqaGZlM2R6MnJqb2U5NU9MdWNodmV3UUhfMTdQ?oc=5",
+          "snippet": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "e5e016c2b9e59268",
+      "title": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻",
+      "details": [
+        "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vclVqcmQ3TkRkZGRRS2xTSzdSeTZaWG12alBqMmlkWno4cnJpSXE1elluSmhja0R2VWp5MXRWYjloU0Z4RjVPTWc2ZjFBWDN3MjFjcUFVUDFuQk0?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+      "title_original": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻",
+      "details_zh": [
+        "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vclVqcmQ3TkRkZGRRS2xTSzdSeTZaWG12alBqMmlkWno4cnJpSXE1elluSmhja0R2VWp5MXRWYjloU0Z4RjVPTWc2ZjFBWDN3MjFjcUFVUDFuQk0?oc=5",
+          "snippet": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "b8ec0a108bad1d2c",
+      "title": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 - 新浪财经",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经",
+      "details": [
+        "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHB3NE9COVN3ZE5wWG1YMkhBSThKVHY4VUd2OW55VVhmUVlTRUlIMGhjd040RmxOcGlmSDZ3Q0R6N0RXLU5oc2ZTSmp1dmJXWDlLTFBILTRQNzhsTndPbFRaaEkzYW56ajUyLVdzaUFuNTZ2cmJhRWRQYjE1YTkwUDl5WV80X1FDRG8xZ0NVU2lETG9Bb1dVN3Nid0ZCVzRsMm9mRHdsbw?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 - 新浪财经",
+      "title_original": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经",
+      "details_zh": [
+        "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHB3NE9COVN3ZE5wWG1YMkhBSThKVHY4VUd2OW55VVhmUVlTRUlIMGhjd040RmxOcGlmSDZ3Q0R6N0RXLU5oc2ZTSmp1dmJXWDlLTFBILTRQNzhsTndPbFRaaEkzYW56ajUyLVdzaUFuNTZ2cmJhRWRQYjE1YTkwUDl5WV80X1FDRG8xZ0NVU2lETG9Bb1dVN3Nid0ZCVzRsMm9mRHdsbw?oc=5",
+          "snippet": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "52566674a5dc08b3",
+      "title": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 - 新浪网",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网",
+      "details": [
+        "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGxlY094YlBRWVJlU3VyU0dGb2c2aDUzcVpxdUFkUzJ2UV9BMVRuWUpCckRoMXRHQzVQR2hISFZmUTlmd2N5eEQzX2VVdVdjVnNzcFJRU2ZRSHkzMTRxY0s4RFRteWEtaUE4UmdUUjJKQmdlQk41dFpiN29wYjFYQmE1TXpSelJiakx1T01UX0x2S0lKaWNyMWx2Q0JhSkMwU3BmNnZZSQ?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 - 新浪网",
+      "title_original": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 - 新浪网",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网",
+      "details_zh": [
+        "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGxlY094YlBRWVJlU3VyU0dGb2c2aDUzcVpxdUFkUzJ2UV9BMVRuWUpCckRoMXRHQzVQR2hISFZmUTlmd2N5eEQzX2VVdVdjVnNzcFJRU2ZRSHkzMTRxY0s4RFRteWEtaUE4UmdUUjJKQmdlQk41dFpiN29wYjFYQmE1TXpSelJiakx1T01UX0x2S0lKaWNyMWx2Q0JhSkMwU3BmNnZZSQ?oc=5",
+          "snippet": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 新浪网"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    },
+    {
+      "id": "1d4eaf297f832aab",
+      "title": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪财经",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经",
+      "details": [
+        "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-06-26",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sVUtMYTZIWmlfRTE2blZXMUV1U0tQNUhvejVEdUVHMGR4bzA3REFNY0w5SDZQUURRV3c1NnNUOFlPeEMtYU1sNTExU3FjNTR1ZFloV1VQZzJYTmdXcjIwcDlJeWxPaW1mc0E4Yy1DUTljRWU3ZmZTamMwdWphNlk?oc=5",
+      "week_tag": "2026-W26",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪财经",
+      "title_original": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经",
+      "details_zh": [
+        "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sVUtMYTZIWmlfRTE2blZXMUV1U0tQNUhvejVEdUVHMGR4bzA3REFNY0w5SDZQUURRV3c1NnNUOFlPeEMtYU1sNTExU3FjNTR1ZFloV1VQZzJYTmdXcjIwcDlJeWxPaW1mc0E4Yy1DUTljRWU3ZmZTamMwdWphNlk?oc=5",
+          "snippet": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "is_new": true
+    }
+  ],
+  "sections": {
+    "domestic": [
+      {
+        "id": "fdc01d651e24715c",
+        "title": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+        "brand": "Nikon",
+        "category": "hardware",
+        "event_type": "软件更新",
+        "summary": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m",
+        "details": [
+          "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+          "5 1",
+          "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+        ],
+        "insight": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-06-26",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/969/226.htm",
+        "week_tag": "2026-W26",
+        "source_id": "ithome-imaging",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+        "title_original": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6mm（微距专用），最大放大倍率 1.5 倍",
+        "details_zh": [
+          "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+          "5 1",
+          "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+        ],
+        "insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/969/226.htm",
+            "snippet": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-06-26T12:32:08.629621+00:00",
+        "is_new": true
+      },
+      {
+        "id": "373815e32fdf1bb9",
+        "title": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+        "brand": "DJI",
+        "category": "hardware",
+        "event_type": "新品发布",
+        "summary": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+        "details": [
+          "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+        ],
+        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-06-26",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+        "week_tag": "2026-W26",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+        "title_original": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+        "details_zh": [
+          "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+        ],
+        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+            "snippet": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-06-26T12:32:08.629621+00:00",
+        "is_new": true
+      },
+      {
+        "id": "4bfae4bb92dd4d72",
+        "title": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+        "brand": "DJI",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+        "details": [
+          "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+        ],
+        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-06-26",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+        "week_tag": "2026-W26",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+        "title_original": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+        "details_zh": [
+          "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+        ],
+        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+            "snippet": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-06-26T12:32:08.629621+00:00",
+        "is_new": true
+      },
+      {
+        "id": "6c70976c59d2273a",
+        "title": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+        "brand": "DJI",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+        "details": [
+          "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+        ],
+        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-06-26",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+        "week_tag": "2026-W26",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+        "title_original": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+        "details_zh": [
+          "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+        ],
+        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+            "snippet": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-06-26T12:32:08.629621+00:00",
+        "is_new": true
+      },
+      {
+        "id": "0889c086ad27db3f",
+        "title": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+        "brand": "DJI",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网",
+        "details": [
+          "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+        ],
+        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-06-26",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzhkRVF3RTM5Xzl6dEdWR2NybkxsWVo5Wnczc3Jfdzh1OThsdzM1UWp2d3liMXJpbWFEa0lTaHF3OXlkbkxKbGY3Z19DWE4yYWVsWFdVc0FTZjNJY09kcnJ4SUdyN2Y2aEtwaUZwbFNxWFpoUXMtZkNqaGZlM2R6MnJqb2U5NU9MdWNodmV3UUhfMTdQ?oc=5",
+        "week_tag": "2026-W26",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+        "title_original": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网",
+        "details_zh": [
+          "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+        ],
+        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzhkRVF3RTM5Xzl6dEdWR2NybkxsWVo5Wnczc3Jfdzh1OThsdzM1UWp2d3liMXJpbWFEa0lTaHF3OXlkbkxKbGY3Z19DWE4yYWVsWFdVc0FTZjNJY09kcnJ4SUdyN2Y2aEtwaUZwbFNxWFpoUXMtZkNqaGZlM2R6MnJqb2U5NU9MdWNodmV3UUhfMTdQ?oc=5",
+            "snippet": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-06-26T12:32:08.629621+00:00",
+        "is_new": true
+      },
+      {
+        "id": "e5e016c2b9e59268",
+        "title": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+        "brand": "DJI",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻",
+        "details": [
+          "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
+        ],
+        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-06-26",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vclVqcmQ3TkRkZGRRS2xTSzdSeTZaWG12alBqMmlkWno4cnJpSXE1elluSmhja0R2VWp5MXRWYjloU0Z4RjVPTWc2ZjFBWDN3MjFjcUFVUDFuQk0?oc=5",
+        "week_tag": "2026-W26",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+        "title_original": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻",
+        "details_zh": [
+          "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
+        ],
+        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vclVqcmQ3TkRkZGRRS2xTSzdSeTZaWG12alBqMmlkWno4cnJpSXE1elluSmhja0R2VWp5MXRWYjloU0Z4RjVPTWc2ZjFBWDN3MjFjcUFVUDFuQk0?oc=5",
+            "snippet": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-06-26T12:32:08.629621+00:00",
+        "is_new": true
+      }
+    ],
+    "global": [],
+    "software": [
+      {
+        "id": "b02811f5f1038ed5",
+        "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+        "brand": "vivo",
+        "category": "software",
+        "event_type": "新品发布",
+        "summary": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G",
+        "details": [
+          "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+          "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+          "同时手机使用圆润 R 角设计，搭配 2"
+        ],
+        "insight": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-06-26",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/969/232.htm",
+        "week_tag": "2026-W26",
+        "source_id": "ithome-imaging",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+        "title_original": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：122",
+        "details_zh": [
+          "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+          "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+          "同时手机使用圆润 R 角设计，搭配 2"
+        ],
+        "insight_zh": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/969/232.htm",
+            "snippet": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-06-26T12:32:08.629621+00:00",
+        "is_new": true
+      }
+    ],
+    "community": [],
+    "pmf": []
+  },
+  "battlecards": [
+    {
+      "brand": "DJI",
+      "is_self": false,
+      "event_count": 12,
+      "new_count": 12,
+      "threat_summary": "medium",
+      "max_importance": 5,
+      "category_mix": {
+        "hardware": 8,
+        "industry": 4
+      },
+      "key_insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "latest_events": [
+        {
+          "id": "373815e32fdf1bb9",
+          "title": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+          "brand": "DJI",
+          "category": "hardware",
+          "event_type": "新品发布",
+          "summary": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+          "details": [
+            "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+          ],
+          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+          "week_tag": "2026-W26",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+          "title_original": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报",
+          "details_zh": [
+            "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+          ],
+          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvLTV0NVppLTNmTTJ6RXRHaVdTYzZfcENqQzFjcm5KZUM3MnNJengxS1pJUC1ObWVCZ3g0VFFXWjVwb011RFpGcGxyVkJhNEMzU1ZtTmtQcGNlOG1r?oc=5",
+              "snippet": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 证券时报"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        },
+        {
+          "id": "4bfae4bb92dd4d72",
+          "title": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+          "brand": "DJI",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+          "details": [
+            "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+          ],
+          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+          "week_tag": "2026-W26",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+          "title_original": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报",
+          "details_zh": [
+            "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+          ],
+          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Z3pRVVNlOGo4WVFQZm5ZUDRFVVhHZ0pQSVBCTFR4VHdHRy1ZWGxWTFl6bVQyaTFJejF0TnlSZ1ppUWFFQ280N3RaRkxUMFBqSkV2cFFSNGRyN1VIMktIRko5WHE?oc=5",
+              "snippet": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 新京报"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        },
+        {
+          "id": "6c70976c59d2273a",
+          "title": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+          "brand": "DJI",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+          "details": [
+            "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+          ],
+          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+          "week_tag": "2026-W26",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+          "title_original": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网",
+          "details_zh": [
+            "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+          ],
+          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTdZaTRwYUQxelJ3MENiS2lWUkdJaG5ZNHVnT29pZU1yMk1YLUhiU1R4ZnYtazV1MWM0ZldXN1BwTURPd3lZVUFIdFJ5MzE0WDN6Y2NJY3c2d3VTc0VKNzJ1MXUxZF9HSm16ZVlOdnJ6UmJxdXVKS0xWdHVmM09BVEcyT3FoSi0yRFVtTg?oc=5",
+              "snippet": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 搜狐网"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        },
+        {
+          "id": "0889c086ad27db3f",
+          "title": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+          "brand": "DJI",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网",
+          "details": [
+            "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+          ],
+          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzhkRVF3RTM5Xzl6dEdWR2NybkxsWVo5Wnczc3Jfdzh1OThsdzM1UWp2d3liMXJpbWFEa0lTaHF3OXlkbkxKbGY3Z19DWE4yYWVsWFdVc0FTZjNJY09kcnJ4SUdyN2Y2aEtwaUZwbFNxWFpoUXMtZkNqaGZlM2R6MnJqb2U5NU9MdWNodmV3UUhfMTdQ?oc=5",
+          "week_tag": "2026-W26",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+          "title_original": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网",
+          "details_zh": [
+            "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+          ],
+          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzhkRVF3RTM5Xzl6dEdWR2NybkxsWVo5Wnczc3Jfdzh1OThsdzM1UWp2d3liMXJpbWFEa0lTaHF3OXlkbkxKbGY3Z19DWE4yYWVsWFdVc0FTZjNJY09kcnJ4SUdyN2Y2aEtwaUZwbFNxWFpoUXMtZkNqaGZlM2R6MnJqb2U5NU9MdWNodmV3UUhfMTdQ?oc=5",
+              "snippet": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 新浪网"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        },
+        {
+          "id": "e5e016c2b9e59268",
+          "title": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+          "brand": "DJI",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻",
+          "details": [
+            "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
+          ],
+          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vclVqcmQ3TkRkZGRRS2xTSzdSeTZaWG12alBqMmlkWno4cnJpSXE1elluSmhja0R2VWp5MXRWYjloU0Z4RjVPTWc2ZjFBWDN3MjFjcUFVUDFuQk0?oc=5",
+          "week_tag": "2026-W26",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+          "title_original": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻",
+          "details_zh": [
+            "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
+          ],
+          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vclVqcmQ3TkRkZGRRS2xTSzdSeTZaWG12alBqMmlkWno4cnJpSXE1elluSmhja0R2VWp5MXRWYjloU0Z4RjVPTWc2ZjFBWDN3MjFjcUFVUDFuQk0?oc=5",
+              "snippet": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% 风闻"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        }
+      ]
+    },
+    {
+      "brand": "vivo",
+      "is_self": false,
+      "event_count": 2,
+      "new_count": 2,
+      "threat_summary": "medium",
+      "max_importance": 5,
+      "category_mix": {
+        "software": 1,
+        "industry": 1
+      },
+      "key_insight_zh": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+      "latest_events": [
+        {
+          "id": "b02811f5f1038ed5",
+          "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+          "brand": "vivo",
+          "category": "software",
+          "event_type": "新品发布",
+          "summary": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G",
+          "details": [
+            "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+            "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+            "同时手机使用圆润 R 角设计，搭配 2"
+          ],
+          "insight": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/0/969/232.htm",
+          "week_tag": "2026-W26",
+          "source_id": "ithome-imaging",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+          "title_original": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：122",
+          "details_zh": [
+            "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起",
+            "标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16GB RAM + 1TB 存储空间：12299 元 京东 vivo X Fold6 7999 元起 直达链接 该机可选蓝洞、盐湖、极夜配色（如选购折叠专业影像套装则额外可选一款黑金配色），其中“蓝洞”配色灵感来源深海大蓝洞的深邃梦幻；“盐湖”配色灵感来自天空之镜乌尤尼盐湖；“极夜”配色主打“极地冬夜从容沉稳”",
+            "同时手机使用圆润 R 角设计，搭配 2"
+          ],
+          "insight_zh": "vivo 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "IT之家",
+              "url": "https://www.ithome.com/0/969/232.htm",
+              "snippet": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影像套装 蓝洞：16GB RAM + 1TB 存储空间：11999 元 黑金：16G"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        },
+        {
+          "id": "4428711e9c012754",
+          "title": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
+          "brand": "vivo",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 1570x720 分辨率 120Hz LCD 打孔面板（峰值亮度 1200 尼特），匹配 8MP 自拍摄像头；手",
+          "details": [
+            "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元",
+            "该机可选三种配色，厚度 8",
+            "39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6"
+          ],
+          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/0/969/097.htm",
+          "week_tag": "2026-W26",
+          "source_id": "ithome-imaging",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
+          "title_original": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 1570x720 分辨率 120Hz LCD 打孔面板（峰值亮度 1200 尼特），匹配 8MP 自拍摄像头；手机背面匹配 50MP 主摄。 该机搭载高",
+          "details_zh": [
+            "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元",
+            "该机可选三种配色，厚度 8",
+            "39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6"
+          ],
+          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "IT之家",
+              "url": "https://www.ithome.com/0/969/097.htm",
+              "snippet": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 1570x720 分辨率 120Hz LCD 打孔面板（峰值亮度 1200 尼特），匹配 8MP 自拍摄像头；手"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        }
+      ]
+    },
+    {
+      "brand": "Nikon",
+      "is_self": false,
+      "event_count": 1,
+      "new_count": 1,
+      "threat_summary": "medium",
+      "max_importance": 5,
+      "category_mix": {
+        "hardware": 1
+      },
+      "key_insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "latest_events": [
+        {
+          "id": "fdc01d651e24715c",
+          "title": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+          "brand": "Nikon",
+          "category": "hardware",
+          "event_type": "软件更新",
+          "summary": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m",
+          "details": [
+            "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+            "5 1",
+            "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+          ],
+          "insight": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/0/969/226.htm",
+          "week_tag": "2026-W26",
+          "source_id": "ithome-imaging",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+          "title_original": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6mm（微距专用），最大放大倍率 1.5 倍",
+          "details_zh": [
+            "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4",
+            "5 1",
+            "5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元"
+          ],
+          "insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "IT之家",
+              "url": "https://www.ithome.com/0/969/226.htm",
+              "snippet": "IT之家 6 月 26 日消息，老蛙今日宣布，180mm F4.5 1.5X 放大微距镜头新增 X/F 卡口，其中富士 X 卡口为自动对焦，尼康 F 卡口为手动对焦（支持自动对焦的尼康 Z 卡口版本此前已经推出）， 售价 3499 元 。 这款镜头重约 545g，采用 9 组 12 片镜片，其中包含 2 枚 ED 镜片和 1 枚高折射镜片，采用 APO 复消色差技术；有 9 片光圈叶片，最近对焦距离 300mm（物像距离）、147.6m"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        }
+      ]
+    },
+    {
+      "brand": "Insta360",
+      "is_self": true,
+      "event_count": 3,
+      "new_count": 3,
+      "threat_summary": "low",
+      "max_importance": 5,
+      "category_mix": {
+        "industry": 3
+      },
+      "key_insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "latest_events": [
+        {
+          "id": "92f7eb89dad4e1a4",
+          "title": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ - 新浪财经",
+          "brand": "Insta360",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经",
+          "details": [
+            "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经"
+          ],
+          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmQySDR0eXZWVmFrV0NnNUpXV3UxczVtVkdkZEZjT21rd3Vlbk51bDQzcUtSY0hTRDlDV1BOOFdKVGFHdzczVjkwcEdKcWZSOFJEYVFuYlhjaHAwS3lOV1VnOWdETm9jZXJnaGtJb0E2OEctTVA5aGNLMkZ4VHBuZWF2R0Z1a0k?oc=5",
+          "week_tag": "2026-W26",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ - 新浪财经",
+          "title_original": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ - 新浪财经",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经",
+          "details_zh": [
+            "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经"
+          ],
+          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmQySDR0eXZWVmFrV0NnNUpXV3UxczVtVkdkZEZjT21rd3Vlbk51bDQzcUtSY0hTRDlDV1BOOFdKVGFHdzczVjkwcEdKcWZSOFJEYVFuYlhjaHAwS3lOV1VnOWdETm9jZXJnaGtJb0E2OEctTVA5aGNLMkZ4VHBuZWF2R0Z1a0k?oc=5",
+              "snippet": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ 新浪财经"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        },
+        {
+          "id": "db14eb152112f0bf",
+          "title": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） - 东方财富",
+          "brand": "Insta360",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） 东方财富",
+          "details": [
+            "大宗交易：影石创新成交1566",
+            "36万元，折价1",
+            "00%（6-26） 东方财富"
+          ],
+          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rSUQ2RTc2Q2c5VlY5WHhLVlRzdkNTamR6eEJFYjZmLVhWTklFQ3o3TGtuaS1oMnZ5Z01nVWkyWlBuN0h1dUhMaWlYVHBYZkNXWGQ2a2ZWM3VadlRkZmM3bEwtUQ?oc=5",
+          "week_tag": "2026-W26",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） - 东方财富",
+          "title_original": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） - 东方财富",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） 东方财富",
+          "details_zh": [
+            "大宗交易：影石创新成交1566",
+            "36万元，折价1",
+            "00%（6-26） 东方财富"
+          ],
+          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rSUQ2RTc2Q2c5VlY5WHhLVlRzdkNTamR6eEJFYjZmLVhWTklFQ3o3TGtuaS1oMnZ5Z01nVWkyWlBuN0h1dUhMaWlYVHBYZkNXWGQ2a2ZWM3VadlRkZmM3bEwtUQ?oc=5",
+              "snippet": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） 东方财富"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        },
+        {
+          "id": "6d871067fdea5d58",
+          "title": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 - 证券之星",
+          "brand": "Insta360",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 证券之星",
+          "details": [
+            "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243",
+            "64万元_主力研究 证券之星"
+          ],
+          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-06-26",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yYzVxUFdiZ183OWRiMjZodFBMdGRINkdncDZWUmhabE5MbGx3NTdtREQzdjBRLTlFUVlsaXBJR2ZyOFZ5MHp3QzBrRnpxMElUYVhQTUc2MTREZDhXeDYxMnh3?oc=5",
+          "week_tag": "2026-W26",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 - 证券之星",
+          "title_original": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 - 证券之星",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 证券之星",
+          "details_zh": [
+            "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243",
+            "64万元_主力研究 证券之星"
+          ],
+          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yYzVxUFdiZ183OWRiMjZodFBMdGRINkdncDZWUmhabE5MbGx3NTdtREQzdjBRLTlFUVlsaXBJR2ZyOFZ5MHp3QzBrRnpxMElUYVhQTUc2MTREZDhXeDYxMnh3?oc=5",
+              "snippet": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 证券之星"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-06-26T12:32:08.629621+00:00",
+          "is_new": true
+        }
+      ]
+    }
+  ],
+  "trend": [
+    {
+      "generated_at": "2026-06-26T09:37:27.286914+00:00",
+      "candidate_count": 30,
+      "new_count": 30,
+      "updated_count": 0,
+      "pushable_count": 5,
+      "pushed_count": 0,
+      "source_ok": 26,
+      "source_failed": 1
+    },
+    {
+      "generated_at": "2026-06-26T09:47:56.461262+00:00",
+      "candidate_count": 7,
+      "new_count": 7,
+      "updated_count": 0,
+      "pushable_count": 3,
+      "pushed_count": 0,
+      "source_ok": 6,
+      "source_failed": 21
+    },
+    {
+      "generated_at": "2026-06-26T09:56:09.630839+00:00",
+      "candidate_count": 7,
+      "new_count": 0,
+      "updated_count": 0,
+      "pushable_count": 3,
+      "pushed_count": 0,
+      "source_ok": 6,
+      "source_failed": 21
+    },
+    {
+      "generated_at": "2026-06-26T10:02:49.610102+00:00",
+      "candidate_count": 7,
+      "new_count": 7,
+      "updated_count": 0,
+      "pushable_count": 3,
+      "pushed_count": 0,
+      "source_ok": 6,
+      "source_failed": 21
+    },
+    {
+      "generated_at": "2026-06-26T10:03:39.685897+00:00",
+      "candidate_count": 1,
+      "new_count": 0,
+      "updated_count": 0,
+      "pushable_count": 1,
+      "pushed_count": 0,
+      "source_ok": 6,
+      "source_failed": 21
+    },
+    {
+      "generated_at": "2026-06-26T12:32:08.629621+00:00",
+      "candidate_count": 30,
+      "new_count": 30,
+      "updated_count": 0,
+      "pushable_count": 10,
+      "pushed_count": 0,
+      "source_ok": 25,
+      "source_failed": 2
+    }
+  ],
+  "health": [
+    {
+      "source_id": "ithome-imaging",
+      "name": "IT之家",
+      "ok": true,
+      "count": 30,
+      "region": "domestic",
+      "language": "zh"
+    },
+    {
+      "source_id": "sspai",
+      "name": "少数派",
+      "ok": true,
+      "count": 10,
+      "region": "domestic",
+      "language": "zh"
+    },
+    {
+      "source_id": "dji-cn-news",
+      "name": "大疆/影石 中文动态",
+      "ok": true,
+      "count": 30,
+      "region": "domestic",
+      "language": "zh"
+    },
+    {
+      "source_id": "dji-news",
+      "name": "DJI News",
+      "ok": true,
+      "count": 30,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "gopro-news",
+      "name": "GoPro News",
+      "ok": true,
+      "count": 30,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "petapixel",
+      "name": "PetaPixel",
+      "ok": true,
+      "count": 20,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "dpreview",
+      "name": "DPReview",
+      "ok": true,
+      "count": 25,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "digital-camera-world",
+      "name": "Digital Camera World",
+      "ok": true,
+      "count": 30,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "techradar-cameras",
+      "name": "TechRadar Cameras",
+      "ok": true,
+      "count": 30,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "verge-creators",
+      "name": "The Verge",
+      "ok": true,
+      "count": 10,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "google-news-imaging",
+      "name": "Google News Imaging",
+      "ok": true,
+      "count": 30,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "gnews-gopro-deals",
+      "name": "GoPro 促销动态",
+      "ok": true,
+      "count": 12,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "gnews-cn-promo",
+      "name": "大疆/影石 促销动态",
+      "ok": true,
+      "count": 30,
+      "region": "domestic",
+      "language": "zh"
+    },
+    {
+      "source_id": "gnews-cam-promo",
+      "name": "影像设备促销动态",
+      "ok": true,
+      "count": 2,
+      "region": "domestic",
+      "language": "zh"
+    },
+    {
+      "source_id": "sonyalpharumors",
+      "name": "SonyAlphaRumors",
+      "ok": true,
+      "count": 7,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "43rumors",
+      "name": "43Rumors",
+      "ok": true,
+      "count": 7,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "reddit-cameras",
+      "name": "Reddit Cameras",
+      "ok": true,
+      "count": 25,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "reddit-gopro",
+      "name": "Reddit GoPro",
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests",
+      "count": 0,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "reddit-insta360",
+      "name": "Reddit Insta360",
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests",
+      "count": 0,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "dji-fly-ios-cn",
+      "name": "DJI Fly",
+      "ok": true,
+      "count": 1,
+      "region": "domestic",
+      "language": "zh"
+    },
+    {
+      "source_id": "dji-fly-ios-us",
+      "name": "DJI Fly",
+      "ok": true,
+      "count": 1,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "dji-mimo-ios-cn",
+      "name": "DJI Mimo",
+      "ok": true,
+      "count": 1,
+      "region": "domestic",
+      "language": "zh"
+    },
+    {
+      "source_id": "dji-mimo-ios-us",
+      "name": "DJI Mimo",
+      "ok": true,
+      "count": 1,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "gopro-quik-ios-cn",
+      "name": "GoPro Quik",
+      "ok": true,
+      "count": 1,
+      "region": "domestic",
+      "language": "zh"
+    },
+    {
+      "source_id": "gopro-quik-ios-us",
+      "name": "GoPro Quik",
+      "ok": true,
+      "count": 1,
+      "region": "global",
+      "language": "en"
+    },
+    {
+      "source_id": "insta360-ios-cn",
+      "name": "Insta360",
+      "ok": true,
+      "count": 1,
+      "region": "domestic",
+      "language": "zh"
+    },
+    {
+      "source_id": "insta360-ios-us",
+      "name": "Insta360",
+      "ok": true,
+      "count": 1,
+      "region": "global",
+      "language": "en"
+    }
+  ],
+  "ai": {
+    "enabled": false,
+    "ok": true,
+    "provider": "openai-compatible",
+    "fallback_count": 30,
+    "stage": "fallback"
+  },
+  "quality": {
+    "generated_at": "2026-06-26T12:32:08.631854+00:00",
+    "source_ok": 25,
+    "source_failed": 2,
+    "ai_enabled": false,
+    "ai_ok": true,
+    "ai_stage": "fallback",
+    "ai_fallback_count": 30,
+    "events_total": 30,
+    "events_pushed": 10,
+    "events_discarded": 0,
+    "events_without_evidence": 0,
+    "top5_source_mix": {
+      "IT之家": 2,
+      "大疆/影石 中文动态": 3
+    },
+    "top5_region_mix": {
+      "domestic": 5
+    }
+  },
+  "category_labels": {
+    "hardware": "硬件动态",
+    "software": "配套软件",
+    "marketing": "竞品营销",
+    "industry": "行业资讯",
+    "pmf": "场景/需求信号（PMF）",
+    "community": "用户/社区"
+  }
+}

@@ -1,0 +1,1657 @@
+{
+  "events": {
+    "f563edce8394b65f": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 - 光明网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "032b873d8cba46d8": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 - 观点网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "4480397d6f76ef5c": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "什么是天地一体通信？卫星、飞艇、无人机全是空中基站 - 中国科技网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "83fa406961497584": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 - 央广网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ac2834426537ab03": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "f086f2d8f312108a": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "韩国防部：将培训50万名“无人机战士”应对朝鲜 - 联合早报",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "4428711e9c012754": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "vivo",
+      "title_zh": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "807bad765618d518": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "020e9e5492ed5071": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "中国移动灵犀机器人夺得 MWC26 上海点球大赛总冠军：自主攻防，不用遥控",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "36bae3da3f394baa": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "努比亚 Neo 5 Max 巨屏手机现身 MWC26 上海：搭 7.5 英寸 1.5K LCD 面板、主攻海外市场",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "81ee547c4baf2281": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "DJI",
+      "title_zh": "可内录的迷你无线麦，大疆官宣 DJI Mic Mini 2S 麦克风 7 月 2 日发布",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "e57de9bf0a73d67c": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "Rokid 发布首款智能头盔，搭配 AI 眼镜可替代行车记录仪",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "6dbea0f1ef3ec994": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "蓝白联手封杀！台当局2100亿无人机采购案被挡下 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "22d9384421733b65": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "俄称击落47架飞向莫斯科的无人机 - 京报网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ff8a63c8d69ad630": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Insta360",
+      "title_zh": "影石创新：影翎全景无人机产品已于2025年12月起陆续实现全球上市 - 东方财富",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "b8ec0a108bad1d2c": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "e5e016c2b9e59268": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "DJI",
+      "title_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "2878f8ca6f102925": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” - 新浪财经",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "8b0f06106d0553b0": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "DJI",
+      "title_zh": "影石PK大疆，一场体量不对等的贴身肉搏 - 风闻",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "8f0d0c26b2cf64d2": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "千架无人机闪耀夜空 低空经济场景应用添新景 - shyp.gov.cn",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "f6a5c36a00e10609": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "俄军“天竺葵”自杀式无人机袭击了扎波罗热乌克兰武装部队使用的卡车 - 新浪网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "71bcf7793fe660c3": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "Counterpoint：全球消费与商用无人机设备市场未来10 年年均增幅14% - 同花顺",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "e9e60b3e7c79266b": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "无人机狂轰俄本土，普京提和谈遭拒，攻守已互换，真正的危机开始 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "705bc8af8a2a648b": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "2026国际无人机应用及防控大会在京举行 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "1d8f4a466810c39d": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "Rokid 祝铭明回应“乘客用智能眼镜偷拍空姐”风波：第一时间和相关部门主动沟通，去制定相关法律法规",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "f20b1de94ed92f4a": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ - 奥一网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "9ea0db6173877865": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Insta360",
+      "title_zh": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） - 东方财富",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "a6cc3db4b8cab1d0": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Other",
+      "title_zh": "俄罗斯称一夜之间击落660架乌克兰无人机 - chinanews.com.cn",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "92f7eb89dad4e1a4": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "Insta360",
+      "title_zh": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "0889c086ad27db3f": {
+      "first_seen": "2026-06-26T09:37:27.286914+00:00",
+      "last_seen": "2026-06-26T09:37:27.286914+00:00",
+      "brand": "DJI",
+      "title_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:37:27.286914+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "622692685fbed824": {
+      "first_seen": "2026-06-26T09:47:56.461262+00:00",
+      "last_seen": "2026-06-26T09:56:09.630839+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆 Osmo Pocket 4P 双镜头口袋云台相机正式发布",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:47:56.461262+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "6f94d24ac78cf4e0": {
+      "first_seen": "2026-06-26T09:47:56.461262+00:00",
+      "last_seen": "2026-06-26T09:56:09.630839+00:00",
+      "brand": "OPPO",
+      "title_zh": "OPPO Reno16 预热 AI Snap Key 与 LUMO IMAGE 影像能力",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:47:56.461262+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "4f5957b49d286b48": {
+      "first_seen": "2026-06-26T09:47:56.461262+00:00",
+      "last_seen": "2026-06-26T09:56:09.630839+00:00",
+      "brand": "Other",
+      "title_zh": "旅行 Vlog 工作流：手机、口袋相机与运动相机如何分工",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:47:56.461262+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "52fdf8d0d6b8d678": {
+      "first_seen": "2026-06-26T09:47:56.461262+00:00",
+      "last_seen": "2026-06-26T09:56:09.630839+00:00",
+      "brand": "DJI",
+      "title_zh": "DJI｜促销：SmallRig Prime Day Covers Osmo Action 6 and Pocket 4 Accessories",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:47:56.461262+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ff29b5a79705dda8": {
+      "first_seen": "2026-06-26T09:47:56.461262+00:00",
+      "last_seen": "2026-06-26T09:56:09.630839+00:00",
+      "brand": "GoPro",
+      "title_zh": "GoPro｜评测反馈：GoPro MISSION 1 Pro Review Finds Strong Video But Slow RAW Workflow",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:47:56.461262+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ba04d0f636795856": {
+      "first_seen": "2026-06-26T09:47:56.461262+00:00",
+      "last_seen": "2026-06-26T09:56:09.630839+00:00",
+      "brand": "GoPro",
+      "title_zh": "GoPro｜行业趋势：MISSION 1 Pro overheating after long 8K recording?",
+      "fingerprint": {
+        "importance_score": 3,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:47:56.461262+00:00",
+          "importance_score": 3,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "9ab6f1f0d64d0dcf": {
+      "first_seen": "2026-06-26T09:47:56.461262+00:00",
+      "last_seen": "2026-06-26T09:56:09.630839+00:00",
+      "brand": "DJI",
+      "title_zh": "DJI Fly iOS 更新至 1.21.2",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 2
+      },
+      "history": [
+        {
+          "at": "2026-06-26T09:47:56.461262+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 2
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/999/001.htm": {
+      "event_id": "622692685fbed824",
+      "first_seen": "2026-06-26T10:02:49.610102+00:00",
+      "last_seen": "2026-06-26T10:03:39.685897+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆 Osmo Pocket 4P 双镜头口袋云台相机正式发布",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T10:02:49.610102+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/999/002.htm": {
+      "event_id": "6f94d24ac78cf4e0",
+      "first_seen": "2026-06-26T10:02:49.610102+00:00",
+      "last_seen": "2026-06-26T10:02:49.610102+00:00",
+      "brand": "OPPO",
+      "title_zh": "OPPO Reno16 预热 AI Snap Key 与 LUMO IMAGE 影像能力",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T10:02:49.610102+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "sspai|https://sspai.com/post/fixture-vlog-workflow": {
+      "event_id": "4f5957b49d286b48",
+      "first_seen": "2026-06-26T10:02:49.610102+00:00",
+      "last_seen": "2026-06-26T10:02:49.610102+00:00",
+      "brand": "Other",
+      "title_zh": "旅行 Vlog 工作流：手机、口袋相机与运动相机如何分工",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T10:02:49.610102+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "petapixel|https://petapixel.com/2026/06/22/smallrigs-prime-day-action-camera-accessories/": {
+      "event_id": "52fdf8d0d6b8d678",
+      "first_seen": "2026-06-26T10:02:49.610102+00:00",
+      "last_seen": "2026-06-26T10:02:49.610102+00:00",
+      "brand": "DJI",
+      "title_zh": "DJI｜促销：SmallRig Prime Day Covers Osmo Action 6 and Pocket 4 Accessories",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T10:02:49.610102+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "petapixel|https://petapixel.com/2026/06/21/gopro-mission-1-pro-review/": {
+      "event_id": "ff29b5a79705dda8",
+      "first_seen": "2026-06-26T10:02:49.610102+00:00",
+      "last_seen": "2026-06-26T10:02:49.610102+00:00",
+      "brand": "GoPro",
+      "title_zh": "GoPro｜评测反馈：GoPro MISSION 1 Pro Review Finds Strong Video But Slow RAW Workflow",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T10:02:49.610102+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "reddit-gopro|https://www.reddit.com/r/gopro/comments/example/mission_1_pro_overheating/": {
+      "event_id": "ba04d0f636795856",
+      "first_seen": "2026-06-26T10:02:49.610102+00:00",
+      "last_seen": "2026-06-26T10:02:49.610102+00:00",
+      "brand": "GoPro",
+      "title_zh": "GoPro｜行业趋势：MISSION 1 Pro overheating after long 8K recording?",
+      "fingerprint": {
+        "importance_score": 3,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T10:02:49.610102+00:00",
+          "importance_score": 3,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-fly-ios-cn|https://apps.apple.com/cn/app/dji-fly/id1479649251": {
+      "event_id": "9ab6f1f0d64d0dcf",
+      "first_seen": "2026-06-26T10:02:49.610102+00:00",
+      "last_seen": "2026-06-26T10:02:49.610102+00:00",
+      "brand": "DJI",
+      "title_zh": "DJI Fly iOS 更新至 1.21.2",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 2
+      },
+      "history": [
+        {
+          "at": "2026-06-26T10:02:49.610102+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 2
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/969/232.htm": {
+      "event_id": "b02811f5f1038ed5",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "vivo",
+      "title_zh": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/969/226.htm": {
+      "event_id": "fdc01d651e24715c",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Nikon",
+      "title_zh": "老蛙 180mm F4.5 1.5X 放大微距镜头新增富士 X / 尼康 F 卡口，3499 元",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/969/147.htm": {
+      "event_id": "17ce312eb2023ed2",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "Swissbit 发布 A2000 系列工业级固态硬盘：TLC 直写，至高 1DWPD",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/969/109.htm": {
+      "event_id": "438172ba74562460",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "Kubuntu Focus 带来 Linux 轻薄本 Ar GEN 1，搭载 X7 358H 处理器",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/969/097.htm": {
+      "event_id": "4428711e9c012754",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "vivo",
+      "title_zh": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmixefvx3lxtfbvltv0nvppltnmttj6rxrhavdtyzzfcenqqzfjcm5kzum3mnnjengxs1pjuc1obwvcz3g0vffxwjvwb011rfpgcgxyvkjhnemzu1zttmtqcgnlog1r?oc=5": {
+      "event_id": "373815e32fdf1bb9",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "Pocket 4P发布在即，大疆首度披露手持影像技术路线 - 证券时报",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmizefvx3lxte15z3prvvnlogo4wvfqzm5zudrfvvhhz0pqsvbctfr4vhdhry1zwgxwtfl6bvqyatfjejf0tnlsz1ppuwffq280n3rarkxumfbqskv2cffsngryn1vimktirko5whe?oc=5": {
+      "event_id": "4bfae4bb92dd4d72",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆回应Pocket 4 系列供不应求：正加快补货并打击异常抢购 - 新京报",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmixkfvx3lxte9mzvdbs2lnr3jau0ytujvbn2e3vhvsdldxv2dcuhhhznq5vkfrclnyyu9lntfftkpkwnncohdfue52whc5mujjrle2s0h6smhueehhejzxcejzedfxaxc?oc=5": {
+      "event_id": "cce4abded91d4752",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "无人机、无人车和机器人协同送快递，浦东金桥打造“新通信全空间无人体系” - shobserver.com",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmizkfvx3lxte1qz1o3d043ytrsvmq1q3nyltdkwur3cnq0clpiohzfqxllrfbgrm1wtg9iswrjnjvtc2dxbk9rnlyzexvpd0hgb01cc3hobfpyoudtsewwtmn0z1rntmfjry1ytnjsqq?oc=5": {
+      "event_id": "f20b1de94ed92f4a",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "深圳一男子“黑飞”无人机航拍视频公开传播，警方：行拘！ - 奥一网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiaefvx3lxtfazqwt5a1zrm3bpuvriudjyrlducexauutfuxn5te9ymtljuzb6mjhsowvkmzjjuzjecmvuc1pjwjn0tvpiemlamdhbrhf2muk0vljkcuwxcdjwrxhxmk9hcgsysmdtnwnk?oc=5": {
+      "event_id": "a6cc3db4b8cab1d0",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "俄罗斯称一夜之间击落660架乌克兰无人机 - chinanews.com.cn",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiwefvx3lxte5hbtnwevlhrxz1a3m0ueffqtjwcdr6auprehnxqmgxuv93ylz2sjbzrnb2umlnyv9lqnrdemdpvkdizunvemlpy1fuvgjkexrwwhhvbghjv0i?oc=5": {
+      "event_id": "93f03ae657de1975",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆影石竞争激烈 GoPro快被卷没了 - 驱动之家",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmijafbvv95cuxpdtdzatrwyuqxelj3menis2lwukdjag5znhvnt29pzu1ymk1yluhiu1r4znytazv1mwm0zldxn1bwturpd3lzvufidfj5mze0wdn6y2njy3c2d3vtc0vknzj1mxuxzf9hsm16zvlodnj6umjxdxvks0xwdhvmm09bvecyt3fosi0yrfvttg?oc=5": {
+      "event_id": "6c70976c59d2273a",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "IDC：Q1全球手持智能相机市场增长33%，大疆影石包揽近9成 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiykfvx3lxte1hufffzzhmatnkeetoc3rrt19hu0wzzy1ysxr3zggwutfmchzzrv9kano4whzrbxnfnex1atvin0h2dkdrymffthj0duj4v1fhbvjkmgu0thfxm21ftzv0zy13?oc=5": {
+      "event_id": "032b873d8cba46d8",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "美国无人机初创公司Elroy Air即将达成8亿美元SPAC交易 - 观点网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiiwfbvv95cuxpqwxuvfhcegxsmmpwu05aulzxmklutm4xzy1tsmngb0pnrwhvdutgawotsdhidzgzwlr2mkq4qxr5cwlvrxa0blrrv2hyogxjohjrctuwtlbna3hvb3h6vkznvlo3ehpvmxp4btv0aueta1ddaezoc3lncvjas0rzsvu3s2vcexpsml9v?oc=5": {
+      "event_id": "d46acf8f3200f7fc",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "两月建成60座无人机机场，常州电网正式迈入全业务智能自主巡检新阶段 - 中国江苏网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmihwfbvv95cuxqvmqysdr0exzwvmfrv0nnnupxv3uxczvtvkdkzezjt21rd3vlbk51bdqzcutsy0htrdldv1boofdkvgfhdzczvjkwcedkcwzsofjeyvfuylhjahaws3lov1vnowdetm9jzxjnagtjb0e2oecttva5agnlmkz4vhbuzwf2r0z1a0k?oc=5": {
+      "event_id": "92f7eb89dad4e1a4",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Insta360",
+      "title_zh": "“国补”风波下的影石创新：大批股东抛售，市值跌超六成，新款线上断货，刘靖康遇“本命劫”？ - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmisefvx3lxte1ute9xc0rruutwnl9fn1p4rfhusmprt3hybllcx0nxbnjpx1cta1dyn0hnde1qvenzq1rdd3dmoxrwz1zzani4rq?oc=5": {
+      "event_id": "e555514d529ff729",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "蓝白联手封杀！台当局2100亿无人机采购案被挡下 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiy0fvx3lxte5rsuq2rtc2q2c5vly5whhlvlrzdkntamr6eejfyjzmlvhwtklfq3o3tgtuas1omnz5z01nvwkywlbun0h1duhmawlyvhbyzknxwgq2a2zwm3vadlrkzmm3bewtuq?oc=5": {
+      "event_id": "db14eb152112f0bf",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Insta360",
+      "title_zh": "大宗交易：影石创新成交1566.36万元，折价1.00%（6-26） - 东方财富",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmilafbvv95cuxptzhkrvf3rtm5xzl6dedwr2nybkxswvo5wnczc3jfdzh1othsdzm1uwp2d3limxjpbwfea0ltahf3oxlkbkxkbgy3z19dwe4yywvswfdvc0ftzjnjy09kcnj4sudyn2y2aetwauzwbfnxwfpouxmtzknqagzlm2r6mnjqb2u5nu9mdwnodmv3uuhfmtdq?oc=5": {
+      "event_id": "0889c086ad27db3f",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiyefvx3lxte1uae5gaenmr1brr1b1vk5tb1zds1flcwrxckrmugrvum5tqtrjdk84dhjzv0flsenvu3hpq01jnxvzlv8zdudzd0prnkvqszhhs0lpbe1drfowtgy1dlfqrw?oc=5": {
+      "event_id": "f563edce8394b65f",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "2026国际无人机应用及防控大会：赋能万亿低空经济新发展 - 光明网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiw0fvx3lxte9vclvqcmq3tkrkzgrrs2xtszdsetzawg12albqmmlkwno4cnjpsxe1ellusmhja0r2vwp5mxrwyjlou0z4rjvptwc2zjfbwdn3mjfjcufvudfuqk0?oc=5": {
+      "event_id": "e5e016c2b9e59268",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "全球泛运动相机市场：影石、大疆各占4成，影石同比增长66% - 风闻",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiykfvx3lxte9yyzvxufdiz183owrimjzodfbmdgrinkdncdzwumhabe5mbgx3ntdtreqzdjbrltlfuvlsaxbjr2zyofz5mhp3qzbrrnpxmeluyvhqtuc2mtrezdhxedyxmnh3?oc=5": {
+      "event_id": "6d871067fdea5d58",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Insta360",
+      "title_zh": "股票行情快报：影石创新（688775）6月26日主力资金净卖出4243.64万元_主力研究 - 证券之星",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmipwfbvv95cuxothb3ne9covn3ze5wwg1ymkhbsthkvhy4vud2ow55vvhmuvltrulimghjd040rmxocglmsdz3q0r6n0rxlu5oc2ztsmp1dmjxwdlltfbiltrqnzhstndpbfraaekzyw56ajuylvdzaufuntz2cmjhrwrqyje1ytkwudl5wv80x1fdrg8xz0nvu2letg9bb1dvn3nid0zcvzrsmm9mrhdsbw?oc=5": {
+      "event_id": "b8ec0a108bad1d2c",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆 Osmo 618 领跑多平台，运动/全景/可穿戴相机多赛道登顶 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmihwfbvv95cuxny2c2uldmrmv5dxfzrjjhagw3tvc1xzqtb3hirvfanefgwdzoothqqtrbwfptty0zvwxft1vxsgxrdty5bmhyueprdu9jauexaxppt1p2awdwudhfz01xzehpdflwqwvilvk4tfgxr1z5ne5fnudxyup0lxz0suriqmzqc0putws?oc=5": {
+      "event_id": "e41958eb6ddd99f5",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "专利之外，影石与大疆角逐零售终端 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiiwfbvv95cuxpcgrpnkniskzlueiwmtyxqky3u3pft2n4qxblohfbthfoz2dvwl91s0lhszz0dui5sknvx3nqs0fjcgvjotvsa05xc3r1uji4wvm3zktoow5rogm1rnfaovj5mfpbohezttbjr25qc2jyvli5a2txazdmelnloxlynvc5q2pztjzsowrn?oc=5": {
+      "event_id": "ac2834426537ab03",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆启动2027校招：底层技术岗位增多，芯片与算法是重心 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiakfvx3lxtfaxd2t4oxfpcdlzdgj5sgnkddnnrurbbdm2ugj4duxztfnqsuvrsnlauuvebtdunmrvtvoyelrelvbvtjyxnthxwndat2zarkjfrgowrdlcb216yuzszhrlrmxxovvwbvy1b2c?oc=5": {
+      "event_id": "83fa406961497584",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "聚焦北大荒丨八五四分公司植保无人机飞防作业 精准赋能大豆夏管提质 - 央广网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmipwfbvv95cuxpvgxly094ylbrwvjlu3vyu0dgb2c2aduzcvpxdufkuzj2uv9bmvruwupcckromxrhqzvqr2hisfzmutlmd2n5eeqzx2vvdvdjvnnzcfjru2zrshkzmtrxy0s4rfrtewetaue4umduujjkqmdlqk41dfpin29wyjfyqme1txpseljiakx1t01ux0x2s0lkawnymwx2q0jhskmwu3bmnnzzsq?oc=5": {
+      "event_id": "52566674a5dc08b3",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆回应“Pocket 4 系列抢不到”：首批备货比前代提升近 10 倍，已锁定部分黄牛团队 - 新浪网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmia0fvx3lxte5xvkvsnepnx01rtu95ohhlx3iyyw9qdu5sbgl2czvxbwwxdflxa1zgn0vrqjlwbfdhelkzq0jtaxlmmwmxtgvfdujots1rrvatbldmbhfyru55x2h4emxjagncnl9acjrjtenv?oc=5": {
+      "event_id": "1b21f49a39dd7756",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "浙江大学研发机载AI控制系统无人机自主习得窄缝穿梭能力_车市动态 - 中金在线",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmif0fvx3lxte5svutmytziwmlfrte2blzxmuv1u0tqnuhvejveduvhmgr4bza3refny0w5sdzquurrv3c1nnnuoflpeemtyu1sntexu3fjntr1zflov1vqzzjytmdxcjiwcdljewxpaw1mc0e4yy1dutljrwu3zmztammwdwphnlk?oc=5": {
+      "event_id": "1d4eaf297f832aab",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "Pocket 4系列抢不到 大疆回应：正推进生产 已溯源锁定黄牛 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiiafbvv95cuxoazryt2jjwu9iu2lysjdscl90stbjn2nix2niz0hzse9fbzg1nkw5d1jftknkz1p6aurnthkxvjhcang3t0i3emjyn2fhawgybmjxylhwsgdushm3thvqqkdiwdkxetrrum93uge4swhvterxmuffu3vmu3rfr0fxmwq2bhn5bkvt?oc=5": {
+      "event_id": "c5cbf6df135222db",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆独家回应：警方对“黄牛”采取刑事强制措施 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiakfvx3lxte5qbzhfnlhnykpssy1qvxruq0dpd285qnnienpmuwpxz3hay0hvvgzla2dzwllnqwfpeu1la2famnzyrg5wc0x3sdhoavfnlwlqnl9zvupsry1vnl9cuu1kx3hxwgjobk93cnc?oc=5": {
+      "event_id": "f086f2d8f312108a",
+      "first_seen": "2026-06-26T12:32:08.629621+00:00",
+      "last_seen": "2026-06-26T12:32:08.629621+00:00",
+      "brand": "Other",
+      "title_zh": "韩国防部：将培训50万名“无人机战士”应对朝鲜 - 联合早报",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-06-26T12:32:08.629621+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    }
+  },
+  "runs": [
+    {
+      "generated_at": "2026-06-26T09:37:27.286914+00:00",
+      "candidate_count": 30,
+      "new_count": 30,
+      "updated_count": 0,
+      "pushable_count": 5,
+      "pushed_count": 0,
+      "source_ok": 26,
+      "source_failed": 1
+    },
+    {
+      "generated_at": "2026-06-26T09:47:56.461262+00:00",
+      "candidate_count": 7,
+      "new_count": 7,
+      "updated_count": 0,
+      "pushable_count": 3,
+      "pushed_count": 0,
+      "source_ok": 6,
+      "source_failed": 21
+    },
+    {
+      "generated_at": "2026-06-26T09:56:09.630839+00:00",
+      "candidate_count": 7,
+      "new_count": 0,
+      "updated_count": 0,
+      "pushable_count": 3,
+      "pushed_count": 0,
+      "source_ok": 6,
+      "source_failed": 21
+    },
+    {
+      "generated_at": "2026-06-26T10:02:49.610102+00:00",
+      "candidate_count": 7,
+      "new_count": 7,
+      "updated_count": 0,
+      "pushable_count": 3,
+      "pushed_count": 0,
+      "source_ok": 6,
+      "source_failed": 21
+    },
+    {
+      "generated_at": "2026-06-26T10:03:39.685897+00:00",
+      "candidate_count": 1,
+      "new_count": 0,
+      "updated_count": 0,
+      "pushable_count": 1,
+      "pushed_count": 0,
+      "source_ok": 6,
+      "source_failed": 21
+    },
+    {
+      "generated_at": "2026-06-26T12:32:08.629621+00:00",
+      "candidate_count": 30,
+      "new_count": 30,
+      "updated_count": 0,
+      "pushable_count": 10,
+      "pushed_count": 0,
+      "source_ok": 25,
+      "source_failed": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-06-26T12:32:08.631854+00:00",
+  "source_ok": 25,
+  "source_failed": 2,
+  "ai_enabled": false,
+  "ai_ok": true,
+  "ai_stage": "fallback",
+  "ai_fallback_count": 30,
+  "events_total": 30,
+  "events_pushed": 10,
+  "events_discarded": 0,
+  "events_without_evidence": 0,
+  "top5_source_mix": {
+    "IT之家": 2,
+    "大疆/影石 中文动态": 3
+  },
+  "top5_region_mix": {
+    "domestic": 5
+  }
+}
