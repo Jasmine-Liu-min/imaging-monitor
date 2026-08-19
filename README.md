@@ -115,6 +115,8 @@ So although these files are generated, they are part of the product surface and 
 | <img src="docs/screenshots/01-总览.png" width="380"> | <img src="docs/screenshots/02-重点动态.png" width="380"> |
 | **竞品战卡** | **硬件动态** |
 | <img src="docs/screenshots/03-竞品战卡.png" width="380"> | <img src="docs/screenshots/04-硬件动态.png" width="380"> |
+| **飞书推送卡片** | |
+| <img src="docs/screenshots/飞书截图.jpg" width="280"> | |
 
 ## Documentation
 
