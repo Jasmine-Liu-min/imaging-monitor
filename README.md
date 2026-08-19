@@ -108,6 +108,14 @@ It serves two purposes:
 
 So although these files are generated, they are part of the product surface and should stay in the repository.
 
+## Screenshots
+
+| 总览 | 重点动态 |
+|:---:|:---:|
+| <img src="docs/screenshots/01-总览.png" width="380"> | <img src="docs/screenshots/02-重点动态.png" width="380"> |
+| **竞品战卡** | **硬件动态** |
+| <img src="docs/screenshots/03-竞品战卡.png" width="380"> | <img src="docs/screenshots/04-硬件动态.png" width="380"> |
+
 ## Documentation
 
 - [Project Background](docs/project-background.md)
