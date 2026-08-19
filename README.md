@@ -80,7 +80,7 @@ AI_WIRE_API=chat
 AI_API_KEY=sk-...
 ```
 
-More templates are in [.env.example](/Users/insta360/Desktop/学校/imaging-monitor/.env.example).
+More templates are in [.env.example](.env.example).
 
 ## Repository Layout
 
@@ -95,7 +95,7 @@ data/              generated outputs kept for demos and history
 
 Main entry point:
 
-[imaging_monitor/cli.py](/Users/insta360/Desktop/学校/imaging-monitor/imaging_monitor/cli.py)
+[imaging_monitor/cli.py](imaging_monitor/cli.py)
 
 ## Data Policy
 
@@ -110,9 +110,9 @@ So although these files are generated, they are part of the product surface and 
 
 ## Documentation
 
-- [Project Background](/Users/insta360/Desktop/学校/imaging-monitor/docs/project-background.md)
-- [Feishu Card Samples](/Users/insta360/Desktop/学校/imaging-monitor/docs/飞书卡片样例.md)
-- [Demo Script](/Users/insta360/Desktop/学校/imaging-monitor/docs/演示脚本.md)
+- [Project Background](docs/project-background.md)
+- [Feishu Card Samples](docs/飞书卡片样例.md)
+- [Demo Script](docs/演示脚本.md)
 - `docs/screenshots/` dashboard screenshots
 
 ## CI
@@ -126,8 +126,8 @@ GitHub Actions:
 
 Workflow file:
 
-[.github/workflows/imaging-monitor.yml](/Users/insta360/Desktop/学校/imaging-monitor/.github/workflows/imaging-monitor.yml)
+[.github/workflows/imaging-monitor.yml](.github/workflows/imaging-monitor.yml)
 
 ## License
 
-[MIT](/Users/insta360/Desktop/学校/imaging-monitor/LICENSE)
+[MIT](LICENSE)
