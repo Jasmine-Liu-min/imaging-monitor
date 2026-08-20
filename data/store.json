@@ -1658,9 +1658,9 @@
       ]
     },
     "dji-cn-news|https://news.google.com/rss/articles/cbmiywfbvv95cuxnaedrefbwz0hnz0e0q1dnx0datzr1exzhwk9nnwnmywnon0toovpwzmj4rujjzurun3j3nvnvughgzwnxmldjck54lwxirtfhmwhinlznellrtwloazzkntzrwnllq04zx0lqy0o1svawmxy0d2dlcth0wjv1slzxuxjardc1ym5ftzlteffxunrrcg9nslo2btnyr2zdekc4y2zerdbdr2nwc0houwvetha3ofc3vwrlrfrenmk0ywg1zjdjq0l4ylvlyw?oc=5": {
-      "event_id": "191a1e78449763de",
+      "event_id": "15b81c1bd37a5f2a",
       "first_seen": "2026-08-19T10:57:17.402169+00:00",
-      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
       "brand": "Other",
       "title_zh": "台湾军方演练乌克兰FPV无人机战术 - voachinese.com",
       "fingerprint": {
@@ -1922,9 +1922,9 @@
       ]
     },
     "dji-cn-news|https://news.google.com/rss/articles/cbminwfbvv95cuxprnfprmz3ogdiru54rnn1tw53amc5tzfgedkxtdbxz3liwelxz3vrmm9ovefxmwpfednqdfm4wexvte1kavvxbmtfzw9fbkxfekczazfrshlmnhkwneoyc3rlunvklvl6umjyehrwmjlcmw1dvnjwcvpsslfaq1hkcmx5uxpfteo4n3jps3jorg1fzghunmxfdez3enezdk3saaibqvvfexfmt1vxttnqnzbbrfu3uec2oxjvz2pdr2zfbvbycfl6q01ky290a3dgrxjvzji2nxnhss1zunpvdel0elfimufzefrpn1z5wgp6d1pqqxbbttluuexta3u3cmlwtkxsntfvdlytzlltrw9qbu1tre1qlwdttlpjtmp2vjvheefuznroekpnum9fcjlhqk9zcuhlve9ry2tvohzudxrr?oc=5": {
-      "event_id": "50e3c8a2850c1e7c",
+      "event_id": "343f5f50becc9a92",
       "first_seen": "2026-08-19T10:57:17.402169+00:00",
-      "last_seen": "2026-08-19T10:57:17.402169+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
       "brand": "Other",
       "title_zh": "台湾陆军实施实战化无人机“第一人称视角”实弹射击演习 - voachinese.com",
       "fingerprint": {
@@ -2250,6 +2250,622 @@
           "evidence_count": 1
         }
       ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/991/993.htm": {
+      "event_id": "23b27e2775de3c68",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "谷歌在搜索和 Gemini 中推出多款全新 AI 学习工具，含交互式可视化内容、3D 模拟等",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/991/991.htm": {
+      "event_id": "c8cacbf507f34dc3",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "Meta Muse Video 生成视频样片曝光，单次 AI 最长生成 10 秒视频",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/991/943.htm": {
+      "event_id": "ada4fb9242b4dc74",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "初探苹果 iOS 27 版相机应用：新 Siri 模式可估算食物卡路里等",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "sspai|https://sspai.com/post/113638": {
+      "event_id": "d2ad4b27ea90bf9b",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmixkfvx3lxte56bvpiuhzzcnnyymlvb3lwyzhmwf9xcdr6sdnwmljunmdnzzbis19psemxrhjbb1hnt1ixvnm1a1hqmwu1cja2vzdft1feneo0tjfjdlzmq0x4mkc5twc?oc=5": {
+      "event_id": "64279d55eee68ce9",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "国产消费级运动相机“上天”，高清画面记录发射全流程 - 京报网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmib0fvx3lxte9jdklzztvithj4ehjoagxovnjlshlsnlrpt0fhy1bmv3rlwny2q2v5enutd091undizljor29uew9vnuxsntbzohdswfllwkrvz05udzhva0zqowvlze0taulraerln3ptx28wqznzyw?oc=5": {
+      "event_id": "0f4b3aa67676a3fb",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "无人机高空喊话 野泳者赶紧上岸 - qzwb.com",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmif0fvx3lxte1erlfnzxi3n3fnelbhuufwmxvru21yywjys1r4su55yni2x016ovuwcgndlukzqjf0m1bnndbtchzank43wtc0tkpqwdlnchrmy1hlbthmr3lawndymee3nvyyzdnrcevlnvi2qlzjdvm3culpy3bzvungx1zun00?oc=5": {
+      "event_id": "4df81c78bcfa116a",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Insta360",
+      "title_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmis0fvx3lxte9nmmxsvlkxz3nrmg5ntknpbnb0dudumwxjd212x0v3uleyy1lzdxr5ovjkqla0wde1a3hczmg4bmvmev9bowphmmlrvq?oc=5": {
+      "event_id": "3f014a4f2899bc85",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "中国“截击无人机”首次曝光，用蜂群战术应对蜂群无人机 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmivefvx3lxte94zkotdwzqevuyswq5mvhtrkdxze1lnkc5tnvmcxkzeexbzzzvcdhkytbpclduy1zjcwnvwvh3nmjvou00tzdobvffafi2wtbxshfita?oc=5": {
+      "event_id": "1a49c8d4d99cd516",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "长江航道启用无人机巡检，锻造水上守护新力量​ - 见道网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiwefvx3lxte5pamx5b3y3euvssfj6skq1ce5yqs1aa0lxanzswurqztl2ddn1sg93cemznezsqnzhwnn2unhkrhg3azldsvvfchpurkdsr1pgalduelpdrzm?oc=5": {
+      "event_id": "85faf7fdeac25fcc",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Insta360",
+      "title_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmibefvx3lxte1hytvfb2y0rxrxlujawemzx0zkc0qzruqzmzludnvirjzntgnkvm5xthnwanltvdgyz003vfzoqzg0sknkruowyl9mv29cmzvtsxdommpyt08tmgpla1dim0vibertlu5xttf6dw?oc=5": {
+      "event_id": "26ab7ee895e1f7ea",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "DJI",
+      "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiaefvx3lxte4tqkjjqk92ahj4nkmxzjnxttq2um9xd1a2dw1jwtztoelqufywetrywnlwbkjptdfiqzrzexnha2s2rjhoa0zor3j2c2f2atlsoth5lwzzetbktjk5sfvztmtwadljvwzb?oc=5": {
+      "event_id": "a2bd2aaaa8c6de44",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "乌称俄军无人机袭击赫尔松市一辆公交车 致4死5伤 - 央广网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmizefvx3lxte4ycvd3zjficljcunaxvmxcsnztvi0ts2xiqwpfqjbwehfvtujknxkzzdv0wxa2clrac0l5lwxvm2xoddb3sdzfs2njsvbxzzljwjlztjrbs2jtd3n0wja0tmhxsvk?oc=5": {
+      "event_id": "fa42083b92755ec9",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "国网兰州供电公司：无人机验电接地技术纳入国家行业标准 - gsjb.com",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmipwfbvv95cuxovzb2tvp3s1l1ve9rqlrhavheu1badnpwwelga1lwotzpyxhrck5itel5vgpplvfdeljpc1bfeur0ckvjb2zpm01ad3rfdljhltnrz2dvyk1eaznbcgjbwxjzn0d0duvla2xuwwi0enzjwv9ux3hyb01krfh1zmprbeiwwwhsbnpfstfvwwjswwpjseu3vgczuxllsdvloutus3y2vw5raw?oc=5": {
+      "event_id": "8652485e5c62a017",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "暑期爆火的运动相机：买就吃灰，租才真香 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmieefvx3lxte1mendlv2c3dnnlzmm4aghswhvxuml2z0vnbelsbflbx25rx19jlwr6a0rkajbzmvbmq1o5s3jlwxh3yxntnhlheljseuhyzkriynvmmffozetucuxbdvbzuenqnf9iaedtrjnwt0z2vgjdauforl9svg?oc=5": {
+      "event_id": "64870cb52b663d20",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "国产消费级运动相机首次直接往返太空，完成火箭回收全流程记录 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmitefvx3lxte1qodfnlxy4www2nfdwstrwwhozunzjnvexykz2yzzmdkjsz2rsnm5zrlmwt09wrk9ynw53q05iq0g0mg1hdfptulm1mei?oc=5": {
+      "event_id": "ba4d15c885af3b85",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "俄军使用新型声控无人机，伏击乌军 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmixkfvx3lxte1kwjnzwmdrmdmtdws5d19mc0fiyu4yaerds3vuudbeouj0svi1r0fzx0zdvdgxafnldnpizfaxlvflog1snjdpzwjzelplsxpgshz6czrlm19mutnyohc?oc=5": {
+      "event_id": "a1c052f87cccb8e9",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆硬刚美国国防部，打出了关键翻盘 - 京报网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiwefvx3lxte1xvzvjwc1denppedyxbmxxnzfvazrzd0n3dghwt3donghfwgxabmnwywtnm2x4rw13mkdbwmxkagfivxnlemlxt3pvzdnxyxnysff3v3mxbjg?oc=5": {
+      "event_id": "fb837c374e213576",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmis0fvx3lxte5tyurudtvkevbsnmftwjhknwpistbkq2yzre00m2f4metpvjzrm1k3elpdetnjadvda0jxvlhcsvhqvu5bajv5txcwwq?oc=5": {
+      "event_id": "8b49dffd64c35b80",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "美司令罕见认栽，本土基地无力防无人机蜂群，五角大楼21亿急补漏 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmif0fvx3lxte1btujpzknfbjhvc1o1de1yq3vksmniz2xvotv4twtiqmg2ctnycktsmnzwvnrubuh6a09ernlytehhqu1evhvzay0zuezyt3p0q2dyd3rfn0loqklzevpidwlytjhsmetxctc5mvppowdauf9cn1byyjb1q3hfnhm?oc=5": {
+      "event_id": "d85a243aaabd4001",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Insta360",
+      "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmitefvx3lxte8taudms1hmdefjd1vvvf85qi1yukxunefkmllvzktkuvaweknyd1c0rexhx2nns2rtvhhxzwdgouhdbjqyy05lb3hgqnc?oc=5": {
+      "event_id": "5790f2fb7819d360",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "日本电商巨头，被曝涉足进攻型无人机 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmickfvx3lxte5feuhumldfv0sxeujkrhnfmgx0ruffdupdu3dkvgztyxljay1wb1ppxzq5ckjpoulwekrgm2pxrtzun1nzrmjwwudyc0g1tld5ejgztvhsdjdyadnlwjrtd0jpvk1kywxuegdmrlvtqlbqdw?oc=5": {
+      "event_id": "f6b85e3be1dcc4f3",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "日产厂房将造军用无人机？紧邻美军基地，日本军费暴涨 - 新浪网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiyefvx3lxtfbnqwhgz1a5xzhpzdvhqjrsqs1utkk1ekjnbtgzdteyvuluamlkuvu2d2zaejvualvkcnfkbvrvdnkwykjddermx0lydzetatrtv3zttjfznfbkqwrpszrxva?oc=5": {
+      "event_id": "456b6d9eb216f7ad",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "亚马逊无人机配送迎来全面扩张 年底将覆盖近500个美国城市 - 东方财富",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmicefvx3lxte84am1bthjza0rtvke0we90xzdssxp4ekxrwlvotlrstna3mdfwt29odmhgczjvzue2t3hvtgk1vg9twjzqzhg2cglfr2tsahrovhprbc1py1jxuzbtaxp6utr2mgxpujcza2zucwi2t0e?oc=5": {
+      "event_id": "6b48566eca29b84e",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "首个航天 “影像盒子” 随朱雀三号完成天地往返全过程拍摄 - 中国科技网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiiafbvv95cuxongvnbtrovwp6nxvgdllrmxnkdjhqbvdsterfdzrvnetkafl6agpqowduzurkyjlsvurrdvrltefjtfnduhuytwrxtti2amdfyuhtq3b5suwwsmrhngq3c2otznnwuvvidhj1addqafnkt3y3rznzvtvawg5grznumggxegcwc2df?oc=5": {
+      "event_id": "17a6ab69d17804c5",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "呼和浩特公安38名警用无人机驾驶员持证结业 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmivefvx3lxte8zq21nv0xsa3p6zhzhakporeqwahqyzjl5zhh0thzzn18tn0hvufjln0s5ttzez0rtzgg1uuj3rzfrq3eywwvhv295ltjyuhiwzwtcta?oc=5": {
+      "event_id": "4f4102670fa55d52",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Insta360",
+      "title_zh": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmigafbvv95cuxoyjjtvmdvdfpdwjuycmraylzodv9eswhhamexqlrlt2c2v05wnljjsfd0ec1krjbyyklhmmvvmthqcutor1zjenbmyjhdwgxunvhqq2fwzu9otvhxu25dvm42zfjxngvgzwe1eudvaznwdvrnd19svnfinvpyy0hqcw?oc=5": {
+      "event_id": "6bd174e599b6e4aa",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "中国无人机防御系统正在快速开发其替代方案 - 新浪网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmic0fvx3lxte92ymlmuw9neg5sulczvzjqn1l3s1v2c2zks0u0tefocgv5lw1qaghyuevtnexzturlmw9bbmozogjom1i1bwlvvzhomlq0rjlpzffnodhysgn0uwvhufn5vuzfwlzoyvhlmzljogvynmx5z00?oc=5": {
+      "event_id": "817021e201953dd6",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "last_seen": "2026-08-20T03:25:16.737450+00:00",
+      "brand": "Other",
+      "title_zh": "乌克兰无人机摧毁了俄罗斯在别尔江斯克的运输卡车 - 新浪网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-20T03:25:16.737450+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
     }
   },
   "runs": [
@@ -2319,6 +2935,16 @@
       "new_count": 30,
       "updated_count": 0,
       "pushable_count": 4,
+      "pushed_count": 0,
+      "source_ok": 25,
+      "source_failed": 2
+    },
+    {
+      "generated_at": "2026-08-20T03:25:16.737450+00:00",
+      "candidate_count": 30,
+      "new_count": 28,
+      "updated_count": 0,
+      "pushable_count": 6,
       "pushed_count": 0,
       "source_ok": 25,
       "source_failed": 2

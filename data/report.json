@@ -1,33 +1,32 @@
 {
   "title": "影像行业与竞品信息监控报告",
-  "generated_at": "2026-08-19T10:57:17.404998+00:00",
+  "generated_at": "2026-08-20T03:25:16.740802+00:00",
   "window": {
-    "start": "2026-08-18T17:57:17.404445+00:00",
-    "end": "2026-08-19T10:57:17.404445+00:00",
+    "start": "2026-08-19T10:25:16.740231+00:00",
+    "end": "2026-08-20T03:25:16.740231+00:00",
     "hours": 17
   },
   "week_tag": "2026-W34",
   "summary": {
     "candidate_count": 30,
-    "pushable_count": 4,
-    "top_count": 4,
-    "new_count": 30,
+    "pushable_count": 6,
+    "top_count": 5,
+    "new_count": 28,
     "updated_count": 0,
-    "new_pushable_count": 4,
+    "new_pushable_count": 6,
     "source_ok": 25,
     "source_failed": 2,
     "domestic_count": 30,
     "global_count": 0
   },
   "category_counts": {
-    "pmf": 1,
-    "industry": 24,
-    "hardware": 5
+    "hardware": 13,
+    "industry": 17
   },
   "brand_counts": {
-    "Other": 22,
-    "DJI": 6,
-    "Insta360": 2
+    "Other": 23,
+    "Insta360": 4,
+    "DJI": 3
   },
   "region_counts": {
     "domestic": 30
@@ -36,39 +35,39 @@
     "zh": 30
   },
   "decision_counts": {
-    "dashboard_only": 26,
-    "push": 4
+    "dashboard_only": 24,
+    "push": 6
   },
   "top5": [
     {
-      "id": "1938b60308dbabdc",
-      "title": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
+      "id": "4df81c78bcfa116a",
+      "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
       "brand": "Insta360",
       "category": "hardware",
       "event_type": "行业趋势",
-      "summary": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
+      "summary": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
       "details": [
-        "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
+        "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
       ],
       "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "threat_level": "medium",
       "heat_score": 3,
       "confidence": "media",
-      "published_at": "2026-08-19",
+      "published_at": "2026-08-20",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-      "title_original": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
+      "title_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+      "title_original": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
+      "summary_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
       "details_zh": [
-        "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
+        "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
       ],
       "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "importance_score": 5,
@@ -77,68 +76,23 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
-          "snippet": "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
+          "snippet": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
       "is_new": true
     },
     {
-      "id": "4ae90e8a7ffb8fb3",
-      "title": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-      "brand": "DJI",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-      "details": [
-        "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-      ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-      "title_original": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-      "details_zh": [
-        "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-      ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-          "snippet": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
-      "is_new": true
-    },
-    {
-      "id": "0ad28e96a3abf4c6",
-      "title": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
+      "id": "85faf7fdeac25fcc",
+      "title": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
       "brand": "Insta360",
       "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
+      "event_type": "新品发布",
+      "summary": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
       "details": [
-        "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
+        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
       ],
       "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "threat_level": "medium",
@@ -146,19 +100,19 @@
       "confidence": "media",
       "published_at": "2026-08-19",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-      "title_original": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
+      "title_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+      "title_original": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
+      "summary_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
       "details_zh": [
-        "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
+        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
       ],
       "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "importance_score": 5,
@@ -167,23 +121,23 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
-          "snippet": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+          "snippet": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
       "is_new": true
     },
     {
-      "id": "a7de6686028fbdad",
-      "title": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
+      "id": "26ab7ee895e1f7ea",
+      "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
       "brand": "DJI",
       "category": "hardware",
       "event_type": "行业趋势",
-      "summary": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
+      "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
       "details": [
-        "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
+        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
       ],
       "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
       "threat_level": "medium",
@@ -191,19 +145,19 @@
       "confidence": "media",
       "published_at": "2026-08-19",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-      "title_original": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
+      "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+      "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
+      "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
       "details_zh": [
-        "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
+        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
       ],
       "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
       "importance_score": 5,
@@ -212,45 +166,135 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
-          "snippet": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
+          "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": true
+    },
+    {
+      "id": "fb837c374e213576",
+      "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
+      "details": [
+        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
+      "details_zh": [
+        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+          "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": true
+    },
+    {
+      "id": "d85a243aaabd4001",
+      "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+      "details": [
+        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-19",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+      "details_zh": [
+        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+          "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
       "is_new": true
     }
   ],
   "push_events": [
     {
-      "id": "1938b60308dbabdc",
-      "title": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
+      "id": "4df81c78bcfa116a",
+      "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
       "brand": "Insta360",
       "category": "hardware",
       "event_type": "行业趋势",
-      "summary": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
+      "summary": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
       "details": [
-        "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
+        "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
       ],
       "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "threat_level": "medium",
       "heat_score": 3,
       "confidence": "media",
-      "published_at": "2026-08-19",
+      "published_at": "2026-08-20",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-      "title_original": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
+      "title_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+      "title_original": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
+      "summary_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
       "details_zh": [
-        "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
+        "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
       ],
       "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "importance_score": 5,
@@ -259,68 +303,23 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
-          "snippet": "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
+          "snippet": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
       "is_new": true
     },
     {
-      "id": "4ae90e8a7ffb8fb3",
-      "title": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-      "brand": "DJI",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-      "details": [
-        "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-      ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-      "title_original": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-      "details_zh": [
-        "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-      ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-          "snippet": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
-      "is_new": true
-    },
-    {
-      "id": "0ad28e96a3abf4c6",
-      "title": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
+      "id": "85faf7fdeac25fcc",
+      "title": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
       "brand": "Insta360",
       "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
+      "event_type": "新品发布",
+      "summary": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
       "details": [
-        "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
+        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
       ],
       "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "threat_level": "medium",
@@ -328,19 +327,19 @@
       "confidence": "media",
       "published_at": "2026-08-19",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-      "title_original": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
+      "title_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+      "title_original": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
+      "summary_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
       "details_zh": [
-        "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
+        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
       ],
       "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "importance_score": 5,
@@ -349,23 +348,23 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
-          "snippet": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+          "snippet": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
       "is_new": true
     },
     {
-      "id": "a7de6686028fbdad",
-      "title": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
+      "id": "26ab7ee895e1f7ea",
+      "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
       "brand": "DJI",
       "category": "hardware",
       "event_type": "行业趋势",
-      "summary": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
+      "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
       "details": [
-        "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
+        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
       ],
       "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
       "threat_level": "medium",
@@ -373,19 +372,19 @@
       "confidence": "media",
       "published_at": "2026-08-19",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-      "title_original": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
+      "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+      "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
+      "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
       "details_zh": [
-        "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
+        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
       ],
       "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
       "importance_score": 5,
@@ -394,18 +393,333 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
-          "snippet": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
+          "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": true
+    },
+    {
+      "id": "fb837c374e213576",
+      "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
+      "details": [
+        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
+      "details_zh": [
+        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+          "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": true
+    },
+    {
+      "id": "d85a243aaabd4001",
+      "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+      "details": [
+        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-19",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+      "details_zh": [
+        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+          "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
       "is_new": true
     }
   ],
   "pushable_events": [
     {
-      "id": "1938b60308dbabdc",
+      "id": "4df81c78bcfa116a",
+      "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
+      "details": [
+        "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+      "title_original": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
+      "details_zh": [
+        "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
+          "snippet": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": true
+    },
+    {
+      "id": "85faf7fdeac25fcc",
+      "title": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+      "details": [
+        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-19",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+      "title_original": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+      "details_zh": [
+        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+          "snippet": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": true
+    },
+    {
+      "id": "26ab7ee895e1f7ea",
+      "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
+      "details": [
+        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-19",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+      "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
+      "details_zh": [
+        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
+          "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": true
+    },
+    {
+      "id": "fb837c374e213576",
+      "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
+      "details": [
+        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
+      "details_zh": [
+        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+          "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": true
+    },
+    {
+      "id": "d85a243aaabd4001",
+      "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+      "details": [
+        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-19",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+      "details_zh": [
+        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+          "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": true
+    },
+    {
+      "id": "4f4102670fa55d52",
       "title": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
       "brand": "Insta360",
       "category": "hardware",
@@ -420,7 +734,7 @@
       "confidence": "media",
       "published_at": "2026-08-19",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
@@ -441,154 +755,244 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
           "snippet": "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
-      "is_new": true
-    },
-    {
-      "id": "4ae90e8a7ffb8fb3",
-      "title": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-      "brand": "DJI",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-      "details": [
-        "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-      ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-      "title_original": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-      "details_zh": [
-        "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-      ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-          "snippet": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
-      "is_new": true
-    },
-    {
-      "id": "0ad28e96a3abf4c6",
-      "title": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
-      "details": [
-        "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-      "title_original": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
-      "details_zh": [
-        "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
-          "snippet": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
-      "is_new": true
-    },
-    {
-      "id": "a7de6686028fbdad",
-      "title": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-      "brand": "DJI",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
-      "details": [
-        "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
-      ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-      "title_original": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
-      "details_zh": [
-        "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
-      ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
-          "snippet": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-19T10:57:17.402169+00:00",
+      "first_seen": "2026-08-20T03:25:16.737450+00:00",
       "is_new": true
     }
   ],
   "sections": {
     "domestic": [
       {
-        "id": "1938b60308dbabdc",
+        "id": "4df81c78bcfa116a",
+        "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+        "brand": "Insta360",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
+        "details": [
+          "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+        ],
+        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-20",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+        "title_original": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
+        "details_zh": [
+          "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+        ],
+        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
+            "snippet": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-20T03:25:16.737450+00:00",
+        "is_new": true
+      },
+      {
+        "id": "85faf7fdeac25fcc",
+        "title": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+        "brand": "Insta360",
+        "category": "hardware",
+        "event_type": "新品发布",
+        "summary": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+        "details": [
+          "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+        ],
+        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-19",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+        "title_original": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+        "details_zh": [
+          "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+        ],
+        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+            "snippet": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-20T03:25:16.737450+00:00",
+        "is_new": true
+      },
+      {
+        "id": "26ab7ee895e1f7ea",
+        "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+        "brand": "DJI",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
+        "details": [
+          "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+        ],
+        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-19",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+        "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
+        "details_zh": [
+          "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+        ],
+        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
+            "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-20T03:25:16.737450+00:00",
+        "is_new": true
+      },
+      {
+        "id": "fb837c374e213576",
+        "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+        "brand": "DJI",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
+        "details": [
+          "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+        ],
+        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-20",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+        "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
+        "details_zh": [
+          "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+        ],
+        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+            "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-20T03:25:16.737450+00:00",
+        "is_new": true
+      },
+      {
+        "id": "d85a243aaabd4001",
+        "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+        "brand": "Insta360",
+        "category": "hardware",
+        "event_type": "新品发布",
+        "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+        "details": [
+          "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+        ],
+        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-19",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+        "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+        "details_zh": [
+          "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+        ],
+        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+            "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-20T03:25:16.737450+00:00",
+        "is_new": true
+      },
+      {
+        "id": "4f4102670fa55d52",
         "title": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
         "brand": "Insta360",
         "category": "hardware",
@@ -603,7 +1007,7 @@
         "confidence": "media",
         "published_at": "2026-08-19",
         "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
         "week_tag": "2026-W34",
         "source_id": "dji-cn-news",
         "ai_confidence": 0.0,
@@ -624,562 +1028,170 @@
         "evidence": [
           {
             "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
             "snippet": "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
           }
         ],
         "source_weight": 4,
-        "first_seen": "2026-08-19T10:57:17.402169+00:00",
-        "is_new": true
-      },
-      {
-        "id": "4ae90e8a7ffb8fb3",
-        "title": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-        "brand": "DJI",
-        "category": "hardware",
-        "event_type": "行业趋势",
-        "summary": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-        "details": [
-          "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-        ],
-        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-19",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-        "title_original": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-        "details_zh": [
-          "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-        ],
-        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-            "snippet": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-19T10:57:17.402169+00:00",
-        "is_new": true
-      },
-      {
-        "id": "0ad28e96a3abf4c6",
-        "title": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-        "brand": "Insta360",
-        "category": "hardware",
-        "event_type": "行业趋势",
-        "summary": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
-        "details": [
-          "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
-        ],
-        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-19",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-        "title_original": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
-        "details_zh": [
-          "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
-        ],
-        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
-            "snippet": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-19T10:57:17.402169+00:00",
-        "is_new": true
-      },
-      {
-        "id": "a7de6686028fbdad",
-        "title": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-        "brand": "DJI",
-        "category": "hardware",
-        "event_type": "行业趋势",
-        "summary": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
-        "details": [
-          "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
-        ],
-        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-19",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-        "title_original": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
-        "details_zh": [
-          "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
-        ],
-        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
-            "snippet": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-19T10:57:17.402169+00:00",
-        "is_new": true
-      },
-      {
-        "id": "7696a9d8a51d41b6",
-        "title": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
-        "brand": "Other",
-        "category": "pmf",
-        "event_type": "场景信号",
-        "summary": "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱。这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6.0\" 1480×720 LCD 扩充屏幕 。 Stage 450 TG ARGB 三维 533×239×479 (mm)， 前方和左侧均为 4mm 强化玻璃面板 。其兼容背插主板，可容纳 450mm 显卡、",
-        "details": [
-          "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱",
-          "这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6",
-          "0\" 1480×720 LCD 扩充屏幕"
-        ],
-        "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-        "threat_level": "low",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-19",
-        "source_name": "IT之家",
-        "source_url": "https://www.ithome.com/0/991/783.htm",
-        "week_tag": "2026-W34",
-        "source_id": "ithome-imaging",
-        "ai_confidence": 0.0,
-        "pushed": false,
-        "title_zh": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
-        "title_original": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱。这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6.0\" 1480×720 LCD 扩充屏幕 。 Stage 450 TG ARGB 三维 533×239×479 (mm)， 前方和左侧均为 4mm 强化玻璃面板 。其兼容背插主板，可容纳 450mm 显卡、200mm 电源、175mm 处理器散热",
-        "details_zh": [
-          "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱",
-          "这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6",
-          "0\" 1480×720 LCD 扩充屏幕"
-        ],
-        "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "dashboard_only",
-        "evidence": [
-          {
-            "source_name": "IT之家",
-            "url": "https://www.ithome.com/0/991/783.htm",
-            "snippet": "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱。这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6.0\" 1480×720 LCD 扩充屏幕 。 Stage 450 TG ARGB 三维 533×239×479 (mm)， 前方和左侧均为 4mm 强化玻璃面板 。其兼容背插主板，可容纳 450mm 显卡、"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-19T10:57:17.402169+00:00",
-        "is_new": true
-      },
-      {
-        "id": "1fef92feece6a690",
-        "title": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
-        "brand": "DJI",
-        "category": "industry",
-        "event_type": "行业趋势",
-        "summary": "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情。 公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生。 2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技。 王兴兴在采访中表示：我从小就非常喜欢科技，也非常喜欢机器人，2009 年读大一的时候，我做了第一款双足",
-        "details": [
-          "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情",
-          "公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生",
-          "2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技"
-        ],
-        "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-        "threat_level": "low",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-19",
-        "source_name": "IT之家",
-        "source_url": "https://www.ithome.com/0/991/770.htm",
-        "week_tag": "2026-W34",
-        "source_id": "ithome-imaging",
-        "ai_confidence": 0.0,
-        "pushed": false,
-        "title_zh": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
-        "title_original": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情。 公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生。 2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技。 王兴兴在采访中表示：我从小就非常喜欢科技，也非常喜欢机器人，2009 年读大一的时候，我做了第一款双足人形机器人。2016 年的时候，我在学校",
-        "details_zh": [
-          "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情",
-          "公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生",
-          "2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技"
-        ],
-        "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "dashboard_only",
-        "evidence": [
-          {
-            "source_name": "IT之家",
-            "url": "https://www.ithome.com/0/991/770.htm",
-            "snippet": "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情。 公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生。 2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技。 王兴兴在采访中表示：我从小就非常喜欢科技，也非常喜欢机器人，2009 年读大一的时候，我做了第一款双足"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-19T10:57:17.402169+00:00",
+        "first_seen": "2026-08-20T03:25:16.737450+00:00",
         "is_new": true
       }
     ],
     "global": [],
     "software": [],
     "community": [],
-    "pmf": [
-      {
-        "id": "7696a9d8a51d41b6",
-        "title": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
-        "brand": "Other",
-        "category": "pmf",
-        "event_type": "场景信号",
-        "summary": "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱。这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6.0\" 1480×720 LCD 扩充屏幕 。 Stage 450 TG ARGB 三维 533×239×479 (mm)， 前方和左侧均为 4mm 强化玻璃面板 。其兼容背插主板，可容纳 450mm 显卡、",
-        "details": [
-          "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱",
-          "这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6",
-          "0\" 1480×720 LCD 扩充屏幕"
-        ],
-        "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-        "threat_level": "low",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-19",
-        "source_name": "IT之家",
-        "source_url": "https://www.ithome.com/0/991/783.htm",
-        "week_tag": "2026-W34",
-        "source_id": "ithome-imaging",
-        "ai_confidence": 0.0,
-        "pushed": false,
-        "title_zh": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
-        "title_original": "曜越推出中塔 ATX 机箱 Stage 450 TG ARGB，配备专属前置展示平台",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱。这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6.0\" 1480×720 LCD 扩充屏幕 。 Stage 450 TG ARGB 三维 533×239×479 (mm)， 前方和左侧均为 4mm 强化玻璃面板 。其兼容背插主板，可容纳 450mm 显卡、200mm 电源、175mm 处理器散热",
-        "details_zh": [
-          "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱",
-          "这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6",
-          "0\" 1480×720 LCD 扩充屏幕"
-        ],
-        "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "dashboard_only",
-        "evidence": [
-          {
-            "source_name": "IT之家",
-            "url": "https://www.ithome.com/0/991/783.htm",
-            "snippet": "IT之家 8 月 19 日消息，Thermaltake（曜越）现已在官网上线 Stage 450 TG ARGB 机箱。这款支持到 ATX 主板的 7 扩展槽中塔机箱 配备专属前置展示平台 （“手办台”），还 可在电源舱侧面选装 6.0\" 1480×720 LCD 扩充屏幕 。 Stage 450 TG ARGB 三维 533×239×479 (mm)， 前方和左侧均为 4mm 强化玻璃面板 。其兼容背插主板，可容纳 450mm 显卡、"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-19T10:57:17.402169+00:00",
-        "is_new": true
-      }
-    ]
+    "pmf": []
   },
   "battlecards": [
     {
-      "brand": "DJI",
-      "is_self": false,
-      "event_count": 6,
-      "new_count": 6,
-      "threat_summary": "medium",
-      "max_importance": 5,
-      "category_mix": {
-        "hardware": 2,
-        "industry": 4
-      },
-      "key_insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "latest_events": [
-        {
-          "id": "4ae90e8a7ffb8fb3",
-          "title": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-          "brand": "DJI",
-          "category": "hardware",
-          "event_type": "行业趋势",
-          "summary": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-          "details": [
-            "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-          ],
-          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-          "threat_level": "medium",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-19",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-          "title_original": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 - 驱动之家",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家",
-          "details_zh": [
-            "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-          ],
-          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "push",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUVptZjJ1RTBRQ213V2JQRTJNRE9iQ0NzRElUMEFQbzFPT2ttZGRsN1pqMGtoM3l1N1lwUHJQV3RtTVA4X29MakVYblJ2X1FWZmhwNW9taHE?oc=5",
-              "snippet": "当方形传感器成为共识 大疆Osmo 360 II再探全景上限 驱动之家"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-19T10:57:17.402169+00:00",
-          "is_new": true
-        },
-        {
-          "id": "a7de6686028fbdad",
-          "title": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-          "brand": "DJI",
-          "category": "hardware",
-          "event_type": "行业趋势",
-          "summary": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
-          "details": [
-            "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
-          ],
-          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-          "threat_level": "medium",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-19",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-          "title_original": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 - 虎嗅",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅",
-          "details_zh": [
-            "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
-          ],
-          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "push",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NU0oxZUVNVjNHeEV5bjd3X05Hdm12LUhGdXRidVViM1ZEQmNIay1xUkhGaFoxYWdpcU1sODhGcWZGZ3dqc0VoM3VTcFNZazhjV3Z5dQ?oc=5",
-              "snippet": "大疆这次把全景相机做猛了！Osmo 360 II 全景相机夯爆 虎嗅"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-19T10:57:17.402169+00:00",
-          "is_new": true
-        },
-        {
-          "id": "1fef92feece6a690",
-          "title": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
-          "brand": "DJI",
-          "category": "industry",
-          "event_type": "行业趋势",
-          "summary": "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情。 公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生。 2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技。 王兴兴在采访中表示：我从小就非常喜欢科技，也非常喜欢机器人，2009 年读大一的时候，我做了第一款双足",
-          "details": [
-            "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情",
-            "公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生",
-            "2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技"
-          ],
-          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "threat_level": "low",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-19",
-          "source_name": "IT之家",
-          "source_url": "https://www.ithome.com/0/991/770.htm",
-          "week_tag": "2026-W34",
-          "source_id": "ithome-imaging",
-          "ai_confidence": 0.0,
-          "pushed": false,
-          "title_zh": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
-          "title_original": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情。 公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生。 2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技。 王兴兴在采访中表示：我从小就非常喜欢科技，也非常喜欢机器人，2009 年读大一的时候，我做了第一款双足人形机器人。2016 年的时候，我在学校",
-          "details_zh": [
-            "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情",
-            "公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生",
-            "2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技"
-          ],
-          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "dashboard_only",
-          "evidence": [
-            {
-              "source_name": "IT之家",
-              "url": "https://www.ithome.com/0/991/770.htm",
-              "snippet": "IT之家 8 月 19 日消息，据上海证券报 8 月 18 日报道，宇树科技创始人王兴兴在接受采访时谈到了从大疆离职的事情。 公开资料显示，王兴兴本科就读于浙江理工大学机械与自动控制学院机电专业，后进入上海大学攻读机械工程专业研究生。 2016 年 6 月，王兴兴毕业后入职大疆，同年 8 月就从大疆离职 ，获天使轮融资后创立宇树科技。 王兴兴在采访中表示：我从小就非常喜欢科技，也非常喜欢机器人，2009 年读大一的时候，我做了第一款双足"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-19T10:57:17.402169+00:00",
-          "is_new": true
-        },
-        {
-          "id": "d6edbd6bab3a34ec",
-          "title": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 - 东方财富",
-          "brand": "DJI",
-          "category": "industry",
-          "event_type": "行业趋势",
-          "summary": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富",
-          "details": [
-            "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富"
-          ],
-          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "threat_level": "low",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-19",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xX3NYazVvbklYZzZHOVIyWE9VbUxVbWdJRVE3eDNSYm0xRE1kS2YzeEliSWtsTHJOVVNhbzJKUW1UYk0zaDk0YXkxSmtmNERUN1RaLW5EZmdSLXlfNVBqLQ?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": false,
-          "title_zh": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 - 东方财富",
-          "title_original": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 - 东方财富",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富",
-          "details_zh": [
-            "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富"
-          ],
-          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "dashboard_only",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xX3NYazVvbklYZzZHOVIyWE9VbUxVbWdJRVE3eDNSYm0xRE1kS2YzeEliSWtsTHJOVVNhbzJKUW1UYk0zaDk0YXkxSmtmNERUN1RaLW5EZmdSLXlfNVBqLQ?oc=5",
-              "snippet": "梁文锋打新宇树科技浮盈11亿 雷军赚152亿 美团系浮盈333亿 大疆痛失超250亿 东方财富"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-19T10:57:17.402169+00:00",
-          "is_new": true
-        },
-        {
-          "id": "e9524a1d263f6917",
-          "title": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” - 驱动之家",
-          "brand": "DJI",
-          "category": "industry",
-          "event_type": "行业趋势",
-          "summary": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家",
-          "details": [
-            "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家"
-          ],
-          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "threat_level": "low",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-19",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vWnBJTXRlTzNEbTVOVFhFR3ZlbTdBZnJRTUp1UWRpbTRoMXpqVnc1bE5yTWotQlp6TExJTGU1Y2FHZTdUX0R1c1hIUW1fNnp1QzFnX0dEYWk?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": false,
-          "title_zh": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” - 驱动之家",
-          "title_original": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” - 驱动之家",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家",
-          "details_zh": [
-            "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家"
-          ],
-          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "dashboard_only",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vWnBJTXRlTzNEbTVOVFhFR3ZlbTdBZnJRTUp1UWRpbTRoMXpqVnc1bE5yTWotQlp6TExJTGU1Y2FHZTdUX0R1c1hIUW1fNnp1QzFnX0dEYWk?oc=5",
-              "snippet": "算力升空 智能落地——大疆机载AI大赛获奖方案揭晓：低空经济迈向“AI时刻” 驱动之家"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-19T10:57:17.402169+00:00",
-          "is_new": true
-        }
-      ]
-    },
-    {
       "brand": "Insta360",
       "is_self": true,
-      "event_count": 2,
-      "new_count": 2,
+      "event_count": 4,
+      "new_count": 4,
       "threat_summary": "medium",
       "max_importance": 5,
       "category_mix": {
-        "hardware": 2
+        "hardware": 4
       },
       "key_insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "latest_events": [
         {
-          "id": "1938b60308dbabdc",
+          "id": "4df81c78bcfa116a",
+          "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+          "brand": "Insta360",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
+          "details": [
+            "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+          ],
+          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-20",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+          "title_original": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
+          "details_zh": [
+            "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+          ],
+          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
+              "snippet": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T03:25:16.737450+00:00",
+          "is_new": true
+        },
+        {
+          "id": "85faf7fdeac25fcc",
+          "title": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+          "brand": "Insta360",
+          "category": "hardware",
+          "event_type": "新品发布",
+          "summary": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+          "details": [
+            "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+          ],
+          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-19",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+          "title_original": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+          "details_zh": [
+            "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+          ],
+          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+              "snippet": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T03:25:16.737450+00:00",
+          "is_new": true
+        },
+        {
+          "id": "d85a243aaabd4001",
+          "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+          "brand": "Insta360",
+          "category": "hardware",
+          "event_type": "新品发布",
+          "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+          "details": [
+            "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+          ],
+          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-19",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+          "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
+          "details_zh": [
+            "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+          ],
+          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
+              "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T03:25:16.737450+00:00",
+          "is_new": true
+        },
+        {
+          "id": "4f4102670fa55d52",
           "title": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
           "brand": "Insta360",
           "category": "hardware",
@@ -1194,7 +1206,7 @@
           "confidence": "media",
           "published_at": "2026-08-19",
           "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
           "week_tag": "2026-W34",
           "source_id": "dji-cn-news",
           "ai_confidence": 0.0,
@@ -1215,57 +1227,162 @@
           "evidence": [
             {
               "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaUx5aURRU2VmVEZPdjJDcm5TbHR5YkhLbWZuUXloTzR6bnFOb0hXUUdleVFjSDZZUklXVnlvbjZGWC1RczQ0OWhNbjhwaDdVaHlzbjY0OGhUZnlGVHg3a2hn?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
               "snippet": "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
             }
           ],
           "source_weight": 4,
-          "first_seen": "2026-08-19T10:57:17.402169+00:00",
+          "first_seen": "2026-08-20T03:25:16.737450+00:00",
           "is_new": true
-        },
+        }
+      ]
+    },
+    {
+      "brand": "DJI",
+      "is_self": false,
+      "event_count": 3,
+      "new_count": 3,
+      "threat_summary": "medium",
+      "max_importance": 5,
+      "category_mix": {
+        "hardware": 2,
+        "industry": 1
+      },
+      "key_insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "latest_events": [
         {
-          "id": "0ad28e96a3abf4c6",
-          "title": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-          "brand": "Insta360",
+          "id": "fb837c374e213576",
+          "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+          "brand": "DJI",
           "category": "hardware",
           "event_type": "行业趋势",
-          "summary": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
+          "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
           "details": [
-            "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
+            "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
           ],
-          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
           "threat_level": "medium",
           "heat_score": 3,
           "confidence": "media",
-          "published_at": "2026-08-19",
+          "published_at": "2026-08-20",
           "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
           "week_tag": "2026-W34",
           "source_id": "dji-cn-news",
           "ai_confidence": 0.0,
           "pushed": true,
-          "title_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
-          "title_original": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 - 新浪财经",
+          "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+          "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
           "language": "zh",
           "region": "domestic",
           "source_market": "CN",
-          "summary_zh": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经",
+          "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
           "details_zh": [
-            "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
+            "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
           ],
-          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
           "importance_score": 5,
           "confidence_score": 0.75,
           "push_decision": "push",
           "evidence": [
             {
               "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84OWI0S0JWT05oUTdaWlNqVU1ZVmVmUjI2REZ6cDVEVDJLYzNtOEpKQTRSSnNOUDUza1BuZXp0U1JIWkZTV1hKQ20wLWFzMkdUWWt6NEw0MkI4cG5VUGc2MXZZbENQVUtpdjV5aE02bHltVy12MmMza1FrSXJGSzA?oc=5",
-              "snippet": "风水轮流转！日本人顶着烈日排队打卡影石相机店：还有人专门请假来 新浪财经"
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+              "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
             }
           ],
           "source_weight": 4,
-          "first_seen": "2026-08-19T10:57:17.402169+00:00",
+          "first_seen": "2026-08-20T03:25:16.737450+00:00",
+          "is_new": true
+        },
+        {
+          "id": "26ab7ee895e1f7ea",
+          "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+          "brand": "DJI",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
+          "details": [
+            "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+          ],
+          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-19",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+          "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
+          "details_zh": [
+            "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+          ],
+          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
+              "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T03:25:16.737450+00:00",
+          "is_new": true
+        },
+        {
+          "id": "a1c052f87cccb8e9",
+          "title": "大疆硬刚美国国防部，打出了关键翻盘 - 京报网",
+          "brand": "DJI",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "大疆硬刚美国国防部，打出了关键翻盘 京报网",
+          "details": [
+            "大疆硬刚美国国防部，打出了关键翻盘 京报网"
+          ],
+          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-19",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KWjNzWmdRMDMtdWs5d19mc0FIYU4yaERDS3VuUDBEOUJ0SVI1R0FzX0ZDVDgxaFNLdnpIZFAxLVFLOG1SNjdPZWJZelplSXpGSHZ6czRLM19mUTNyOHc?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "大疆硬刚美国国防部，打出了关键翻盘 - 京报网",
+          "title_original": "大疆硬刚美国国防部，打出了关键翻盘 - 京报网",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "大疆硬刚美国国防部，打出了关键翻盘 京报网",
+          "details_zh": [
+            "大疆硬刚美国国防部，打出了关键翻盘 京报网"
+          ],
+          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KWjNzWmdRMDMtdWs5d19mc0FIYU4yaERDS3VuUDBEOUJ0SVI1R0FzX0ZDVDgxaFNLdnpIZFAxLVFLOG1SNjdPZWJZelplSXpGSHZ6czRLM19mUTNyOHc?oc=5",
+              "snippet": "大疆硬刚美国国防部，打出了关键翻盘 京报网"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T03:25:16.737450+00:00",
           "is_new": true
         }
       ]
@@ -1338,6 +1455,16 @@
       "new_count": 30,
       "updated_count": 0,
       "pushable_count": 4,
+      "pushed_count": 0,
+      "source_ok": 25,
+      "source_failed": 2
+    },
+    {
+      "generated_at": "2026-08-20T03:25:16.737450+00:00",
+      "candidate_count": 30,
+      "new_count": 28,
+      "updated_count": 0,
+      "pushable_count": 6,
       "pushed_count": 0,
       "source_ok": 25,
       "source_failed": 2
@@ -1444,7 +1571,7 @@
       "source_id": "gnews-cn-promo",
       "name": "大疆/影石 促销动态",
       "ok": true,
-      "count": 12,
+      "count": 8,
       "region": "domestic",
       "language": "zh"
     },
@@ -1452,7 +1579,7 @@
       "source_id": "gnews-cam-promo",
       "name": "影像设备促销动态",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "region": "domestic",
       "language": "zh"
     },
@@ -1571,7 +1698,7 @@
     "stage": "fallback"
   },
   "quality": {
-    "generated_at": "2026-08-19T10:57:17.404579+00:00",
+    "generated_at": "2026-08-20T03:25:16.740388+00:00",
     "source_ok": 25,
     "source_failed": 2,
     "ai_enabled": false,
@@ -1579,14 +1706,14 @@
     "ai_stage": "fallback",
     "ai_fallback_count": 30,
     "events_total": 30,
-    "events_pushed": 4,
+    "events_pushed": 6,
     "events_discarded": 0,
     "events_without_evidence": 0,
     "top5_source_mix": {
-      "大疆/影石 中文动态": 4
+      "大疆/影石 中文动态": 5
     },
     "top5_region_mix": {
-      "domestic": 4
+      "domestic": 5
     }
   },
   "category_labels": {
