@@ -1,9 +1,9 @@
 {
   "title": "影像行业与竞品信息监控报告",
-  "generated_at": "2026-08-20T03:25:16.740802+00:00",
+  "generated_at": "2026-08-20T10:59:34.616081+00:00",
   "window": {
-    "start": "2026-08-19T10:25:16.740231+00:00",
-    "end": "2026-08-20T03:25:16.740231+00:00",
+    "start": "2026-08-19T17:59:34.615406+00:00",
+    "end": "2026-08-20T10:59:34.615406+00:00",
     "hours": 17
   },
   "week_tag": "2026-W34",
@@ -11,21 +11,22 @@
     "candidate_count": 30,
     "pushable_count": 6,
     "top_count": 5,
-    "new_count": 28,
+    "new_count": 22,
     "updated_count": 0,
-    "new_pushable_count": 6,
+    "new_pushable_count": 4,
     "source_ok": 25,
     "source_failed": 2,
     "domestic_count": 30,
     "global_count": 0
   },
   "category_counts": {
-    "hardware": 13,
-    "industry": 17
+    "hardware": 10,
+    "industry": 20
   },
   "brand_counts": {
-    "Other": 23,
-    "Insta360": 4,
+    "Other": 21,
+    "Sony": 3,
+    "Insta360": 3,
     "DJI": 3
   },
   "region_counts": {
@@ -40,6 +41,104 @@
   },
   "top5": [
     {
+      "id": "522ff5522b0436e6",
+      "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "brand": "Sony",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中",
+      "details": [
+        "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+        "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+        "这款新机在 Geekbench 7"
+      ],
+      "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/992/303.htm",
+      "week_tag": "2026-W34",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "title_original": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中，主板字段中列出了“parrot”，CP",
+      "details_zh": [
+        "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+        "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+        "这款新机在 Geekbench 7"
+      ],
+      "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/992/303.htm",
+          "snippet": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
+      "is_new": true
+    },
+    {
+      "id": "08a6b9541f329b0e",
+      "title": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "brand": "Sony",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD",
+      "details": [
+        "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+        "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+        "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+      ],
+      "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/992/231.htm",
+      "week_tag": "2026-W34",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "title_original": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD 存储扩展。",
+      "details_zh": [
+        "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+        "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+        "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+      ],
+      "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/992/231.htm",
+          "snippet": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
+      "is_new": true
+    },
+    {
       "id": "4df81c78bcfa116a",
       "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
       "brand": "Insta360",
@@ -82,37 +181,37 @@
       ],
       "source_weight": 4,
       "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "85faf7fdeac25fcc",
-      "title": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+      "id": "5da1778c5198a344",
+      "title": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
       "brand": "Insta360",
       "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+      "event_type": "行业趋势",
+      "summary": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
       "details": [
-        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+        "影石X6全景相机售价多少？值得入手吗？ 新浪网"
       ],
       "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "threat_level": "medium",
       "heat_score": 3,
       "confidence": "media",
-      "published_at": "2026-08-19",
+      "published_at": "2026-08-20",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
-      "title_original": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+      "title_zh": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+      "title_original": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+      "summary_zh": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
       "details_zh": [
-        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+        "影石X6全景相机售价多少？值得入手吗？ 新浪网"
       ],
       "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "importance_score": 5,
@@ -121,68 +220,23 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
-          "snippet": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
+          "snippet": "影石X6全景相机售价多少？值得入手吗？ 新浪网"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
       "is_new": true
     },
     {
-      "id": "26ab7ee895e1f7ea",
-      "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+      "id": "0d1aef1642040155",
+      "title": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
       "brand": "DJI",
       "category": "hardware",
       "event_type": "行业趋势",
-      "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
+      "summary": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
       "details": [
-        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-      ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-      "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
-      "details_zh": [
-        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-      ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
-          "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
-    },
-    {
-      "id": "fb837c374e213576",
-      "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-      "brand": "DJI",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
-      "details": [
-        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+        "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
       ],
       "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
       "threat_level": "medium",
@@ -190,19 +244,19 @@
       "confidence": "media",
       "published_at": "2026-08-20",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-      "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
+      "title_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+      "title_original": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
+      "summary_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
       "details_zh": [
-        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+        "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
       ],
       "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
       "importance_score": 5,
@@ -211,70 +265,123 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
-          "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
+          "snippet": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
-    },
-    {
-      "id": "d85a243aaabd4001",
-      "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-      "details": [
-        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-      "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-      "details_zh": [
-        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-          "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
       "is_new": true
     }
   ],
   "push_events": [
     {
-      "id": "4df81c78bcfa116a",
-      "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+      "id": "522ff5522b0436e6",
+      "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "brand": "Sony",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中",
+      "details": [
+        "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+        "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+        "这款新机在 Geekbench 7"
+      ],
+      "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/992/303.htm",
+      "week_tag": "2026-W34",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "title_original": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中，主板字段中列出了“parrot”，CP",
+      "details_zh": [
+        "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+        "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+        "这款新机在 Geekbench 7"
+      ],
+      "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/992/303.htm",
+          "snippet": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
+      "is_new": true
+    },
+    {
+      "id": "08a6b9541f329b0e",
+      "title": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "brand": "Sony",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD",
+      "details": [
+        "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+        "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+        "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+      ],
+      "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/992/231.htm",
+      "week_tag": "2026-W34",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "title_original": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD 存储扩展。",
+      "details_zh": [
+        "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+        "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+        "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+      ],
+      "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/992/231.htm",
+          "snippet": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
+      "is_new": true
+    },
+    {
+      "id": "5da1778c5198a344",
+      "title": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
       "brand": "Insta360",
       "category": "hardware",
       "event_type": "行业趋势",
-      "summary": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
+      "summary": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
       "details": [
-        "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+        "影石X6全景相机售价多少？值得入手吗？ 新浪网"
       ],
       "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "threat_level": "medium",
@@ -282,19 +389,19 @@
       "confidence": "media",
       "published_at": "2026-08-20",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
-      "title_original": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
+      "title_zh": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+      "title_original": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
+      "summary_zh": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
       "details_zh": [
-        "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+        "影石X6全景相机售价多少？值得入手吗？ 新浪网"
       ],
       "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "importance_score": 5,
@@ -303,88 +410,43 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
-          "snippet": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
+          "snippet": "影石X6全景相机售价多少？值得入手吗？ 新浪网"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
       "is_new": true
     },
     {
-      "id": "85faf7fdeac25fcc",
-      "title": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
-      "details": [
-        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
-      "title_original": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
-      "details_zh": [
-        "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
-          "snippet": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
-    },
-    {
-      "id": "26ab7ee895e1f7ea",
-      "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+      "id": "0d1aef1642040155",
+      "title": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
       "brand": "DJI",
       "category": "hardware",
       "event_type": "行业趋势",
-      "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
+      "summary": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
       "details": [
-        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+        "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
       ],
       "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
       "threat_level": "medium",
       "heat_score": 3,
       "confidence": "media",
-      "published_at": "2026-08-19",
+      "published_at": "2026-08-20",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-      "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
+      "title_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+      "title_original": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
+      "summary_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
       "details_zh": [
-        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+        "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
       ],
       "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
       "importance_score": 5,
@@ -393,107 +455,115 @@
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
-          "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
+          "snippet": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
-    },
-    {
-      "id": "fb837c374e213576",
-      "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-      "brand": "DJI",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
-      "details": [
-        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-      ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-      "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
-      "details_zh": [
-        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-      ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
-          "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
-    },
-    {
-      "id": "d85a243aaabd4001",
-      "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-      "details": [
-        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-      "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-      "details_zh": [
-        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-          "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
       "is_new": true
     }
   ],
   "pushable_events": [
     {
+      "id": "522ff5522b0436e6",
+      "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "brand": "Sony",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中",
+      "details": [
+        "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+        "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+        "这款新机在 Geekbench 7"
+      ],
+      "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/992/303.htm",
+      "week_tag": "2026-W34",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "title_original": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中，主板字段中列出了“parrot”，CP",
+      "details_zh": [
+        "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+        "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+        "这款新机在 Geekbench 7"
+      ],
+      "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/992/303.htm",
+          "snippet": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
+      "is_new": true
+    },
+    {
+      "id": "08a6b9541f329b0e",
+      "title": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "brand": "Sony",
+      "category": "hardware",
+      "event_type": "新品发布",
+      "summary": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD",
+      "details": [
+        "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+        "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+        "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+      ],
+      "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "IT之家",
+      "source_url": "https://www.ithome.com/0/992/231.htm",
+      "week_tag": "2026-W34",
+      "source_id": "ithome-imaging",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "title_original": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD 存储扩展。",
+      "details_zh": [
+        "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+        "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+        "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+      ],
+      "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "IT之家",
+          "url": "https://www.ithome.com/0/992/231.htm",
+          "snippet": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
+      "is_new": true
+    },
+    {
       "id": "4df81c78bcfa116a",
       "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
       "brand": "Insta360",
@@ -536,6 +606,96 @@
       ],
       "source_weight": 4,
       "first_seen": "2026-08-20T03:25:16.737450+00:00",
+      "is_new": false
+    },
+    {
+      "id": "5da1778c5198a344",
+      "title": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
+      "details": [
+        "影石X6全景相机售价多少？值得入手吗？ 新浪网"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+      "title_original": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
+      "details_zh": [
+        "影石X6全景相机售价多少？值得入手吗？ 新浪网"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
+          "snippet": "影石X6全景相机售价多少？值得入手吗？ 新浪网"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
+      "is_new": true
+    },
+    {
+      "id": "0d1aef1642040155",
+      "title": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+      "brand": "DJI",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
+      "details": [
+        "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
+      ],
+      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-20",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+      "title_original": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
+      "details_zh": [
+        "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
+      ],
+      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
+          "snippet": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-20T10:59:34.612377+00:00",
       "is_new": true
     },
     {
@@ -581,191 +741,109 @@
       ],
       "source_weight": 4,
       "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
-    },
-    {
-      "id": "26ab7ee895e1f7ea",
-      "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-      "brand": "DJI",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
-      "details": [
-        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-      ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-      "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
-      "details_zh": [
-        "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-      ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
-          "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
-    },
-    {
-      "id": "fb837c374e213576",
-      "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-      "brand": "DJI",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
-      "details": [
-        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-      ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-      "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
-      "details_zh": [
-        "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-      ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
-          "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
-    },
-    {
-      "id": "d85a243aaabd4001",
-      "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-      "details": [
-        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-      "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-      "details_zh": [
-        "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-          "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
-    },
-    {
-      "id": "4f4102670fa55d52",
-      "title": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
-      "details": [
-        "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-19",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-      "title_original": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
-      "details_zh": [
-        "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
-          "snippet": "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "is_new": true
+      "is_new": false
     }
   ],
   "sections": {
     "domestic": [
+      {
+        "id": "522ff5522b0436e6",
+        "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+        "brand": "Sony",
+        "category": "hardware",
+        "event_type": "新品发布",
+        "summary": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中",
+        "details": [
+          "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+          "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+          "这款新机在 Geekbench 7"
+        ],
+        "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-20",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/992/303.htm",
+        "week_tag": "2026-W34",
+        "source_id": "ithome-imaging",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+        "title_original": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中，主板字段中列出了“parrot”，CP",
+        "details_zh": [
+          "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+          "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+          "这款新机在 Geekbench 7"
+        ],
+        "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/992/303.htm",
+            "snippet": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-20T10:59:34.612377+00:00",
+        "is_new": true
+      },
+      {
+        "id": "08a6b9541f329b0e",
+        "title": "索尼 Xperia 新品发布会定档 8 月 25 日",
+        "brand": "Sony",
+        "category": "hardware",
+        "event_type": "新品发布",
+        "summary": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD",
+        "details": [
+          "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+          "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+          "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+        ],
+        "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-20",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/992/231.htm",
+        "week_tag": "2026-W34",
+        "source_id": "ithome-imaging",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "索尼 Xperia 新品发布会定档 8 月 25 日",
+        "title_original": "索尼 Xperia 新品发布会定档 8 月 25 日",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD 存储扩展。",
+        "details_zh": [
+          "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+          "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+          "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+        ],
+        "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/992/231.htm",
+            "snippet": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-20T10:59:34.612377+00:00",
+        "is_new": true
+      },
       {
         "id": "4df81c78bcfa116a",
         "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
@@ -809,6 +887,96 @@
         ],
         "source_weight": 4,
         "first_seen": "2026-08-20T03:25:16.737450+00:00",
+        "is_new": false
+      },
+      {
+        "id": "5da1778c5198a344",
+        "title": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+        "brand": "Insta360",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
+        "details": [
+          "影石X6全景相机售价多少？值得入手吗？ 新浪网"
+        ],
+        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-20",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+        "title_original": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
+        "details_zh": [
+          "影石X6全景相机售价多少？值得入手吗？ 新浪网"
+        ],
+        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
+            "snippet": "影石X6全景相机售价多少？值得入手吗？ 新浪网"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-20T10:59:34.612377+00:00",
+        "is_new": true
+      },
+      {
+        "id": "0d1aef1642040155",
+        "title": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+        "brand": "DJI",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
+        "details": [
+          "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
+        ],
+        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-20",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+        "title_original": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
+        "details_zh": [
+          "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
+        ],
+        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
+            "snippet": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-20T10:59:34.612377+00:00",
         "is_new": true
       },
       {
@@ -854,187 +1022,7 @@
         ],
         "source_weight": 4,
         "first_seen": "2026-08-20T03:25:16.737450+00:00",
-        "is_new": true
-      },
-      {
-        "id": "26ab7ee895e1f7ea",
-        "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-        "brand": "DJI",
-        "category": "hardware",
-        "event_type": "行业趋势",
-        "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
-        "details": [
-          "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-        ],
-        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-19",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-        "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
-        "details_zh": [
-          "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-        ],
-        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
-            "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-20T03:25:16.737450+00:00",
-        "is_new": true
-      },
-      {
-        "id": "fb837c374e213576",
-        "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-        "brand": "DJI",
-        "category": "hardware",
-        "event_type": "行业趋势",
-        "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
-        "details": [
-          "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-        ],
-        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-20",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-        "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
-        "details_zh": [
-          "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-        ],
-        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
-            "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-20T03:25:16.737450+00:00",
-        "is_new": true
-      },
-      {
-        "id": "d85a243aaabd4001",
-        "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-        "brand": "Insta360",
-        "category": "hardware",
-        "event_type": "新品发布",
-        "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-        "details": [
-          "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-        ],
-        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-19",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-        "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-        "details_zh": [
-          "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-        ],
-        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-            "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-20T03:25:16.737450+00:00",
-        "is_new": true
-      },
-      {
-        "id": "4f4102670fa55d52",
-        "title": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-        "brand": "Insta360",
-        "category": "hardware",
-        "event_type": "行业趋势",
-        "summary": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
-        "details": [
-          "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
-        ],
-        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-19",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-        "title_original": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
-        "details_zh": [
-          "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
-        ],
-        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
-            "snippet": "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-20T03:25:16.737450+00:00",
-        "is_new": true
+        "is_new": false
       }
     ],
     "global": [],
@@ -1044,14 +1032,326 @@
   },
   "battlecards": [
     {
-      "brand": "Insta360",
-      "is_self": true,
-      "event_count": 4,
-      "new_count": 4,
+      "brand": "DJI",
+      "is_self": false,
+      "event_count": 3,
+      "new_count": 3,
       "threat_summary": "medium",
       "max_importance": 5,
       "category_mix": {
-        "hardware": 4
+        "hardware": 1,
+        "industry": 2
+      },
+      "key_insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "latest_events": [
+        {
+          "id": "0d1aef1642040155",
+          "title": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+          "brand": "DJI",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
+          "details": [
+            "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
+          ],
+          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-20",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+          "title_original": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
+          "details_zh": [
+            "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
+          ],
+          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
+              "snippet": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T10:59:34.612377+00:00",
+          "is_new": true
+        },
+        {
+          "id": "97115f8c74124019",
+          "title": "大疆错失37亿！宇树科技今日科创板申购 - 新浪网",
+          "brand": "DJI",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "大疆错失37亿！宇树科技今日科创板申购 新浪网",
+          "details": [
+            "大疆错失37亿！宇树科技今日科创板申购 新浪网"
+          ],
+          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-20",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uVk1QQkplTFlOS09sTHFucUh4WkpOSDNVV1ZLYmdRSmd5elM2RGEtV2hMT1VMNEhyWW1saEp5cnUxTV8tZC12cjBhdHVqaURRSlBtaC1rVkQzYnFrSXVIdlExbUFkVkgyRENLa3pPWnlXQQ?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "大疆错失37亿！宇树科技今日科创板申购 - 新浪网",
+          "title_original": "大疆错失37亿！宇树科技今日科创板申购 - 新浪网",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "大疆错失37亿！宇树科技今日科创板申购 新浪网",
+          "details_zh": [
+            "大疆错失37亿！宇树科技今日科创板申购 新浪网"
+          ],
+          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uVk1QQkplTFlOS09sTHFucUh4WkpOSDNVV1ZLYmdRSmd5elM2RGEtV2hMT1VMNEhyWW1saEp5cnUxTV8tZC12cjBhdHVqaURRSlBtaC1rVkQzYnFrSXVIdlExbUFkVkgyRENLa3pPWnlXQQ?oc=5",
+              "snippet": "大疆错失37亿！宇树科技今日科创板申购 新浪网"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T10:59:34.612377+00:00",
+          "is_new": true
+        },
+        {
+          "id": "6394d9bdc8449df5",
+          "title": "前字节公关总监杨继斌已加盟大疆 - 凤凰网科技",
+          "brand": "DJI",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "前字节公关总监杨继斌已加盟大疆 凤凰网科技",
+          "details": [
+            "前字节公关总监杨继斌已加盟大疆 凤凰网科技"
+          ],
+          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-20",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14akpvOWJXaXBZeTJPUVd3ekx3SVZEN0U4b1JIRURsTFo5U3pPSkRsbFhUaFU5ajNaNUdVMnVPb3BUNGZSTjZMTGFleHc?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "前字节公关总监杨继斌已加盟大疆 - 凤凰网科技",
+          "title_original": "前字节公关总监杨继斌已加盟大疆 - 凤凰网科技",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "前字节公关总监杨继斌已加盟大疆 凤凰网科技",
+          "details_zh": [
+            "前字节公关总监杨继斌已加盟大疆 凤凰网科技"
+          ],
+          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14akpvOWJXaXBZeTJPUVd3ekx3SVZEN0U4b1JIRURsTFo5U3pPSkRsbFhUaFU5ajNaNUdVMnVPb3BUNGZSTjZMTGFleHc?oc=5",
+              "snippet": "前字节公关总监杨继斌已加盟大疆 凤凰网科技"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T10:59:34.612377+00:00",
+          "is_new": true
+        }
+      ]
+    },
+    {
+      "brand": "Sony",
+      "is_self": false,
+      "event_count": 3,
+      "new_count": 3,
+      "threat_summary": "medium",
+      "max_importance": 5,
+      "category_mix": {
+        "hardware": 2,
+        "industry": 1
+      },
+      "key_insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "latest_events": [
+        {
+          "id": "522ff5522b0436e6",
+          "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+          "brand": "Sony",
+          "category": "hardware",
+          "event_type": "新品发布",
+          "summary": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中",
+          "details": [
+            "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+            "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+            "这款新机在 Geekbench 7"
+          ],
+          "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-20",
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/0/992/303.htm",
+          "week_tag": "2026-W34",
+          "source_id": "ithome-imaging",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+          "title_original": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中，主板字段中列出了“parrot”，CP",
+          "details_zh": [
+            "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
+            "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
+            "这款新机在 Geekbench 7"
+          ],
+          "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "IT之家",
+              "url": "https://www.ithome.com/0/992/303.htm",
+              "snippet": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T10:59:34.612377+00:00",
+          "is_new": true
+        },
+        {
+          "id": "08a6b9541f329b0e",
+          "title": "索尼 Xperia 新品发布会定档 8 月 25 日",
+          "brand": "Sony",
+          "category": "hardware",
+          "event_type": "新品发布",
+          "summary": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD",
+          "details": [
+            "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+            "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+            "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+          ],
+          "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-20",
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/0/992/231.htm",
+          "week_tag": "2026-W34",
+          "source_id": "ithome-imaging",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "索尼 Xperia 新品发布会定档 8 月 25 日",
+          "title_original": "索尼 Xperia 新品发布会定档 8 月 25 日",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD 存储扩展。",
+          "details_zh": [
+            "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
+            "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
+            "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+          ],
+          "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "IT之家",
+              "url": "https://www.ithome.com/0/992/231.htm",
+              "snippet": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T10:59:34.612377+00:00",
+          "is_new": true
+        },
+        {
+          "id": "90f68c555f426651",
+          "title": "亚马逊在美国市场扩展 Prime Air 无人机配送服务，今年底将进驻当地 500 座城镇",
+          "brand": "Sony",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”。 公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送。 目前，Prime Air 已经在美国 7 个州设立 11 个配送站提",
+          "details": [
+            "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”",
+            "公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送",
+            "目前，Prime Air 已经在美国 7 个州设立 11 个配送站提供服务，可配送重量不超过 5 磅 （IT之家注：约 2"
+          ],
+          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-20",
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/0/992/258.htm",
+          "week_tag": "2026-W34",
+          "source_id": "ithome-imaging",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "亚马逊在美国市场扩展 Prime Air 无人机配送服务，今年底将进驻当地 500 座城镇",
+          "title_original": "亚马逊在美国市场扩展 Prime Air 无人机配送服务，今年底将进驻当地 500 座城镇",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”。 公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送。 目前，Prime Air 已经在美国 7 个州设立 11 个配送站提供服务，可配送重量不超过 5 磅 （IT",
+          "details_zh": [
+            "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”",
+            "公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送",
+            "目前，Prime Air 已经在美国 7 个州设立 11 个配送站提供服务，可配送重量不超过 5 磅 （IT之家注：约 2"
+          ],
+          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "IT之家",
+              "url": "https://www.ithome.com/0/992/258.htm",
+              "snippet": "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”。 公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送。 目前，Prime Air 已经在美国 7 个州设立 11 个配送站提"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T10:59:34.612377+00:00",
+          "is_new": true
+        }
+      ]
+    },
+    {
+      "brand": "Insta360",
+      "is_self": true,
+      "event_count": 3,
+      "new_count": 1,
+      "threat_summary": "medium",
+      "max_importance": 5,
+      "category_mix": {
+        "hardware": 3
       },
       "key_insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "latest_events": [
@@ -1098,6 +1398,51 @@
           ],
           "source_weight": 4,
           "first_seen": "2026-08-20T03:25:16.737450+00:00",
+          "is_new": false
+        },
+        {
+          "id": "5da1778c5198a344",
+          "title": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+          "brand": "Insta360",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
+          "details": [
+            "影石X6全景相机售价多少？值得入手吗？ 新浪网"
+          ],
+          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-20",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+          "title_original": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
+          "details_zh": [
+            "影石X6全景相机售价多少？值得入手吗？ 新浪网"
+          ],
+          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
+              "snippet": "影石X6全景相机售价多少？值得入手吗？ 新浪网"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-20T10:59:34.612377+00:00",
           "is_new": true
         },
         {
@@ -1143,247 +1488,7 @@
           ],
           "source_weight": 4,
           "first_seen": "2026-08-20T03:25:16.737450+00:00",
-          "is_new": true
-        },
-        {
-          "id": "d85a243aaabd4001",
-          "title": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-          "brand": "Insta360",
-          "category": "hardware",
-          "event_type": "新品发布",
-          "summary": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-          "details": [
-            "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-          ],
-          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "threat_level": "medium",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-19",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-          "title_original": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 - 新浪财经",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经",
-          "details_zh": [
-            "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-          ],
-          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "push",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTUJpZkNFbjhvc1o1dE1yQ3VKSmNIZ2xVOTV4TWtIQmg2cTNYcktsMnZwVnRUbUh6a09ERnlYTEhHQU1EVHVZay0zUEZYT3p0Q2dyd3RfN0lOQklzeVpidWlyTjhsMEtXcTc5MVppOWdaUF9CN1BYYjB1Q3hFNHM?oc=5",
-              "snippet": "影石Luna Pro今晚发布：支持4K竖拍 单镜头更便宜 新浪财经"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-20T03:25:16.737450+00:00",
-          "is_new": true
-        },
-        {
-          "id": "4f4102670fa55d52",
-          "title": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-          "brand": "Insta360",
-          "category": "hardware",
-          "event_type": "行业趋势",
-          "summary": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
-          "details": [
-            "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
-          ],
-          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "threat_level": "medium",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-19",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-          "title_original": "影石全景相机市场增长放缓，品类天花板显现 - 虎嗅",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "影石全景相机市场增长放缓，品类天花板显现 虎嗅",
-          "details_zh": [
-            "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
-          ],
-          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "push",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQ21nV0xSa3p6ZHZHakpOREQwaHQyZjl5ZHh0THZZN18tN0hVUFJLN0s5TTZEZ0RTZGg1UUJ3RzFrQ3EyWWVHV295LTJYUHIwZWtCTA?oc=5",
-              "snippet": "影石全景相机市场增长放缓，品类天花板显现 虎嗅"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-20T03:25:16.737450+00:00",
-          "is_new": true
-        }
-      ]
-    },
-    {
-      "brand": "DJI",
-      "is_self": false,
-      "event_count": 3,
-      "new_count": 3,
-      "threat_summary": "medium",
-      "max_importance": 5,
-      "category_mix": {
-        "hardware": 2,
-        "industry": 1
-      },
-      "key_insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "latest_events": [
-        {
-          "id": "fb837c374e213576",
-          "title": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-          "brand": "DJI",
-          "category": "hardware",
-          "event_type": "行业趋势",
-          "summary": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
-          "details": [
-            "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-          ],
-          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-          "threat_level": "medium",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-20",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-          "title_original": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 - 驱动之家",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家",
-          "details_zh": [
-            "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-          ],
-          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "push",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVzVJWC1DenpPeDYxbmxXNzFVazRZd0N3dGhWT3doNGhfWGxabmNWYWtnM2x4RW13MkdBWmxKaGFiVXNlemlXT3pVZDNxYXNySFF3V3Mxbjg?oc=5",
-              "snippet": "大疆Action 6记录中国首次火箭陆地回收！央视：国产消费级运动相机第一次上火箭 驱动之家"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-20T03:25:16.737450+00:00",
-          "is_new": true
-        },
-        {
-          "id": "26ab7ee895e1f7ea",
-          "title": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-          "brand": "DJI",
-          "category": "hardware",
-          "event_type": "行业趋势",
-          "summary": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
-          "details": [
-            "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-          ],
-          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-          "threat_level": "medium",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-19",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-          "title_original": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 - 紫牛新闻",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻",
-          "details_zh": [
-            "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-          ],
-          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "push",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYTVFb2Y0RXRXLUJaWEMzX0Zkc0QzRUQzMzludnVIRjZNTGNKVm5XTHNWanlTVDgyZ003VFZOQzg0SkNkRUowYl9MV29CMzVtSXdOMmpYT08tMGpla1dIM0VibERTLU5XTTF6dw?oc=5",
-              "snippet": "扛住500℃穿越黑障！大疆Osmo Action 6成功带回朱雀三号回收第一视角原片 紫牛新闻"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-20T03:25:16.737450+00:00",
-          "is_new": true
-        },
-        {
-          "id": "a1c052f87cccb8e9",
-          "title": "大疆硬刚美国国防部，打出了关键翻盘 - 京报网",
-          "brand": "DJI",
-          "category": "industry",
-          "event_type": "行业趋势",
-          "summary": "大疆硬刚美国国防部，打出了关键翻盘 京报网",
-          "details": [
-            "大疆硬刚美国国防部，打出了关键翻盘 京报网"
-          ],
-          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "threat_level": "low",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-19",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KWjNzWmdRMDMtdWs5d19mc0FIYU4yaERDS3VuUDBEOUJ0SVI1R0FzX0ZDVDgxaFNLdnpIZFAxLVFLOG1SNjdPZWJZelplSXpGSHZ6czRLM19mUTNyOHc?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": false,
-          "title_zh": "大疆硬刚美国国防部，打出了关键翻盘 - 京报网",
-          "title_original": "大疆硬刚美国国防部，打出了关键翻盘 - 京报网",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "大疆硬刚美国国防部，打出了关键翻盘 京报网",
-          "details_zh": [
-            "大疆硬刚美国国防部，打出了关键翻盘 京报网"
-          ],
-          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "dashboard_only",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KWjNzWmdRMDMtdWs5d19mc0FIYU4yaERDS3VuUDBEOUJ0SVI1R0FzX0ZDVDgxaFNLdnpIZFAxLVFLOG1SNjdPZWJZelplSXpGSHZ6czRLM19mUTNyOHc?oc=5",
-              "snippet": "大疆硬刚美国国防部，打出了关键翻盘 京报网"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-20T03:25:16.737450+00:00",
-          "is_new": true
+          "is_new": false
         }
       ]
     }
@@ -1468,6 +1573,16 @@
       "pushed_count": 0,
       "source_ok": 25,
       "source_failed": 2
+    },
+    {
+      "generated_at": "2026-08-20T10:59:34.612377+00:00",
+      "candidate_count": 30,
+      "new_count": 22,
+      "updated_count": 0,
+      "pushable_count": 6,
+      "pushed_count": 0,
+      "source_ok": 25,
+      "source_failed": 2
     }
   ],
   "health": [
@@ -1499,7 +1614,7 @@
       "source_id": "dji-news",
       "name": "DJI News",
       "ok": true,
-      "count": 30,
+      "count": 0,
       "region": "global",
       "language": "en"
     },
@@ -1579,7 +1694,7 @@
       "source_id": "gnews-cam-promo",
       "name": "影像设备促销动态",
       "ok": true,
-      "count": 3,
+      "count": 5,
       "region": "domestic",
       "language": "zh"
     },
@@ -1698,7 +1813,7 @@
     "stage": "fallback"
   },
   "quality": {
-    "generated_at": "2026-08-20T03:25:16.740388+00:00",
+    "generated_at": "2026-08-20T10:59:34.615563+00:00",
     "source_ok": 25,
     "source_failed": 2,
     "ai_enabled": false,
@@ -1710,7 +1825,8 @@
     "events_discarded": 0,
     "events_without_evidence": 0,
     "top5_source_mix": {
-      "大疆/影石 中文动态": 5
+      "IT之家": 2,
+      "大疆/影石 中文动态": 3
     },
     "top5_region_mix": {
       "domestic": 5
