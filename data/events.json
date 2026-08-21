@@ -1,37 +1,86 @@
 [
   {
-    "id": "02cadf3dbdef2352",
-    "title": "森海塞尔 MOMENTUM True Wireless 5 旗舰真无线耳机发布，耳机和充电盒都能更换电池",
+    "id": "0a7a68b620ff3102",
+    "title": "荣耀平板 X10 Pro Max 上架预约：13 英寸屏、10100mAh 电池",
+    "brand": "Other",
+    "category": "software",
+    "event_type": "软件更新",
+    "summary": "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布。 商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版。 荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教",
+    "details": [
+      "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布",
+      "商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版",
+      "荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教辅学练资源等功能；搭载双前置，包含 800 万像素前置摄像头和 200 万像素 AI 专注眼，可实时检测 6 大不专注行为"
+    ],
+    "insight": "Other 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-21",
+    "source_name": "IT之家",
+    "source_url": "https://www.ithome.com/0/992/539.htm",
+    "week_tag": "2026-W34",
+    "source_id": "ithome-imaging",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "荣耀平板 X10 Pro Max 上架预约：13 英寸屏、10100mAh 电池",
+    "title_original": "荣耀平板 X10 Pro Max 上架预约：13 英寸屏、10100mAh 电池",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布。 商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版。 荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教辅学练资源等功能；搭载双前置，包含 80",
+    "details_zh": [
+      "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布",
+      "商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版",
+      "荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教辅学练资源等功能；搭载双前置，包含 800 万像素前置摄像头和 200 万像素 AI 专注眼，可实时检测 6 大不专注行为"
+    ],
+    "insight_zh": "Other 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "IT之家",
+        "url": "https://www.ithome.com/0/992/539.htm",
+        "snippet": "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布。 商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版。 荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "e308b47e0261fe66",
+    "title": "火星南部高地新影像曝光，37 亿年前水流塑造地貌",
     "brand": "Other",
     "category": "hardware",
     "event_type": "新品发布",
-    "summary": "IT之家 8 月 20 日消息，北京时间 20 日（今天），森海塞尔发布了新一代旗舰真无线耳机 MOMENTUM True Wireless 5，整套产品围绕“可持续性”进行了重新设计。 新设计改善了耳机的舒适性、稳定性和便携性，待电池老化后，用户不必淘汰整副耳机。耳机本体和充电盒都支持 用户自行更换电池 ，用一把小型螺丝刀即可完成拆卸，不需要像传统耳机那样破坏层层胶粘结构。 MOMENTUM True Wireless 5 将于 9 ",
+    "summary": "IT之家 8 月 21 日消息，欧空局（ESA）于 8 月 19 日发布博文，分享了“火星快车号”（Mars Express）轨道航天器传回的新视频， 展示飞掠火星南部高地与斯基亚帕雷利陨石坑（Schiaparelli Crater）时拍摄的新画面。 IT之家援引博文介绍，“火星快车号”于 2003 年发射，搭载高分辨率立体相机（High Resolution Stereo Camera），可以从多个观察角度扫描火星表面，并生成彩色 3",
     "details": [
-      "IT之家 8 月 20 日消息，北京时间 20 日（今天），森海塞尔发布了新一代旗舰真无线耳机 MOMENTUM True Wireless 5，整套产品围绕“可持续性”进行了重新设计",
-      "新设计改善了耳机的舒适性、稳定性和便携性，待电池老化后，用户不必淘汰整副耳机",
-      "耳机本体和充电盒都支持 用户自行更换电池 ，用一把小型螺丝刀即可完成拆卸，不需要像传统耳机那样破坏层层胶粘结构"
+      "IT之家 8 月 21 日消息，欧空局（ESA）于 8 月 19 日发布博文，分享了“火星快车号”（Mars Express）轨道航天器传回的新视频， 展示飞掠火星南部高地与斯基亚帕雷利陨石坑（Schiaparelli Crater）时拍摄的新画面",
+      "IT之家援引博文介绍，“火星快车号”于 2003 年发射，搭载高分辨率立体相机（High Resolution Stereo Camera），可以从多个观察角度扫描火星表面，并生成彩色 3D 图像",
+      "斯基亚帕雷利陨石坑位于撞击坑密集的火星南部高地，直径超过 460 公里，是火星最大的撞击遗址之一"
     ],
     "insight": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-08-20",
+    "published_at": "2026-08-21",
     "source_name": "IT之家",
-    "source_url": "https://www.ithome.com/0/992/305.htm",
+    "source_url": "https://www.ithome.com/0/992/479.htm",
     "week_tag": "2026-W34",
     "source_id": "ithome-imaging",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "森海塞尔 MOMENTUM True Wireless 5 旗舰真无线耳机发布，耳机和充电盒都能更换电池",
-    "title_original": "森海塞尔 MOMENTUM True Wireless 5 旗舰真无线耳机发布，耳机和充电盒都能更换电池",
+    "title_zh": "火星南部高地新影像曝光，37 亿年前水流塑造地貌",
+    "title_original": "火星南部高地新影像曝光，37 亿年前水流塑造地貌",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "IT之家 8 月 20 日消息，北京时间 20 日（今天），森海塞尔发布了新一代旗舰真无线耳机 MOMENTUM True Wireless 5，整套产品围绕“可持续性”进行了重新设计。 新设计改善了耳机的舒适性、稳定性和便携性，待电池老化后，用户不必淘汰整副耳机。耳机本体和充电盒都支持 用户自行更换电池 ，用一把小型螺丝刀即可完成拆卸，不需要像传统耳机那样破坏层层胶粘结构。 MOMENTUM True Wireless 5 将于 9 月 3 日开售，售价 299.95 美元",
+    "summary_zh": "IT之家 8 月 21 日消息，欧空局（ESA）于 8 月 19 日发布博文，分享了“火星快车号”（Mars Express）轨道航天器传回的新视频， 展示飞掠火星南部高地与斯基亚帕雷利陨石坑（Schiaparelli Crater）时拍摄的新画面。 IT之家援引博文介绍，“火星快车号”于 2003 年发射，搭载高分辨率立体相机（High Resolution Stereo Camera），可以从多个观察角度扫描火星表面，并生成彩色 3D 图像。 斯基亚帕雷利陨石坑位于撞击坑",
     "details_zh": [
-      "IT之家 8 月 20 日消息，北京时间 20 日（今天），森海塞尔发布了新一代旗舰真无线耳机 MOMENTUM True Wireless 5，整套产品围绕“可持续性”进行了重新设计",
-      "新设计改善了耳机的舒适性、稳定性和便携性，待电池老化后，用户不必淘汰整副耳机",
-      "耳机本体和充电盒都支持 用户自行更换电池 ，用一把小型螺丝刀即可完成拆卸，不需要像传统耳机那样破坏层层胶粘结构"
+      "IT之家 8 月 21 日消息，欧空局（ESA）于 8 月 19 日发布博文，分享了“火星快车号”（Mars Express）轨道航天器传回的新视频， 展示飞掠火星南部高地与斯基亚帕雷利陨石坑（Schiaparelli Crater）时拍摄的新画面",
+      "IT之家援引博文介绍，“火星快车号”于 2003 年发射，搭载高分辨率立体相机（High Resolution Stereo Camera），可以从多个观察角度扫描火星表面，并生成彩色 3D 图像",
+      "斯基亚帕雷利陨石坑位于撞击坑密集的火星南部高地，直径超过 460 公里，是火星最大的撞击遗址之一"
     ],
     "insight_zh": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "importance_score": 5,
@@ -40,159 +89,108 @@
     "evidence": [
       {
         "source_name": "IT之家",
-        "url": "https://www.ithome.com/0/992/305.htm",
-        "snippet": "IT之家 8 月 20 日消息，北京时间 20 日（今天），森海塞尔发布了新一代旗舰真无线耳机 MOMENTUM True Wireless 5，整套产品围绕“可持续性”进行了重新设计。 新设计改善了耳机的舒适性、稳定性和便携性，待电池老化后，用户不必淘汰整副耳机。耳机本体和充电盒都支持 用户自行更换电池 ，用一把小型螺丝刀即可完成拆卸，不需要像传统耳机那样破坏层层胶粘结构。 MOMENTUM True Wireless 5 将于 9 "
+        "url": "https://www.ithome.com/0/992/479.htm",
+        "snippet": "IT之家 8 月 21 日消息，欧空局（ESA）于 8 月 19 日发布博文，分享了“火星快车号”（Mars Express）轨道航天器传回的新视频， 展示飞掠火星南部高地与斯基亚帕雷利陨石坑（Schiaparelli Crater）时拍摄的新画面。 IT之家援引博文介绍，“火星快车号”于 2003 年发射，搭载高分辨率立体相机（High Resolution Stereo Camera），可以从多个观察角度扫描火星表面，并生成彩色 3"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
-    "id": "522ff5522b0436e6",
-    "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
-    "brand": "Sony",
+    "id": "60ff7f935bafa48d",
+    "title": "三星 Galaxy S26 FE 手机渲染图曝光，8 月 27 日发布",
+    "brand": "Other",
     "category": "hardware",
     "event_type": "新品发布",
-    "summary": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中",
+    "summary": "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布。 颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕，前置摄像头位于屏幕中央的打孔区域。屏幕边框整体较窄，且两侧边框接近等宽，但下巴部",
     "details": [
-      "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
-      "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
-      "这款新机在 Geekbench 7"
+      "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布",
+      "颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色",
+      "外观方面，手机正面采用平面屏幕，前置摄像头位于屏幕中央的打孔区域"
     ],
-    "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "medium",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "IT之家",
-    "source_url": "https://www.ithome.com/0/992/303.htm",
-    "week_tag": "2026-W34",
-    "source_id": "ithome-imaging",
-    "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
-    "title_original": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中，主板字段中列出了“parrot”，CP",
-    "details_zh": [
-      "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII",
-      "据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版",
-      "这款新机在 Geekbench 7"
-    ],
-    "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
-        "source_name": "IT之家",
-        "url": "https://www.ithome.com/0/992/303.htm",
-        "snippet": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在 Geekbench 7.0 中单核跑分 871 分，多核跑分 3028 分。其中"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "90f68c555f426651",
-    "title": "亚马逊在美国市场扩展 Prime Air 无人机配送服务，今年底将进驻当地 500 座城镇",
-    "brand": "Sony",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”。 公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送。 目前，Prime Air 已经在美国 7 个州设立 11 个配送站提",
-    "details": [
-      "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”",
-      "公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送",
-      "目前，Prime Air 已经在美国 7 个州设立 11 个配送站提供服务，可配送重量不超过 5 磅 （IT之家注：约 2"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "insight": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-08-20",
+    "published_at": "2026-08-21",
     "source_name": "IT之家",
-    "source_url": "https://www.ithome.com/0/992/258.htm",
+    "source_url": "https://www.ithome.com/0/992/461.htm",
     "week_tag": "2026-W34",
     "source_id": "ithome-imaging",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "亚马逊在美国市场扩展 Prime Air 无人机配送服务，今年底将进驻当地 500 座城镇",
-    "title_original": "亚马逊在美国市场扩展 Prime Air 无人机配送服务，今年底将进驻当地 500 座城镇",
+    "title_zh": "三星 Galaxy S26 FE 手机渲染图曝光，8 月 27 日发布",
+    "title_original": "三星 Galaxy S26 FE 手机渲染图曝光，8 月 27 日发布",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”。 公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送。 目前，Prime Air 已经在美国 7 个州设立 11 个配送站提供服务，可配送重量不超过 5 磅 （IT",
+    "summary_zh": "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布。 颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕，前置摄像头位于屏幕中央的打孔区域。屏幕边框整体较窄，且两侧边框接近等宽，但下巴部分更宽一些。 机身中框采用平直设计，背板",
     "details_zh": [
-      "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”",
-      "公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送",
-      "目前，Prime Air 已经在美国 7 个州设立 11 个配送站提供服务，可配送重量不超过 5 磅 （IT之家注：约 2"
+      "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布",
+      "颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色",
+      "外观方面，手机正面采用平面屏幕，前置摄像头位于屏幕中央的打孔区域"
     ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "insight_zh": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
     "importance_score": 5,
     "confidence_score": 0.75,
     "push_decision": "dashboard_only",
     "evidence": [
       {
         "source_name": "IT之家",
-        "url": "https://www.ithome.com/0/992/258.htm",
-        "snippet": "IT之家 8 月 20 日消息，亚马逊发文，宣布将扩展旗下 Prime Air 无人机配送服务，计划在今年年底前扩展至美国近 500 座城镇，服务范围较目前扩大约 6 倍，预计覆盖“数千万名消费者”。 公开信息显示，亚马逊 Prime Air 无人机配送服务早在 2013 年 12 月便公布，但受法规和技术限制，直到 2022 年 12 月才正式在美国开展小规模配送。 目前，Prime Air 已经在美国 7 个州设立 11 个配送站提"
+        "url": "https://www.ithome.com/0/992/461.htm",
+        "snippet": "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布。 颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕，前置摄像头位于屏幕中央的打孔区域。屏幕边框整体较窄，且两侧边框接近等宽，但下巴部"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
-    "id": "08a6b9541f329b0e",
-    "title": "索尼 Xperia 新品发布会定档 8 月 25 日",
-    "brand": "Sony",
+    "id": "0f6dc34e5bee025d",
+    "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+    "brand": "Insta360",
     "category": "hardware",
     "event_type": "新品发布",
-    "summary": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD",
+    "summary": "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。 查看全文",
     "details": [
-      "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
-      "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
-      "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+      "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等",
+      "查看全文"
     ],
-    "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
     "threat_level": "medium",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "IT之家",
-    "source_url": "https://www.ithome.com/0/992/231.htm",
+    "published_at": "2026-08-21",
+    "source_name": "少数派",
+    "source_url": "https://sspai.com/post/113666",
     "week_tag": "2026-W34",
-    "source_id": "ithome-imaging",
+    "source_id": "sspai",
     "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "索尼 Xperia 新品发布会定档 8 月 25 日",
-    "title_original": "索尼 Xperia 新品发布会定档 8 月 25 日",
+    "pushed": false,
+    "title_zh": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+    "title_original": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD 存储扩展。",
+    "summary_zh": "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。 查看全文",
     "details_zh": [
-      "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动",
-      "从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型",
-      "上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3"
+      "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等",
+      "查看全文"
     ],
-    "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
     "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
+    "confidence_score": 0.72,
+    "push_decision": "dashboard_only",
     "evidence": [
       {
-        "source_name": "IT之家",
-        "url": "https://www.ithome.com/0/992/231.htm",
-        "snippet": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动平台，内置 5000mAh 电池，提供 3.5 毫米音频插孔，支持 microSD"
+        "source_name": "少数派",
+        "url": "https://sspai.com/post/113666",
+        "snippet": "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。 查看全文"
       }
     ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "source_weight": 3,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
@@ -245,34 +243,34 @@
     "is_new": false
   },
   {
-    "id": "a194bc3be7e96978",
-    "title": "中国蓝观察丨从无人机到“准参战”：俄英对峙走到了哪一步？ - 新蓝网",
+    "id": "66ca861fe70a0781",
+    "title": "无人机变身森林火灾扑救“智慧参谋” 这场全国性无人机比测在渝举行 - 重庆市人民政府",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "中国蓝观察丨从无人机到“准参战”：俄英对峙走到了哪一步？ 新蓝网",
+    "summary": "无人机变身森林火灾扑救“智慧参谋” 这场全国性无人机比测在渝举行 重庆市人民政府",
     "details": [
-      "中国蓝观察丨从无人机到“准参战”：俄英对峙走到了哪一步？ 新蓝网"
+      "无人机变身森林火灾扑救“智慧参谋” 这场全国性无人机比测在渝举行 重庆市人民政府"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-08-20",
+    "published_at": "2026-08-21",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VR213cE00bGFubWc2YkR4eTFYYnFiYkc5V01tbEYyc2NESEFsdzAyN0FDVzk0WjItR3h0Wm1WX2RqWFlTMXpoRExORlVBbGM?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PMzJVckdvWlpPdjl1LUxDWkR3QXBhRW56R3MxNjFzYkpwNGhDMjlidl91NE5lVlRUVEVaSGZvVUQ3ZmVzZzhuVUdVSWpINzQtTnNnbzk4bXRBNFBhVy1RdGNpYmd1cDRyVWVocXNFd1c1dGJJ?oc=5",
     "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "中国蓝观察丨从无人机到“准参战”：俄英对峙走到了哪一步？ - 新蓝网",
-    "title_original": "中国蓝观察丨从无人机到“准参战”：俄英对峙走到了哪一步？ - 新蓝网",
+    "title_zh": "无人机变身森林火灾扑救“智慧参谋” 这场全国性无人机比测在渝举行 - 重庆市人民政府",
+    "title_original": "无人机变身森林火灾扑救“智慧参谋” 这场全国性无人机比测在渝举行 - 重庆市人民政府",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "中国蓝观察丨从无人机到“准参战”：俄英对峙走到了哪一步？ 新蓝网",
+    "summary_zh": "无人机变身森林火灾扑救“智慧参谋” 这场全国性无人机比测在渝举行 重庆市人民政府",
     "details_zh": [
-      "中国蓝观察丨从无人机到“准参战”：俄英对峙走到了哪一步？ 新蓝网"
+      "无人机变身森林火灾扑救“智慧参谋” 这场全国性无人机比测在渝举行 重庆市人民政府"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -281,23 +279,23 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VR213cE00bGFubWc2YkR4eTFYYnFiYkc5V01tbEYyc2NESEFsdzAyN0FDVzk0WjItR3h0Wm1WX2RqWFlTMXpoRExORlVBbGM?oc=5",
-        "snippet": "中国蓝观察丨从无人机到“准参战”：俄英对峙走到了哪一步？ 新蓝网"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PMzJVckdvWlpPdjl1LUxDWkR3QXBhRW56R3MxNjFzYkpwNGhDMjlidl91NE5lVlRUVEVaSGZvVUQ3ZmVzZzhuVUdVSWpINzQtTnNnbzk4bXRBNFBhVy1RdGNpYmd1cDRyVWVocXNFd1c1dGJJ?oc=5",
+        "snippet": "无人机变身森林火灾扑救“智慧参谋” 这场全国性无人机比测在渝举行 重庆市人民政府"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
-    "id": "30d72f0b4607a4ac",
-    "title": "亚马逊Prime Air无人机配送拟扩展至美国近500城 - 观点网",
+    "id": "c6b2c30dd6cf188f",
+    "title": "匈牙利国庆日的无人机烟花灯光秀 - 新华网",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "亚马逊Prime Air无人机配送拟扩展至美国近500城 观点网",
+    "summary": "匈牙利国庆日的无人机烟花灯光秀 新华网",
     "details": [
-      "亚马逊Prime Air无人机配送拟扩展至美国近500城 观点网"
+      "匈牙利国庆日的无人机烟花灯光秀 新华网"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
@@ -305,19 +303,19 @@
     "confidence": "media",
     "published_at": "2026-08-20",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9US1hoRlE0YS1pN19YcHBtMWNtLUd1eFZJZVl0cDZMNzZ6LThId0VGX0E5QkNWRlZMdTZjNko2MXgzSzlhWUM0UXJtaWRpelVRODNBTl9CYTNmLUUtaU9XS01n?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnNsU2NxR0h2czVLZVlJNVB1Qmk5RWRTZzk2NExocW1pYlE1dnJvejFqV0tHajJ6X3NOYXNLQ1dyaFk2Uk5DQV8zZV8tRGtURTB5ekwyWThXSzE3dVcwOERRNkhGeDBZYTB6V1NMQmNHX0llWUNrOXdpSlRnM1hsV2o2Ny16Zw?oc=5",
     "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "亚马逊Prime Air无人机配送拟扩展至美国近500城 - 观点网",
-    "title_original": "亚马逊Prime Air无人机配送拟扩展至美国近500城 - 观点网",
+    "title_zh": "匈牙利国庆日的无人机烟花灯光秀 - 新华网",
+    "title_original": "匈牙利国庆日的无人机烟花灯光秀 - 新华网",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "亚马逊Prime Air无人机配送拟扩展至美国近500城 观点网",
+    "summary_zh": "匈牙利国庆日的无人机烟花灯光秀 新华网",
     "details_zh": [
-      "亚马逊Prime Air无人机配送拟扩展至美国近500城 观点网"
+      "匈牙利国庆日的无人机烟花灯光秀 新华网"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -326,43 +324,43 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9US1hoRlE0YS1pN19YcHBtMWNtLUd1eFZJZVl0cDZMNzZ6LThId0VGX0E5QkNWRlZMdTZjNko2MXgzSzlhWUM0UXJtaWRpelVRODNBTl9CYTNmLUUtaU9XS01n?oc=5",
-        "snippet": "亚马逊Prime Air无人机配送拟扩展至美国近500城 观点网"
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnNsU2NxR0h2czVLZVlJNVB1Qmk5RWRTZzk2NExocW1pYlE1dnJvejFqV0tHajJ6X3NOYXNLQ1dyaFk2Uk5DQV8zZV8tRGtURTB5ekwyWThXSzE3dVcwOERRNkhGeDBZYTB6V1NMQmNHX0llWUNrOXdpSlRnM1hsV2o2Ny16Zw?oc=5",
+        "snippet": "匈牙利国庆日的无人机烟花灯光秀 新华网"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
-    "id": "a771cc7eb6be0fbe",
-    "title": "当“药”从天降成为客观描述后……在这里，无人机帮老百姓送药2年啦 - 中国江苏网",
+    "id": "cb7d62db817609ad",
+    "title": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 - 美国之音",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "当“药”从天降成为客观描述后……在这里，无人机帮老百姓送药2年啦 中国江苏网",
+    "summary": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音",
     "details": [
-      "当“药”从天降成为客观描述后……在这里，无人机帮老百姓送药2年啦 中国江苏网"
+      "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-08-20",
+    "published_at": "2026-08-21",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFdFalZuaHFtSXZ2b3JCalRwY3BFbEpLaWwxUTZCa2VFZ1ktcTRoMHc1YjdTa3NPaE0wU3hsZ2kyYUpkMGd3bndNekpNLVQyOFoxSldqRk5GaHNmQUI0V1FKMWx0U1hIZUowWWZrbkZDLWFrblBMRVdNU1FvZnU0aEE2dmM3eXJvNGVn?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdFR5YnFTZklvQ0VGWjJoZERLdWhaaFItUi1nbTRnZHkweEpLZEJfYzVrb29oZ1pGQWVsZHU1RGZKSk14dVUwSWttd0FUX1BNUHg2Q0lhYThKdkZKMDcxWmczRHNDNHM3V05Za2JWWjVvUXV4QnBvOVREeTJkV0NrMHg1QjZKeUdBZjZwejlXZGhsdGtDZ0dVYTVNX0xPXzg4RVBGNm44dVRnY21RRGlLT3NBbTNMbE4yc3ozRG95MHVXOTVmeDBzektDX3I4d3JUWlFJQlU1dERxOWRCTm0zbTRoYk1xOWhlTGdPQWZxTTLSAfABQVVfeXFMTXRUeWJxU2ZJb0NFRloyaGRES3VoWmhSLVItZ200Z2R5MHhKS2RCX2M1a29vaGdaRkFlbGR1NURmSkpNeHVVMElrbXdBVF9QTVB4NkNJYWE4SnZGSjA3MVpnM0RzQzRzN1dOWWtiVlo1b1F1eEJwbzlURHkyZFdDazB4NUI2SnlHQWY2cHo5V2RobHRrQ2dHVWE1TV9MT184OEVQRjZuOHVUZ2NtUURpS09zQW0zTGxOMnN6M0RveTB1Vzk1Zngwc3pLQ19yOHdyVFpRSUJVNXREcTlkQk5tM200aGJNcTloZUxnT0FmcU0y?oc=5",
     "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "当“药”从天降成为客观描述后……在这里，无人机帮老百姓送药2年啦 - 中国江苏网",
-    "title_original": "当“药”从天降成为客观描述后……在这里，无人机帮老百姓送药2年啦 - 中国江苏网",
+    "title_zh": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 - 美国之音",
+    "title_original": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 - 美国之音",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "当“药”从天降成为客观描述后……在这里，无人机帮老百姓送药2年啦 中国江苏网",
+    "summary_zh": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音",
     "details_zh": [
-      "当“药”从天降成为客观描述后……在这里，无人机帮老百姓送药2年啦 中国江苏网"
+      "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -371,23 +369,70 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFdFalZuaHFtSXZ2b3JCalRwY3BFbEpLaWwxUTZCa2VFZ1ktcTRoMHc1YjdTa3NPaE0wU3hsZ2kyYUpkMGd3bndNekpNLVQyOFoxSldqRk5GaHNmQUI0V1FKMWx0U1hIZUowWWZrbkZDLWFrblBMRVdNU1FvZnU0aEE2dmM3eXJvNGVn?oc=5",
-        "snippet": "当“药”从天降成为客观描述后……在这里，无人机帮老百姓送药2年啦 中国江苏网"
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdFR5YnFTZklvQ0VGWjJoZERLdWhaaFItUi1nbTRnZHkweEpLZEJfYzVrb29oZ1pGQWVsZHU1RGZKSk14dVUwSWttd0FUX1BNUHg2Q0lhYThKdkZKMDcxWmczRHNDNHM3V05Za2JWWjVvUXV4QnBvOVREeTJkV0NrMHg1QjZKeUdBZjZwejlXZGhsdGtDZ0dVYTVNX0xPXzg4RVBGNm44dVRnY21RRGlLT3NBbTNMbE4yc3ozRG95MHVXOTVmeDBzektDX3I4d3JUWlFJQlU1dERxOWRCTm0zbTRoYk1xOWhlTGdPQWZxTTLSAfABQVVfeXFMTXRUeWJxU2ZJb0NFRloyaGRES3VoWmhSLVItZ200Z2R5MHhKS2RCX2M1a29vaGdaRkFlbGR1NURmSkpNeHVVMElrbXdBVF9QTVB4NkNJYWE4SnZGSjA3MVpnM0RzQzRzN1dOWWtiVlo1b1F1eEJwbzlURHkyZFdDazB4NUI2SnlHQWY2cHo5V2RobHRrQ2dHVWE1TV9MT184OEVQRjZuOHVUZ2NtUURpS09zQW0zTGxOMnN6M0RveTB1Vzk1Zngwc3pLQ19yOHdyVFpRSUJVNXREcTlkQk5tM200aGJNcTloZUxnT0FmcU0y?oc=5",
+        "snippet": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
-    "id": "0dc410dbc8ee3e50",
-    "title": "【图片新闻】陇西县2026年高素质农民农机手无人机（飞防）专题培训班开展 - 每日甘肃网",
+    "id": "6419215e3c37a66c",
+    "title": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
+    "brand": "DJI",
+    "category": "hardware",
+    "event_type": "行业趋势",
+    "summary": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+    "details": [
+      "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+    ],
+    "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+    "threat_level": "medium",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-21",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": true,
+    "title_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
+    "title_original": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+    "details_zh": [
+      "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+    ],
+    "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "push",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
+        "snippet": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "26f6156bb2f3a632",
+    "title": "胡塞武装称对沙特发动无人机袭击 - chinanews.com.cn",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "【图片新闻】陇西县2026年高素质农民农机手无人机（飞防）专题培训班开展 每日甘肃网",
+    "summary": "胡塞武装称对沙特发动无人机袭击 chinanews.com.cn",
     "details": [
-      "【图片新闻】陇西县2026年高素质农民农机手无人机（飞防）专题培训班开展 每日甘肃网"
+      "胡塞武装称对沙特发动无人机袭击 chinanews",
+      "com",
+      "cn"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
@@ -395,19 +440,21 @@
     "confidence": "media",
     "published_at": "2026-08-20",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZUTZLeEZvQzdmQ1dXX1c3NWxNeDA5QmlqUGR6RVpEa0p2T0RmQUYxTzRQRFdLRkx5Unc5UzliU0VyX1dMbzdCSWNRMlR2LU4zQ0V5ZTJfTk9TRURSS2YyckVqeGtFSFFfdEpFNWZjc25sRjA?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CZFJzTjBDX1VWRVRXRy1iYVFBSGx5b09MM2hNRWt5ZG84dl9EUV9BRWthY08tZmY1YVBFUHpQLThIY2x4MXRac0YxbDd0QlRybjZDSkcwZHMzVmZ6d0Z0M09jRzh3QU9o?oc=5",
     "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "【图片新闻】陇西县2026年高素质农民农机手无人机（飞防）专题培训班开展 - 每日甘肃网",
-    "title_original": "【图片新闻】陇西县2026年高素质农民农机手无人机（飞防）专题培训班开展 - 每日甘肃网",
+    "title_zh": "胡塞武装称对沙特发动无人机袭击 - chinanews.com.cn",
+    "title_original": "胡塞武装称对沙特发动无人机袭击 - chinanews.com.cn",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "【图片新闻】陇西县2026年高素质农民农机手无人机（飞防）专题培训班开展 每日甘肃网",
+    "summary_zh": "胡塞武装称对沙特发动无人机袭击 chinanews.com.cn",
     "details_zh": [
-      "【图片新闻】陇西县2026年高素质农民农机手无人机（飞防）专题培训班开展 每日甘肃网"
+      "胡塞武装称对沙特发动无人机袭击 chinanews",
+      "com",
+      "cn"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -416,23 +463,298 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZUTZLeEZvQzdmQ1dXX1c3NWxNeDA5QmlqUGR6RVpEa0p2T0RmQUYxTzRQRFdLRkx5Unc5UzliU0VyX1dMbzdCSWNRMlR2LU4zQ0V5ZTJfTk9TRURSS2YyckVqeGtFSFFfdEpFNWZjc25sRjA?oc=5",
-        "snippet": "【图片新闻】陇西县2026年高素质农民农机手无人机（飞防）专题培训班开展 每日甘肃网"
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CZFJzTjBDX1VWRVRXRy1iYVFBSGx5b09MM2hNRWt5ZG84dl9EUV9BRWthY08tZmY1YVBFUHpQLThIY2x4MXRac0YxbDd0QlRybjZDSkcwZHMzVmZ6d0Z0M09jRzh3QU9o?oc=5",
+        "snippet": "胡塞武装称对沙特发动无人机袭击 chinanews.com.cn"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
-    "id": "0f4b3aa67676a3fb",
-    "title": "无人机高空喊话 野泳者赶紧上岸 - qzwb.com",
+    "id": "f7f9d9c750beae6d",
+    "title": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - finance.sina.com.cn",
+    "brand": "DJI",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance.sina.com.cn",
+    "details": [
+      "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance",
+      "sina",
+      "com"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-21",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1dpUzgyQVhMbHZrb3lYSlRGdFhQY2tpUWhvand3Q3JzNW4xYmNQMGh5YkUxVjVhMHRZcm1DVXd5S0dDZ0ZNdGJ6b1YzZUJBVEt0NEd3dlJnVTRpd0xDdzBEUHNXTkRmWXd4Mk51U1UyUjNrNnJnUlpOMl9jRUtrbHZDcFBib3dNZkNoWUgwM1Fmb0RYOWpvdjBIUkJPanJqTzhsdkdORQ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - finance.sina.com.cn",
+    "title_original": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - finance.sina.com.cn",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance.sina.com.cn",
+    "details_zh": [
+      "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance",
+      "sina",
+      "com"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1dpUzgyQVhMbHZrb3lYSlRGdFhQY2tpUWhvand3Q3JzNW4xYmNQMGh5YkUxVjVhMHRZcm1DVXd5S0dDZ0ZNdGJ6b1YzZUJBVEt0NEd3dlJnVTRpd0xDdzBEUHNXTkRmWXd4Mk51U1UyUjNrNnJnUlpOMl9jRUtrbHZDcFBib3dNZkNoWUgwM1Fmb0RYOWpvdjBIUkJPanJqTzhsdkdORQ?oc=5",
+        "snippet": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance.sina.com.cn"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "3f1ac9ad665e9018",
+    "title": "上海民航职院师生赴青海果洛开展无人机专项培训 - 中国民航网",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "无人机高空喊话 野泳者赶紧上岸 qzwb.com",
+    "summary": "上海民航职院师生赴青海果洛开展无人机专项培训 中国民航网",
     "details": [
-      "无人机高空喊话 野泳者赶紧上岸 qzwb",
+      "上海民航职院师生赴青海果洛开展无人机专项培训 中国民航网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-20",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ia2xxVTk2ZDZHV2theGU1d1ViaG9BeW1LRkt2Z2U0blFlRVZXekJlcVpRSXM0QnQzMEZrc3Jza3NhVXJVZlFaWllNM0tjb25QNXc1MXlKdFdUSDhIbVNLeXlEMjVYZFM0SXNYcw?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "上海民航职院师生赴青海果洛开展无人机专项培训 - 中国民航网",
+    "title_original": "上海民航职院师生赴青海果洛开展无人机专项培训 - 中国民航网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "上海民航职院师生赴青海果洛开展无人机专项培训 中国民航网",
+    "details_zh": [
+      "上海民航职院师生赴青海果洛开展无人机专项培训 中国民航网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ia2xxVTk2ZDZHV2theGU1d1ViaG9BeW1LRkt2Z2U0blFlRVZXekJlcVpRSXM0QnQzMEZrc3Jza3NhVXJVZlFaWllNM0tjb25QNXc1MXlKdFdUSDhIbVNLeXlEMjVYZFM0SXNYcw?oc=5",
+        "snippet": "上海民航职院师生赴青海果洛开展无人机专项培训 中国民航网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "5bde50017c0f5f7e",
+    "title": "美国陆军的无人机军改，被废除了 - 风闻",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "美国陆军的无人机军改，被废除了 风闻",
+    "details": [
+      "美国陆军的无人机军改，被废除了 风闻"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-21",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QLTQ1NUl2YkZ1U2ltbWxsOFpfNEFGSWpiR2Q4TjgzcnVWMTQyOTJxWk43T21YZk96T2dYSkJ5U2ZWTVpWZG1ETFI5S3EwN0RHM2o0TlZUNjZ2eWM?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "美国陆军的无人机军改，被废除了 - 风闻",
+    "title_original": "美国陆军的无人机军改，被废除了 - 风闻",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "美国陆军的无人机军改，被废除了 风闻",
+    "details_zh": [
+      "美国陆军的无人机军改，被废除了 风闻"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QLTQ1NUl2YkZ1U2ltbWxsOFpfNEFGSWpiR2Q4TjgzcnVWMTQyOTJxWk43T21YZk96T2dYSkJ5U2ZWTVpWZG1ETFI5S3EwN0RHM2o0TlZUNjZ2eWM?oc=5",
+        "snippet": "美国陆军的无人机军改，被废除了 风闻"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "74cb3f6b6a749db3",
+    "title": "空军一号万米高空遭无人机突袭，特工紧急应对 - 手机新浪网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "空军一号万米高空遭无人机突袭，特工紧急应对 手机新浪网",
+    "details": [
+      "空军一号万米高空遭无人机突袭，特工紧急应对 手机新浪网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-21",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX2JBTzN2M2w0dGxla0JCZ1N5VU5QUl9xSzFFRkd6Z21OSlBHMXFILVJGdXA0WXBURnRwM2JoWnFXUUxHUnl3YllkeEJGaXJ0bDFaUExxWnJ1OG1UbVZFVGpUeEhsM3BGWXRyMG82M3hCLWpCYnRSaTE2RjR3VXFTY1NaT0hISlVGNHVfS0xZQW5qdmhybElBSC1hWTVrM28xMXNVRmpIcmlxMkVjZGcwM0NIWEwzUkNOVU9mYzlGNHByOVhjc3pmZmQwM25Mb3R2V01TZ2ZWX0Y?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "空军一号万米高空遭无人机突袭，特工紧急应对 - 手机新浪网",
+    "title_original": "空军一号万米高空遭无人机突袭，特工紧急应对 - 手机新浪网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "空军一号万米高空遭无人机突袭，特工紧急应对 手机新浪网",
+    "details_zh": [
+      "空军一号万米高空遭无人机突袭，特工紧急应对 手机新浪网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX2JBTzN2M2w0dGxla0JCZ1N5VU5QUl9xSzFFRkd6Z21OSlBHMXFILVJGdXA0WXBURnRwM2JoWnFXUUxHUnl3YllkeEJGaXJ0bDFaUExxWnJ1OG1UbVZFVGpUeEhsM3BGWXRyMG82M3hCLWpCYnRSaTE2RjR3VXFTY1NaT0hISlVGNHVfS0xZQW5qdmhybElBSC1hWTVrM28xMXNVRmpIcmlxMkVjZGcwM0NIWEwzUkNOVU9mYzlGNHByOVhjc3pmZmQwM25Mb3R2V01TZ2ZWX0Y?oc=5",
+        "snippet": "空军一号万米高空遭无人机突袭，特工紧急应对 手机新浪网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "6de361a6570b96b0",
+    "title": "亚马逊无人机送货“翻车”：包裹空投进泳池，噪音大吓退买家 - 凤凰网科技",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "亚马逊无人机送货“翻车”：包裹空投进泳池，噪音大吓退买家 凤凰网科技",
+    "details": [
+      "亚马逊无人机送货“翻车”：包裹空投进泳池，噪音大吓退买家 凤凰网科技"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-21",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43cnp1aHppVUdVMmtDQ0dOUWRBNkxPVjNQQ3V2RUhXeDk5cElqZmd3VkdJcVVlWHRBMEJ4UzljUjZCbUdZUjBxQkgwRHQ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "亚马逊无人机送货“翻车”：包裹空投进泳池，噪音大吓退买家 - 凤凰网科技",
+    "title_original": "亚马逊无人机送货“翻车”：包裹空投进泳池，噪音大吓退买家 - 凤凰网科技",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "亚马逊无人机送货“翻车”：包裹空投进泳池，噪音大吓退买家 凤凰网科技",
+    "details_zh": [
+      "亚马逊无人机送货“翻车”：包裹空投进泳池，噪音大吓退买家 凤凰网科技"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43cnp1aHppVUdVMmtDQ0dOUWRBNkxPVjNQQ3V2RUhXeDk5cElqZmd3VkdJcVVlWHRBMEJ4UzljUjZCbUdZUjBxQkgwRHQ?oc=5",
+        "snippet": "亚马逊无人机送货“翻车”：包裹空投进泳池，噪音大吓退买家 凤凰网科技"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "1834b26f7494a7df",
+    "title": "匈牙利国庆日的无人机烟花灯光秀 - 搜狐网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "匈牙利国庆日的无人机烟花灯光秀 搜狐网",
+    "details": [
+      "匈牙利国庆日的无人机烟花灯光秀 搜狐网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-21",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDctbG5RUlVIVThMRFdfem41Yzcxd0lTMzV6T0VCY0dEM1BlRE1ULTZNdXprd2hvNV9BSWRLbjNlWV9rOGpUZUhybDBseVptMlZKdHJFTDZQOWZRZzdaQTZYcFFyZ0NNbUNLaF8wQmFYcGVxY2FYNjRiZmVIT1N1azI3NTBxd0d2?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "匈牙利国庆日的无人机烟花灯光秀 - 搜狐网",
+    "title_original": "匈牙利国庆日的无人机烟花灯光秀 - 搜狐网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "匈牙利国庆日的无人机烟花灯光秀 搜狐网",
+    "details_zh": [
+      "匈牙利国庆日的无人机烟花灯光秀 搜狐网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDctbG5RUlVIVThMRFdfem41Yzcxd0lTMzV6T0VCY0dEM1BlRE1ULTZNdXprd2hvNV9BSWRLbjNlWV9rOGpUZUhybDBseVptMlZKdHJFTDZQOWZRZzdaQTZYcFFyZ0NNbUNLaF8wQmFYcGVxY2FYNjRiZmVIT1N1azI3NTBxd0d2?oc=5",
+        "snippet": "匈牙利国庆日的无人机烟花灯光秀 搜狐网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "2c2def332792dcaf",
+    "title": "【昆仑守护天路】守护219：无人机驰援高原受困群众 - xj.chinanews.com.cn",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "【昆仑守护天路】守护219：无人机驰援高原受困群众 xj.chinanews.com.cn",
+    "details": [
+      "【昆仑守护天路】守护219：无人机驰援高原受困群众 xj",
+      "chinanews",
       "com"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
@@ -441,19 +763,20 @@
     "confidence": "media",
     "published_at": "2026-08-20",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jdklZZTViTHJ4eHJoaGxoVnJlSHlSNlRPT0FhY1BmV3RLWnY2Q2V5enUtd091UndiZlJoR29UeW9VNUxSNTBzOHdsWFllWkRVZ05UdzhVa0ZQOWVLZE0taUlraERLN3pTX28wQzNzYw?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGl2dHNLanJ6dTdyTFgyME5mUXNpa3hiNFRDd2JyU1RKeUptaU1mS3pnbEhvRTFLNExpX3EwUGZBdjNPM1ZfME1XTE9xanhzZXBwZUZDNlJRVEpVMXI3NzVLTWZUYnBaMGk4UjhoTl80YTZvRmthOWRERnkxMERZTUphNA?oc=5",
     "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "无人机高空喊话 野泳者赶紧上岸 - qzwb.com",
-    "title_original": "无人机高空喊话 野泳者赶紧上岸 - qzwb.com",
+    "title_zh": "【昆仑守护天路】守护219：无人机驰援高原受困群众 - xj.chinanews.com.cn",
+    "title_original": "【昆仑守护天路】守护219：无人机驰援高原受困群众 - xj.chinanews.com.cn",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "无人机高空喊话 野泳者赶紧上岸 qzwb.com",
+    "summary_zh": "【昆仑守护天路】守护219：无人机驰援高原受困群众 xj.chinanews.com.cn",
     "details_zh": [
-      "无人机高空喊话 野泳者赶紧上岸 qzwb",
+      "【昆仑守护天路】守护219：无人机驰援高原受困群众 xj",
+      "chinanews",
       "com"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
@@ -463,24 +786,23 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jdklZZTViTHJ4eHJoaGxoVnJlSHlSNlRPT0FhY1BmV3RLWnY2Q2V5enUtd091UndiZlJoR29UeW9VNUxSNTBzOHdsWFllWkRVZ05UdzhVa0ZQOWVLZE0taUlraERLN3pTX28wQzNzYw?oc=5",
-        "snippet": "无人机高空喊话 野泳者赶紧上岸 qzwb.com"
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGl2dHNLanJ6dTdyTFgyME5mUXNpa3hiNFRDd2JyU1RKeUptaU1mS3pnbEhvRTFLNExpX3EwUGZBdjNPM1ZfME1XTE9xanhzZXBwZUZDNlJRVEpVMXI3NzVLTWZUYnBaMGk4UjhoTl80YTZvRmthOWRERnkxMERZTUphNA?oc=5",
+        "snippet": "【昆仑守护天路】守护219：无人机驰援高原受困群众 xj.chinanews.com.cn"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T03:25:16.737450+00:00",
-    "is_new": false
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
   },
   {
-    "id": "385e3eead8e74668",
-    "title": "俄新无人机基地威胁北约安全-欧时大参–欧时网 - oushinet.com",
+    "id": "f03d1ab942c2e135",
+    "title": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 - 美国之音",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "俄新无人机基地威胁北约安全-欧时大参–欧时网 oushinet.com",
+    "summary": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音",
     "details": [
-      "俄新无人机基地威胁北约安全-欧时大参–欧时网 oushinet",
-      "com"
+      "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
@@ -488,20 +810,19 @@
     "confidence": "media",
     "published_at": "2026-08-20",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVJzWW5JRm5uMDdTVFViZDJVUlpCRTRYME14MU5aa3NnS2owRDlaWjlaMTdsS3V5Y3VoQUZSQmFYb3FYeGlVd3lpWnJvYkZhbW5CaThIQURRLXJxSzFNVXJfazVsMUotQUVZcXR3VHFUWEhoWmoxLWlnd2hOcGt1OC1MbmxqU1ZhZFowZWZtWFV5QQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGo4MmxWeU9jMFI4ZUhvRktRalRTLWNqSGVCNEFrZ1ZhUTIwWnRjbHJMd0wwRTl1dWg1QTNpeVRvMDFFRXhraWNXT1lTa1ZkQmRTb0RESDR6alVfVlJBYWhJbFlLOXlRWHpXOTNuVHUtU3B5cmFjZmw2LXZYM1luNVNkcm5Eblp4TjF6NF9DXzZSbWtUbEVoUEdlZmlVYl9CdjNqdmJSN2dWdFNzUTVNdGZTVko1WmdaQmhRNXhfcS1QVElHY3cwcHlWa1pqVFdf0gHQAUFVX3lxTE9EajgybFZ5T2MwUjhlSG9GS1FqVFMtY2pIZUI0QWtnVmFRMjBadGNsckx3TDBFOXV1aDVBM2l5VG8wMUVFeGtpY1dPWVNrVmRCZFNvRERINHpqVV9WUkFhaElsWUs5eVFYelc5M25UdS1TcHlyYWNmbDYtdlgzWW41U2RybkRuWnhOMXo0X0NfNlJta1RsRWhQR2VmaVViX0J2M2p2YlI3Z1Z0U3NRNU10ZlNWSjVaZ1pCaFE1eF9xLVBUSUdjdzBweVZrWmpUV18?oc=5",
     "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "俄新无人机基地威胁北约安全-欧时大参–欧时网 - oushinet.com",
-    "title_original": "俄新无人机基地威胁北约安全-欧时大参–欧时网 - oushinet.com",
+    "title_zh": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 - 美国之音",
+    "title_original": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 - 美国之音",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "俄新无人机基地威胁北约安全-欧时大参–欧时网 oushinet.com",
+    "summary_zh": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音",
     "details_zh": [
-      "俄新无人机基地威胁北约安全-欧时大参–欧时网 oushinet",
-      "com"
+      "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -510,12 +831,331 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVJzWW5JRm5uMDdTVFViZDJVUlpCRTRYME14MU5aa3NnS2owRDlaWjlaMTdsS3V5Y3VoQUZSQmFYb3FYeGlVd3lpWnJvYkZhbW5CaThIQURRLXJxSzFNVXJfazVsMUotQUVZcXR3VHFUWEhoWmoxLWlnd2hOcGt1OC1MbmxqU1ZhZFowZWZtWFV5QQ?oc=5",
-        "snippet": "俄新无人机基地威胁北约安全-欧时大参–欧时网 oushinet.com"
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGo4MmxWeU9jMFI4ZUhvRktRalRTLWNqSGVCNEFrZ1ZhUTIwWnRjbHJMd0wwRTl1dWg1QTNpeVRvMDFFRXhraWNXT1lTa1ZkQmRTb0RESDR6alVfVlJBYWhJbFlLOXlRWHpXOTNuVHUtU3B5cmFjZmw2LXZYM1luNVNkcm5Eblp4TjF6NF9DXzZSbWtUbEVoUEdlZmlVYl9CdjNqdmJSN2dWdFNzUTVNdGZTVko1WmdaQmhRNXhfcS1QVElHY3cwcHlWa1pqVFdf0gHQAUFVX3lxTE9EajgybFZ5T2MwUjhlSG9GS1FqVFMtY2pIZUI0QWtnVmFRMjBadGNsckx3TDBFOXV1aDVBM2l5VG8wMUVFeGtpY1dPWVNrVmRCZFNvRERINHpqVV9WUkFhaElsWUs5eVFYelc5M25UdS1TcHlyYWNmbDYtdlgzWW41U2RybkRuWnhOMXo0X0NfNlJta1RsRWhQR2VmaVViX0J2M2p2YlI3Z1Z0U3NRNU10ZlNWSjVaZ1pCaFE1eF9xLVBUSUdjdzBweVZrWmpUV18?oc=5",
+        "snippet": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 美国之音"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "72c851e6766413a9",
+    "title": "俄罗斯导弹和无人机袭击基辅地区，造成至少16人死亡 - 美国之音",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "俄罗斯导弹和无人机袭击基辅地区，造成至少16人死亡 美国之音",
+    "details": [
+      "俄罗斯导弹和无人机袭击基辅地区，造成至少16人死亡 美国之音"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-20",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXRrTVFmUmxyMEFDYXUxNEYwOFQ0MThpaGpZcEEtVXRnQ0psUVNfU0R2bjhPZzA3X0FSWTlHb1lubnpxb3p5RHVLaFBFbW5rLWsxbnpOTTluT1hxYnVpaUtlZ2loYnVTdFlPbm14RVJQMnQ2QUZYSHl3eDdYSXA3cWdDZ1I0SE1KanNwLXlScTE2UnJoajJjd2Zrdlhqcm1GWGJ6YjJXTmQwZnJWdnRSTjZDY1hGcjdR0gG7AUFVX3lxTFBWQldvdTJDQk9mNlNjNVBPbmV0OVRmSkJTSldfNjEyQnRjQnZYNjRSdzBmRVdGeWh2U3dfWDZKc1o5ZnhNSS1SUU1NQXJoVU1nUjl1VkdTOEpOd3VlcWZrUllGbjBwYWxaQ3lHRTRoak5hcjZlVlJzU2pvNy1CRmswdU82SEJMalowWkdtdjlyenNUcVZPNUM5bS1ibXM2QkdCSkVxdDJ2Z3RBWGVxSEViTHBNaGRCeWF2ZWs?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "俄罗斯导弹和无人机袭击基辅地区，造成至少16人死亡 - 美国之音",
+    "title_original": "俄罗斯导弹和无人机袭击基辅地区，造成至少16人死亡 - 美国之音",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "俄罗斯导弹和无人机袭击基辅地区，造成至少16人死亡 美国之音",
+    "details_zh": [
+      "俄罗斯导弹和无人机袭击基辅地区，造成至少16人死亡 美国之音"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXRrTVFmUmxyMEFDYXUxNEYwOFQ0MThpaGpZcEEtVXRnQ0psUVNfU0R2bjhPZzA3X0FSWTlHb1lubnpxb3p5RHVLaFBFbW5rLWsxbnpOTTluT1hxYnVpaUtlZ2loYnVTdFlPbm14RVJQMnQ2QUZYSHl3eDdYSXA3cWdDZ1I0SE1KanNwLXlScTE2UnJoajJjd2Zrdlhqcm1GWGJ6YjJXTmQwZnJWdnRSTjZDY1hGcjdR0gG7AUFVX3lxTFBWQldvdTJDQk9mNlNjNVBPbmV0OVRmSkJTSldfNjEyQnRjQnZYNjRSdzBmRVdGeWh2U3dfWDZKc1o5ZnhNSS1SUU1NQXJoVU1nUjl1VkdTOEpOd3VlcWZrUllGbjBwYWxaQ3lHRTRoak5hcjZlVlJzU2pvNy1CRmswdU82SEJMalowWkdtdjlyenNUcVZPNUM5bS1ibXM2QkdCSkVxdDJ2Z3RBWGVxSEViTHBNaGRCeWF2ZWs?oc=5",
+        "snippet": "俄罗斯导弹和无人机袭击基辅地区，造成至少16人死亡 美国之音"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "cb432ae56776a1f5",
+    "title": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
+    "brand": "Insta360",
+    "category": "hardware",
+    "event_type": "行业趋势",
+    "summary": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
+    "details": [
+      "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
+    ],
+    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "threat_level": "medium",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-20",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": true,
+    "title_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
+    "title_original": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
+    "details_zh": [
+      "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
+    ],
+    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "push",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
+        "snippet": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "7b932d6f540fb2e7",
+    "title": "亚马逊无人机翻车视频频发，配送服务还能放心用吗？ - 手机新浪网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "亚马逊无人机翻车视频频发，配送服务还能放心用吗？ 手机新浪网",
+    "details": [
+      "亚马逊无人机翻车视频频发，配送服务还能放心用吗？ 手机新浪网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-20",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yZUZkVldvQ0dDWTZNM1dPby1NOV9na1psUl96U1VaNl9TRW9Hd2hFZGdIeWVJWjF0Y19STGdLNGl4VHdVdmFDdkJEbVppWXQ1aEpheVFEYXRMLW5EdDlPb2Y3OV9jZGp6clhJaDhoS05aQVNaYklvdWx6S2ZYOU0?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "亚马逊无人机翻车视频频发，配送服务还能放心用吗？ - 手机新浪网",
+    "title_original": "亚马逊无人机翻车视频频发，配送服务还能放心用吗？ - 手机新浪网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "亚马逊无人机翻车视频频发，配送服务还能放心用吗？ 手机新浪网",
+    "details_zh": [
+      "亚马逊无人机翻车视频频发，配送服务还能放心用吗？ 手机新浪网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yZUZkVldvQ0dDWTZNM1dPby1NOV9na1psUl96U1VaNl9TRW9Hd2hFZGdIeWVJWjF0Y19STGdLNGl4VHdVdmFDdkJEbVppWXQ1aEpheVFEYXRMLW5EdDlPb2Y3OV9jZGp6clhJaDhoS05aQVNaYklvdWx6S2ZYOU0?oc=5",
+        "snippet": "亚马逊无人机翻车视频频发，配送服务还能放心用吗？ 手机新浪网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "5664725c2a1305ac",
+    "title": "深读｜大树戴“智能手表”、无人机侦察……“七下八上”，防汛一线“科技换防” - 搜狐网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "深读｜大树戴“智能手表”、无人机侦察……“七下八上”，防汛一线“科技换防” 搜狐网",
+    "details": [
+      "深读｜大树戴“智能手表”、无人机侦察……“七下八上”，防汛一线“科技换防” 搜狐网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-21",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3WTFObnlkazh3MWFnSXlaQmtzSUV0d3F4R3FxRTBDYXZTOUljNUlvNUdZWDVhM0lMTXk4NUhLYXRSM2doQkVaU29aRE5wR0ZLUXc?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "深读｜大树戴“智能手表”、无人机侦察……“七下八上”，防汛一线“科技换防” - 搜狐网",
+    "title_original": "深读｜大树戴“智能手表”、无人机侦察……“七下八上”，防汛一线“科技换防” - 搜狐网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "深读｜大树戴“智能手表”、无人机侦察……“七下八上”，防汛一线“科技换防” 搜狐网",
+    "details_zh": [
+      "深读｜大树戴“智能手表”、无人机侦察……“七下八上”，防汛一线“科技换防” 搜狐网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3WTFObnlkazh3MWFnSXlaQmtzSUV0d3F4R3FxRTBDYXZTOUljNUlvNUdZWDVhM0lMTXk4NUhLYXRSM2doQkVaU29aRE5wR0ZLUXc?oc=5",
+        "snippet": "深读｜大树戴“智能手表”、无人机侦察……“七下八上”，防汛一线“科技换防” 搜狐网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "2226e3cbbf8a89c9",
+    "title": "临县公安局查处一起无人机违规超高飞行案件 - 搜狐网",
+    "brand": "Other",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "临县公安局查处一起无人机违规超高飞行案件 搜狐网",
+    "details": [
+      "临县公安局查处一起无人机违规超高飞行案件 搜狐网"
+    ],
+    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-21",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDhuNnpSdWw2NXVNWmtyeTZBWU1ydDRXN21NMm5PNkpFdE1CS2FZLW96b0M1R3RmVHFXel94ZjF4M3NUU3BmWTdDX2tKVENQTFdCTlNHank5MDlONTVBY0hELVhtaUlRTGxlNzNYNUtXZExmZmd3LU9NT1I4dWFGMER2aTlXRnBJ?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "临县公安局查处一起无人机违规超高飞行案件 - 搜狐网",
+    "title_original": "临县公安局查处一起无人机违规超高飞行案件 - 搜狐网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "临县公安局查处一起无人机违规超高飞行案件 搜狐网",
+    "details_zh": [
+      "临县公安局查处一起无人机违规超高飞行案件 搜狐网"
+    ],
+    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+    "importance_score": 4,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDhuNnpSdWw2NXVNWmtyeTZBWU1ydDRXN21NMm5PNkpFdE1CS2FZLW96b0M1R3RmVHFXel94ZjF4M3NUU3BmWTdDX2tKVENQTFdCTlNHank5MDlONTVBY0hELVhtaUlRTGxlNzNYNUtXZExmZmd3LU9NT1I4dWFGMER2aTlXRnBJ?oc=5",
+        "snippet": "临县公安局查处一起无人机违规超高飞行案件 搜狐网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "6dab3b4a1ce7b537",
+    "title": "影石Insta360 Luna Ultra的双摄长焦功能有哪些优势？ - finance.sina.com.cn",
+    "brand": "Insta360",
+    "category": "industry",
+    "event_type": "行业趋势",
+    "summary": "影石Insta360 Luna Ultra的双摄长焦功能有哪些优势？ finance.sina.com.cn",
+    "details": [
+      "影石Insta360 Luna Ultra的双摄长焦功能有哪些优势？ finance",
+      "sina",
+      "com"
+    ],
+    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "threat_level": "low",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-20",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6YkFheVMtZkhVQm1xNFJTRVZVT1VnMW5ISlEzREduRDF1YzRRMktHZ1NwU012a3o0am9qTXlVQTlFRWozVUpZUTJEUFBjSmRkOE52dkFJWmZuTnNsa2F5bFBDalN1SmprQjE0UGRQMDRqNUxjNzJHZnBrSk5qdw?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": false,
+    "title_zh": "影石Insta360 Luna Ultra的双摄长焦功能有哪些优势？ - finance.sina.com.cn",
+    "title_original": "影石Insta360 Luna Ultra的双摄长焦功能有哪些优势？ - finance.sina.com.cn",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "影石Insta360 Luna Ultra的双摄长焦功能有哪些优势？ finance.sina.com.cn",
+    "details_zh": [
+      "影石Insta360 Luna Ultra的双摄长焦功能有哪些优势？ finance",
+      "sina",
+      "com"
+    ],
+    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "dashboard_only",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6YkFheVMtZkhVQm1xNFJTRVZVT1VnMW5ISlEzREduRDF1YzRRMktHZ1NwU012a3o0am9qTXlVQTlFRWozVUpZUTJEUFBjSmRkOE52dkFJWmZuTnNsa2F5bFBDalN1SmprQjE0UGRQMDRqNUxjNzJHZnBrSk5qdw?oc=5",
+        "snippet": "影石Insta360 Luna Ultra的双摄长焦功能有哪些优势？ finance.sina.com.cn"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "84b832c7855ccd54",
+    "title": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
+    "brand": "Insta360",
+    "category": "hardware",
+    "event_type": "新品发布",
+    "summary": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
+    "details": [
+      "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
+    ],
+    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "threat_level": "medium",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-20",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": true,
+    "title_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
+    "title_original": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
+    "details_zh": [
+      "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
+    ],
+    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "push",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
+        "snippet": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
@@ -561,626 +1201,37 @@
     ],
     "source_weight": 4,
     "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "af47685f7fb43e19",
-    "title": "国产消费级运动相机首次往返太空，完成火箭回收全流程记录 - 奥一网",
-    "brand": "Other",
-    "category": "hardware",
-    "event_type": "行业趋势",
-    "summary": "国产消费级运动相机首次往返太空，完成火箭回收全流程记录 奥一网",
-    "details": [
-      "国产消费级运动相机首次往返太空，完成火箭回收全流程记录 奥一网"
-    ],
-    "insight": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrS1Z0cDR2RGNOb2RRTzdxUWtwS2Z3NDNhYXRGOE5MN3Y4SE54eHE2RzNjWXhzOTdhVzBiU1ZtQ1RZWG45MGQ0YkJJZkx0RkNydlJOd3RnUURpdGdqcVdTLTRCRk4wQQ?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "国产消费级运动相机首次往返太空，完成火箭回收全流程记录 - 奥一网",
-    "title_original": "国产消费级运动相机首次往返太空，完成火箭回收全流程记录 - 奥一网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "国产消费级运动相机首次往返太空，完成火箭回收全流程记录 奥一网",
-    "details_zh": [
-      "国产消费级运动相机首次往返太空，完成火箭回收全流程记录 奥一网"
-    ],
-    "insight_zh": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrS1Z0cDR2RGNOb2RRTzdxUWtwS2Z3NDNhYXRGOE5MN3Y4SE54eHE2RzNjWXhzOTdhVzBiU1ZtQ1RZWG45MGQ0YkJJZkx0RkNydlJOd3RnUURpdGdqcVdTLTRCRk4wQQ?oc=5",
-        "snippet": "国产消费级运动相机首次往返太空，完成火箭回收全流程记录 奥一网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "4df81c78bcfa116a",
-    "title": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
-    "brand": "Insta360",
-    "category": "hardware",
-    "event_type": "行业趋势",
-    "summary": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
-    "details": [
-      "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
-    ],
-    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-    "threat_level": "medium",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
-    "title_original": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ - 新浪网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网",
-    "details_zh": [
-      "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
-    ],
-    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERlFnZXI3N3FNelBhUUFwMXVRU21yYWJyS1R4SU55YnI2X016OVUwcGNDLUkzQjF0M1BNNDBtcHZaNk43WTc0TkpQWDlncHRMY1hLbThmR3laWndYMEE3NVYyZDNRcEVlNVI2QlZjdVM3cUlPY3BzVUNGX1ZuN00?oc=5",
-        "snippet": "影石Insta360全景相机的AI一键自动剪辑功能具体是如何操作的？ 新浪网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T03:25:16.737450+00:00",
     "is_new": false
   },
   {
-    "id": "0351abbd5079992e",
-    "title": "美方决定对无人机及零部件征收232关税，中方：敦促美方立即撤销 - 新浪网",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "美方决定对无人机及零部件征收232关税，中方：敦促美方立即撤销 新浪网",
-    "details": [
-      "美方决定对无人机及零部件征收232关税，中方：敦促美方立即撤销 新浪网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVFwVFNZVklDSGhhUjIyQmx0a2h5RGg1WERyRkgwV0V3Tzl2V193NThRY1JhU0FGc05EUU5McUYyeFhGVERDNElmSjFLTXVFWXo1eVdrQWFEOEpJV2pQV2t2YTVhODVwNmRZNEhOeElXdzhIb0hKQkFURW11aUlFdHVnMXVIUUpNUUcwaWEwQUxmaVJIS0VzXw?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "美方决定对无人机及零部件征收232关税，中方：敦促美方立即撤销 - 新浪网",
-    "title_original": "美方决定对无人机及零部件征收232关税，中方：敦促美方立即撤销 - 新浪网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "美方决定对无人机及零部件征收232关税，中方：敦促美方立即撤销 新浪网",
-    "details_zh": [
-      "美方决定对无人机及零部件征收232关税，中方：敦促美方立即撤销 新浪网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVFwVFNZVklDSGhhUjIyQmx0a2h5RGg1WERyRkgwV0V3Tzl2V193NThRY1JhU0FGc05EUU5McUYyeFhGVERDNElmSjFLTXVFWXo1eVdrQWFEOEpJV2pQV2t2YTVhODVwNmRZNEhOeElXdzhIb0hKQkFURW11aUlFdHVnMXVIUUpNUUcwaWEwQUxmaVJIS0VzXw?oc=5",
-        "snippet": "美方决定对无人机及零部件征收232关税，中方：敦促美方立即撤销 新浪网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "0916c2258956d903",
-    "title": "国际｜无人机袭击炸出巨响！乌一警察局大楼遭袭已致2死40伤 - 新京报",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "国际｜无人机袭击炸出巨响！乌一警察局大楼遭袭已致2死40伤 新京报",
-    "details": [
-      "国际｜无人机袭击炸出巨响！乌一警察局大楼遭袭已致2死40伤 新京报"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVG5DOTV1MnEtTV9zWlJhbFI2SG1mbWVFNG5XdUhMN3pQeXQtM1Z1dWE3U3pXNnRydEJEY3o5VGtnQ0Yxak9yRkJSMGpLTmF4SDIzUF9idTItb0lyWTBZX1k1VGE?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "国际｜无人机袭击炸出巨响！乌一警察局大楼遭袭已致2死40伤 - 新京报",
-    "title_original": "国际｜无人机袭击炸出巨响！乌一警察局大楼遭袭已致2死40伤 - 新京报",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "国际｜无人机袭击炸出巨响！乌一警察局大楼遭袭已致2死40伤 新京报",
-    "details_zh": [
-      "国际｜无人机袭击炸出巨响！乌一警察局大楼遭袭已致2死40伤 新京报"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVG5DOTV1MnEtTV9zWlJhbFI2SG1mbWVFNG5XdUhMN3pQeXQtM1Z1dWE3U3pXNnRydEJEY3o5VGtnQ0Yxak9yRkJSMGpLTmF4SDIzUF9idTItb0lyWTBZX1k1VGE?oc=5",
-        "snippet": "国际｜无人机袭击炸出巨响！乌一警察局大楼遭袭已致2死40伤 新京报"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "3f014a4f2899bc85",
-    "title": "中国“截击无人机”首次曝光，用蜂群战术应对蜂群无人机 - 凤凰网",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "中国“截击无人机”首次曝光，用蜂群战术应对蜂群无人机 凤凰网",
-    "details": [
-      "中国“截击无人机”首次曝光，用蜂群战术应对蜂群无人机 凤凰网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-19",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nMmxsVlkxZ3NRMG5nTkNpbnB0dUdUMWxjd212X0V3UlEyY1lzdXR5OVJKQlA0WDE1a3hCZmg4bmVmeV9BOWpHMmlRVQ?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "中国“截击无人机”首次曝光，用蜂群战术应对蜂群无人机 - 凤凰网",
-    "title_original": "中国“截击无人机”首次曝光，用蜂群战术应对蜂群无人机 - 凤凰网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "中国“截击无人机”首次曝光，用蜂群战术应对蜂群无人机 凤凰网",
-    "details_zh": [
-      "中国“截击无人机”首次曝光，用蜂群战术应对蜂群无人机 凤凰网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nMmxsVlkxZ3NRMG5nTkNpbnB0dUdUMWxjd212X0V3UlEyY1lzdXR5OVJKQlA0WDE1a3hCZmg4bmVmeV9BOWpHMmlRVQ?oc=5",
-        "snippet": "中国“截击无人机”首次曝光，用蜂群战术应对蜂群无人机 凤凰网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T03:25:16.737450+00:00",
-    "is_new": false
-  },
-  {
-    "id": "365e02ee7c51ad47",
-    "title": "美国将对无人机进口征收关税 商务部回应 - 集微网",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "美国将对无人机进口征收关税 商务部回应 集微网",
-    "details": [
-      "美国将对无人机进口征收关税 商务部回应 集微网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE00akE1UDZSck4za1E5eHl5QlczOHJOZkdfNFdlOWlhWmFyYkN5ZmJJUHRUcnRMRWNGVVBHbmppYk1lNGM?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "美国将对无人机进口征收关税 商务部回应 - 集微网",
-    "title_original": "美国将对无人机进口征收关税 商务部回应 - 集微网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "美国将对无人机进口征收关税 商务部回应 集微网",
-    "details_zh": [
-      "美国将对无人机进口征收关税 商务部回应 集微网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE00akE1UDZSck4za1E5eHl5QlczOHJOZkdfNFdlOWlhWmFyYkN5ZmJJUHRUcnRMRWNGVVBHbmppYk1lNGM?oc=5",
-        "snippet": "美国将对无人机进口征收关税 商务部回应 集微网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "930e2cc1246c8896",
-    "title": "吉安市林业局开展无人机技术培训 - 大江网",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "吉安市林业局开展无人机技术培训 大江网",
-    "details": [
-      "吉安市林业局开展无人机技术培训 大江网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ScUVFSVJudW12UnlwNEtSQWJtckgtT1VEMWV6eGhianZvYlRFX0cxOFNMdXd3VHVPTGZuMV9pelYtdjVjT21BdUQwVnVtZHRnLWNiTVlQM3JFNng1akloS2dqTHZfa0R0RjlLZA?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "吉安市林业局开展无人机技术培训 - 大江网",
-    "title_original": "吉安市林业局开展无人机技术培训 - 大江网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "吉安市林业局开展无人机技术培训 大江网",
-    "details_zh": [
-      "吉安市林业局开展无人机技术培训 大江网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ScUVFSVJudW12UnlwNEtSQWJtckgtT1VEMWV6eGhianZvYlRFX0cxOFNMdXd3VHVPTGZuMV9pelYtdjVjT21BdUQwVnVtZHRnLWNiTVlQM3JFNng1akloS2dqTHZfa0R0RjlLZA?oc=5",
-        "snippet": "吉安市林业局开展无人机技术培训 大江网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "b1b03e93f0650fcf",
-    "title": "西藏昌都无人机光影秀点亮三江茶马文化艺术节 - chinanews.com.cn",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "西藏昌都无人机光影秀点亮三江茶马文化艺术节 chinanews.com.cn",
-    "details": [
-      "西藏昌都无人机光影秀点亮三江茶马文化艺术节 chinanews",
-      "com",
-      "cn"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EY3ZYRFdUNW5PdjhuOFBPaFg5c0tGYWx6YWs3aUFoTXhVUTQ5aXp2cjlONEJoU09kUWZwRGdIWC1wT2lQMEV6RXJZMFE2SjBPRHRuQnMxd2JyZTFxRlNmNURxU0FXS3lF?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "西藏昌都无人机光影秀点亮三江茶马文化艺术节 - chinanews.com.cn",
-    "title_original": "西藏昌都无人机光影秀点亮三江茶马文化艺术节 - chinanews.com.cn",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "西藏昌都无人机光影秀点亮三江茶马文化艺术节 chinanews.com.cn",
-    "details_zh": [
-      "西藏昌都无人机光影秀点亮三江茶马文化艺术节 chinanews",
-      "com",
-      "cn"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EY3ZYRFdUNW5PdjhuOFBPaFg5c0tGYWx6YWs3aUFoTXhVUTQ5aXp2cjlONEJoU09kUWZwRGdIWC1wT2lQMEV6RXJZMFE2SjBPRHRuQnMxd2JyZTFxRlNmNURxU0FXS3lF?oc=5",
-        "snippet": "西藏昌都无人机光影秀点亮三江茶马文化艺术节 chinanews.com.cn"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "cdff83e8d74ea445",
-    "title": "春晚机器人来了！奥运无人机来了！8月28日环球港，普陀创业集市酷炫开场_上观新闻 - 上观新闻",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "春晚机器人来了！奥运无人机来了！8月28日环球港，普陀创业集市酷炫开场_上观新闻 上观新闻",
-    "details": [
-      "春晚机器人来了！奥运无人机来了！8月28日环球港，普陀创业集市酷炫开场_上观新闻 上观新闻"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40OTB3ZE11YzFac01TaktqNWh5XzdOdzhzaHNfNFg3cGlTMnZjSjZ0MzFTbEcyZ21iWS1za296b3BCRi1BWjNYZjlNbHFYTUt3THhJOEpaSS0?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "春晚机器人来了！奥运无人机来了！8月28日环球港，普陀创业集市酷炫开场_上观新闻 - 上观新闻",
-    "title_original": "春晚机器人来了！奥运无人机来了！8月28日环球港，普陀创业集市酷炫开场_上观新闻 - 上观新闻",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "春晚机器人来了！奥运无人机来了！8月28日环球港，普陀创业集市酷炫开场_上观新闻 上观新闻",
-    "details_zh": [
-      "春晚机器人来了！奥运无人机来了！8月28日环球港，普陀创业集市酷炫开场_上观新闻 上观新闻"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40OTB3ZE11YzFac01TaktqNWh5XzdOdzhzaHNfNFg3cGlTMnZjSjZ0MzFTbEcyZ21iWS1za296b3BCRi1BWjNYZjlNbHFYTUt3THhJOEpaSS0?oc=5",
-        "snippet": "春晚机器人来了！奥运无人机来了！8月28日环球港，普陀创业集市酷炫开场_上观新闻 上观新闻"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "5da1778c5198a344",
-    "title": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
-    "brand": "Insta360",
-    "category": "hardware",
-    "event_type": "行业趋势",
-    "summary": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
-    "details": [
-      "影石X6全景相机售价多少？值得入手吗？ 新浪网"
-    ],
-    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-    "threat_level": "medium",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
-    "title_original": "影石X6全景相机售价多少？值得入手吗？ - 新浪网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "影石X6全景相机售价多少？值得入手吗？ 新浪网",
-    "details_zh": [
-      "影石X6全景相机售价多少？值得入手吗？ 新浪网"
-    ],
-    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmpGamVpaWhWTU5KeFhoTjBodC1JQkhlZDVicDZBMG1zWGNKNzUwc1Y4anhhcmt2VmoxMzluWm9pcUNIeUowbHB6NTA0dHB2ODdCZkZlZEZiZ25aU0lrcDJ5MzJHa21TdGpOcUNuVmRaV01OYnNVVkM4VkM2ZWJ2WQ?oc=5",
-        "snippet": "影石X6全景相机售价多少？值得入手吗？ 新浪网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "0d1aef1642040155",
-    "title": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
-    "brand": "DJI",
-    "category": "hardware",
-    "event_type": "行业趋势",
-    "summary": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
-    "details": [
-      "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
-    ],
-    "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "medium",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": true,
-    "title_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
-    "title_original": "Birtv2026：大疆展出Pocket 4P在内的多款新品 - 新浪财经",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经",
-    "details_zh": [
-      "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
-    ],
-    "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "push",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVWJETGpZMWdNVEdTOHNxdUpZN0pWZWxlMWpQajhsRjdXZGpiYm1OaWJXMEV1NGZiLUJUVGs4Y3lycFFleXFmTTBoU3p0bklWVklWWFpaYzZzZ2gtdW9ZdXRQaGZkRGNHNmVUazljMmdsWHdLRGV3UA?oc=5",
-        "snippet": "Birtv2026：大疆展出Pocket 4P在内的多款新品 新浪财经"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "c607a3da44968c4c",
-    "title": "国产消费级运动相机首次直接往返太空，完成火箭回收全流程记录 - 新浪财经",
-    "brand": "Other",
-    "category": "hardware",
-    "event_type": "行业趋势",
-    "summary": "国产消费级运动相机首次直接往返太空，完成火箭回收全流程记录 新浪财经",
-    "details": [
-      "国产消费级运动相机首次直接往返太空，完成火箭回收全流程记录 新浪财经"
-    ],
-    "insight": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTWEwVnZLdTR4cnR0ajFIc1NpbWYyUWxLclByZng3ZER1WjcwSUlGLTBjQURRZ0Z2dGxWZXlUcUxGdW92V1JrMTY3RkVHYjZudXRCMmg1V2ZseTN3ZUxQb1hrNzFNQk9lS04xNkJZYWdhZGZ1THdudmdDX2NqN1U?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "国产消费级运动相机首次直接往返太空，完成火箭回收全流程记录 - 新浪财经",
-    "title_original": "国产消费级运动相机首次直接往返太空，完成火箭回收全流程记录 - 新浪财经",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "国产消费级运动相机首次直接往返太空，完成火箭回收全流程记录 新浪财经",
-    "details_zh": [
-      "国产消费级运动相机首次直接往返太空，完成火箭回收全流程记录 新浪财经"
-    ],
-    "insight_zh": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTWEwVnZLdTR4cnR0ajFIc1NpbWYyUWxLclByZng3ZER1WjcwSUlGLTBjQURRZ0Z2dGxWZXlUcUxGdW92V1JrMTY3RkVHYjZudXRCMmg1V2ZseTN3ZUxQb1hrNzFNQk9lS04xNkJZYWdhZGZ1THdudmdDX2NqN1U?oc=5",
-        "snippet": "国产消费级运动相机首次直接往返太空，完成火箭回收全流程记录 新浪财经"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
-    "is_new": true
-  },
-  {
-    "id": "8b49dffd64c35b80",
-    "title": "美司令罕见认栽，本土基地无力防无人机蜂群，五角大楼21亿急补漏 - 凤凰网",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "美司令罕见认栽，本土基地无力防无人机蜂群，五角大楼21亿急补漏 凤凰网",
-    "details": [
-      "美司令罕见认栽，本土基地无力防无人机蜂群，五角大楼21亿急补漏 凤凰网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tYURUdTVKeVBsNmFtWjhKNWpiSTBkQ2YzRE00M2F4MEtPVjZRM1k3elpDeTNjaDVDa0JxVlhCSVhqVU5BajV5TXcwWQ?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "美司令罕见认栽，本土基地无力防无人机蜂群，五角大楼21亿急补漏 - 凤凰网",
-    "title_original": "美司令罕见认栽，本土基地无力防无人机蜂群，五角大楼21亿急补漏 - 凤凰网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "美司令罕见认栽，本土基地无力防无人机蜂群，五角大楼21亿急补漏 凤凰网",
-    "details_zh": [
-      "美司令罕见认栽，本土基地无力防无人机蜂群，五角大楼21亿急补漏 凤凰网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tYURUdTVKeVBsNmFtWjhKNWpiSTBkQ2YzRE00M2F4MEtPVjZRM1k3elpDeTNjaDVDa0JxVlhCSVhqVU5BajV5TXcwWQ?oc=5",
-        "snippet": "美司令罕见认栽，本土基地无力防无人机蜂群，五角大楼21亿急补漏 凤凰网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T03:25:16.737450+00:00",
-    "is_new": false
-  },
-  {
-    "id": "97115f8c74124019",
-    "title": "大疆错失37亿！宇树科技今日科创板申购 - 新浪网",
+    "id": "a0b8f6e53eacb20e",
+    "title": "“大疆教父”李泽湘，又将获得一个IPO - 手机新浪网",
     "brand": "DJI",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "大疆错失37亿！宇树科技今日科创板申购 新浪网",
+    "summary": "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网",
     "details": [
-      "大疆错失37亿！宇树科技今日科创板申购 新浪网"
+      "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-08-20",
+    "published_at": "2026-08-21",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uVk1QQkplTFlOS09sTHFucUh4WkpOSDNVV1ZLYmdRSmd5elM2RGEtV2hMT1VMNEhyWW1saEp5cnUxTV8tZC12cjBhdHVqaURRSlBtaC1rVkQzYnFrSXVIdlExbUFkVkgyRENLa3pPWnlXQQ?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY19XVDF2RHZNYTBhWmxrZkhiUUdFN3l4aXQxQkUwVlRUYXZOMHlKa1BtSjJNaGsxV3J6M05tV0U2QlhnLUVzRFZJRzBHOU4yNnhvS2kzQU1Wb2VpNTJBd09sRFZ4TVlwR0ZLemRVbGl1SmVlQi1Za1JMcTZpb0otVEtfY0VIdGd1SUltYmlZM0ZULVFy?oc=5",
     "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "大疆错失37亿！宇树科技今日科创板申购 - 新浪网",
-    "title_original": "大疆错失37亿！宇树科技今日科创板申购 - 新浪网",
+    "title_zh": "“大疆教父”李泽湘，又将获得一个IPO - 手机新浪网",
+    "title_original": "“大疆教父”李泽湘，又将获得一个IPO - 手机新浪网",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "大疆错失37亿！宇树科技今日科创板申购 新浪网",
+    "summary_zh": "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网",
     "details_zh": [
-      "大疆错失37亿！宇树科技今日科创板申购 新浪网"
+      "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 5,
@@ -1189,23 +1240,23 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uVk1QQkplTFlOS09sTHFucUh4WkpOSDNVV1ZLYmdRSmd5elM2RGEtV2hMT1VMNEhyWW1saEp5cnUxTV8tZC12cjBhdHVqaURRSlBtaC1rVkQzYnFrSXVIdlExbUFkVkgyRENLa3pPWnlXQQ?oc=5",
-        "snippet": "大疆错失37亿！宇树科技今日科创板申购 新浪网"
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY19XVDF2RHZNYTBhWmxrZkhiUUdFN3l4aXQxQkUwVlRUYXZOMHlKa1BtSjJNaGsxV3J6M05tV0U2QlhnLUVzRFZJRzBHOU4yNnhvS2kzQU1Wb2VpNTJBd09sRFZ4TVlwR0ZLemRVbGl1SmVlQi1Za1JMcTZpb0otVEtfY0VIdGd1SUltYmlZM0ZULVFy?oc=5",
+        "snippet": "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
-    "id": "1a49c8d4d99cd516",
-    "title": "长江航道启用无人机巡检，锻造水上守护新力量​ - 见道网",
+    "id": "3f8107a3c14711d4",
+    "title": "【深圳特区报】智能体“调度” 无人机“送餐” 机器人“指路” 一大批前沿科技应用场景落地城市公共空间 - 搜狐网",
     "brand": "Other",
     "category": "industry",
     "event_type": "行业趋势",
-    "summary": "长江航道启用无人机巡检，锻造水上守护新力量​ 见道网",
+    "summary": "【深圳特区报】智能体“调度” 无人机“送餐” 机器人“指路” 一大批前沿科技应用场景落地城市公共空间 搜狐网",
     "details": [
-      "长江航道启用无人机巡检，锻造水上守护新力量​ 见道网"
+      "【深圳特区报】智能体“调度” 无人机“送餐” 机器人“指路” 一大批前沿科技应用场景落地城市公共空间 搜狐网"
     ],
     "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "threat_level": "low",
@@ -1213,19 +1264,19 @@
     "confidence": "media",
     "published_at": "2026-08-20",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94ZkotdWZqeVUySWQ5MVhTRkdXZE1lNkc5TnVmcXkzeExBZzZVcDhKYTBpclduY1ZjcWNvWVh3NmJVOU00TzdobVFfaFI2WTBXSHFITA?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2SjVsZmNuSUpxc3ZRXzNKY2llU0JDVGwzZ21EX25QZTQwaTRWazVhTTFROW9Sa2gtWHFJdjdsV3ROQTNnNE5yQ1A4RHcxM2t0cldoQjNB?oc=5",
     "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": false,
-    "title_zh": "长江航道启用无人机巡检，锻造水上守护新力量​ - 见道网",
-    "title_original": "长江航道启用无人机巡检，锻造水上守护新力量​ - 见道网",
+    "title_zh": "【深圳特区报】智能体“调度” 无人机“送餐” 机器人“指路” 一大批前沿科技应用场景落地城市公共空间 - 搜狐网",
+    "title_original": "【深圳特区报】智能体“调度” 无人机“送餐” 机器人“指路” 一大批前沿科技应用场景落地城市公共空间 - 搜狐网",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "长江航道启用无人机巡检，锻造水上守护新力量​ 见道网",
+    "summary_zh": "【深圳特区报】智能体“调度” 无人机“送餐” 机器人“指路” 一大批前沿科技应用场景落地城市公共空间 搜狐网",
     "details_zh": [
-      "长江航道启用无人机巡检，锻造水上守护新力量​ 见道网"
+      "【深圳特区报】智能体“调度” 无人机“送餐” 机器人“指路” 一大批前沿科技应用场景落地城市公共空间 搜狐网"
     ],
     "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
     "importance_score": 4,
@@ -1234,133 +1285,43 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94ZkotdWZqeVUySWQ5MVhTRkdXZE1lNkc5TnVmcXkzeExBZzZVcDhKYTBpclduY1ZjcWNvWVh3NmJVOU00TzdobVFfaFI2WTBXSHFITA?oc=5",
-        "snippet": "长江航道启用无人机巡检，锻造水上守护新力量​ 见道网"
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2SjVsZmNuSUpxc3ZRXzNKY2llU0JDVGwzZ21EX25QZTQwaTRWazVhTTFROW9Sa2gtWHFJdjdsV3ROQTNnNE5yQ1A4RHcxM2t0cldoQjNB?oc=5",
+        "snippet": "【深圳特区报】智能体“调度” 无人机“送餐” 机器人“指路” 一大批前沿科技应用场景落地城市公共空间 搜狐网"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T03:25:16.737450+00:00",
-    "is_new": false
-  },
-  {
-    "id": "6394d9bdc8449df5",
-    "title": "前字节公关总监杨继斌已加盟大疆 - 凤凰网科技",
-    "brand": "DJI",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "前字节公关总监杨继斌已加盟大疆 凤凰网科技",
-    "details": [
-      "前字节公关总监杨继斌已加盟大疆 凤凰网科技"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14akpvOWJXaXBZeTJPUVd3ekx3SVZEN0U4b1JIRURsTFo5U3pPSkRsbFhUaFU5ajNaNUdVMnVPb3BUNGZSTjZMTGFleHc?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "前字节公关总监杨继斌已加盟大疆 - 凤凰网科技",
-    "title_original": "前字节公关总监杨继斌已加盟大疆 - 凤凰网科技",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "前字节公关总监杨继斌已加盟大疆 凤凰网科技",
-    "details_zh": [
-      "前字节公关总监杨继斌已加盟大疆 凤凰网科技"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 5,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14akpvOWJXaXBZeTJPUVd3ekx3SVZEN0U4b1JIRURsTFo5U3pPSkRsbFhUaFU5ajNaNUdVMnVPb3BUNGZSTjZMTGFleHc?oc=5",
-        "snippet": "前字节公关总监杨继斌已加盟大疆 凤凰网科技"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T10:59:34.612377+00:00",
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
     "is_new": true
   },
   {
-    "id": "ba4d15c885af3b85",
-    "title": "俄军使用新型声控无人机，伏击乌军 - 凤凰网",
-    "brand": "Other",
-    "category": "industry",
-    "event_type": "行业趋势",
-    "summary": "俄军使用新型声控无人机，伏击乌军 凤凰网",
-    "details": [
-      "俄军使用新型声控无人机，伏击乌军 凤凰网"
-    ],
-    "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "threat_level": "low",
-    "heat_score": 3,
-    "confidence": "media",
-    "published_at": "2026-08-20",
-    "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QODFnLXY4WWw2NFdwSTRwWHozUnZJNVExYkZ2YzZMdkJsZ2RSNm5zRlMwT09WRk9yNW53Q05IQ0g0MG1hdFpTUlM1MEI?oc=5",
-    "week_tag": "2026-W34",
-    "source_id": "dji-cn-news",
-    "ai_confidence": 0.0,
-    "pushed": false,
-    "title_zh": "俄军使用新型声控无人机，伏击乌军 - 凤凰网",
-    "title_original": "俄军使用新型声控无人机，伏击乌军 - 凤凰网",
-    "language": "zh",
-    "region": "domestic",
-    "source_market": "CN",
-    "summary_zh": "俄军使用新型声控无人机，伏击乌军 凤凰网",
-    "details_zh": [
-      "俄军使用新型声控无人机，伏击乌军 凤凰网"
-    ],
-    "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-    "importance_score": 4,
-    "confidence_score": 0.75,
-    "push_decision": "dashboard_only",
-    "evidence": [
-      {
-        "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QODFnLXY4WWw2NFdwSTRwWHozUnZJNVExYkZ2YzZMdkJsZ2RSNm5zRlMwT09WRk9yNW53Q05IQ0g0MG1hdFpTUlM1MEI?oc=5",
-        "snippet": "俄军使用新型声控无人机，伏击乌军 凤凰网"
-      }
-    ],
-    "source_weight": 4,
-    "first_seen": "2026-08-20T03:25:16.737450+00:00",
-    "is_new": false
-  },
-  {
-    "id": "85faf7fdeac25fcc",
-    "title": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+    "id": "75b4272d871d53e9",
+    "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
     "brand": "Insta360",
     "category": "hardware",
     "event_type": "新品发布",
-    "summary": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+    "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
     "details": [
-      "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+      "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
     ],
     "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
     "threat_level": "medium",
     "heat_score": 3,
     "confidence": "media",
-    "published_at": "2026-08-19",
+    "published_at": "2026-08-20",
     "source_name": "大疆/影石 中文动态",
-    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
     "week_tag": "2026-W34",
     "source_id": "dji-cn-news",
     "ai_confidence": 0.0,
     "pushed": true,
-    "title_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
-    "title_original": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 - 驱动之家",
+    "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
+    "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
     "language": "zh",
     "region": "domestic",
     "source_market": "CN",
-    "summary_zh": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家",
+    "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
     "details_zh": [
-      "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+      "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
     ],
     "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
     "importance_score": 5,
@@ -1369,12 +1330,57 @@
     "evidence": [
       {
         "source_name": "大疆/影石 中文动态",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pamx5b3Y3eUVSSFJ6SkQ1cE5YQS1aa0lXanZsWURQZTl2dDN1SG93cEMzNEZsQnZHWnN2UnhKRHg3azlDSVVFcHpURkdSR1pGalduelpDRzM?oc=5",
-        "snippet": "中国全景相机火到海外！影石X6发布3天登顶亚马逊美国、德国、日本三站第一 驱动之家"
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
+        "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
       }
     ],
     "source_weight": 4,
-    "first_seen": "2026-08-20T03:25:16.737450+00:00",
-    "is_new": false
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
+  },
+  {
+    "id": "09dcc70d7029f860",
+    "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
+    "brand": "Insta360",
+    "category": "hardware",
+    "event_type": "新品发布",
+    "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
+    "details": [
+      "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
+    ],
+    "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "threat_level": "medium",
+    "heat_score": 3,
+    "confidence": "media",
+    "published_at": "2026-08-20",
+    "source_name": "大疆/影石 中文动态",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
+    "week_tag": "2026-W34",
+    "source_id": "dji-cn-news",
+    "ai_confidence": 0.0,
+    "pushed": true,
+    "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
+    "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
+    "language": "zh",
+    "region": "domestic",
+    "source_market": "CN",
+    "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
+    "details_zh": [
+      "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
+    ],
+    "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+    "importance_score": 5,
+    "confidence_score": 0.75,
+    "push_decision": "push",
+    "evidence": [
+      {
+        "source_name": "大疆/影石 中文动态",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
+        "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
+      }
+    ],
+    "source_weight": 4,
+    "first_seen": "2026-08-21T03:30:36.559490+00:00",
+    "is_new": true
   }
 ]

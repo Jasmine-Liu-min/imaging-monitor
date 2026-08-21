@@ -2320,7 +2320,7 @@
     "sspai|https://sspai.com/post/113638": {
       "event_id": "d2ad4b27ea90bf9b",
       "first_seen": "2026-08-20T03:25:16.737450+00:00",
-      "last_seen": "2026-08-20T10:59:34.612377+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
       "brand": "Other",
       "title_zh": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
       "fingerprint": {
@@ -3068,7 +3068,7 @@
     "dji-cn-news|https://news.google.com/rss/articles/cbmidefvx3lxte9ss0nycnbvc1c4uu9tngpublhorxrhvfnrttlnrjvraeoxn3fyynndyza1dhpvreo2bk9pue1cvddtv2xvbvdrcwtlbhqtsflwrjrcauk1bmvtnnbga2pzywdwntixefrabzjszwffdkfwa2tx?oc=5": {
       "event_id": "a4d80009d64c070d",
       "first_seen": "2026-08-20T10:59:34.612377+00:00",
-      "last_seen": "2026-08-20T10:59:34.612377+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
       "brand": "Other",
       "title_zh": "三伏天60只羊深夜走失 无人机申请“出战” - 新华网",
       "fingerprint": {
@@ -3350,6 +3350,622 @@
           "evidence_count": 1
         }
       ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/992/539.htm": {
+      "event_id": "0a7a68b620ff3102",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "荣耀平板 X10 Pro Max 上架预约：13 英寸屏、10100mAh 电池",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/992/479.htm": {
+      "event_id": "e308b47e0261fe66",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "火星南部高地新影像曝光，37 亿年前水流塑造地貌",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "ithome-imaging|https://www.ithome.com/0/992/461.htm": {
+      "event_id": "60ff7f935bafa48d",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "三星 Galaxy S26 FE 手机渲染图曝光，8 月 27 日发布",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "sspai|https://sspai.com/post/113666": {
+      "event_id": "0f6dc34e5bee025d",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Insta360",
+      "title_zh": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmidefvx3lxte1pmzjvckdvwlppdjl1luxdwkr3qxbhrw56r3mxnjfzykpwnghdmjlidl91ne5lvlruvevasgzvvuq3zmvzzzhuvudvswpinzqttnnnbzk4bxrbnfbhvy1rdgnpymd1cdryvwvocxnfd1c1dgjj?oc=5": {
+      "event_id": "66ca861fe70a0781",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "无人机变身森林火灾扑救“智慧参谋” 这场全国性无人机比测在渝举行 - 重庆市人民政府",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmihgfbvv95cuxornnsu2nxr0h2czvlzvljnvb1qmk5rwrtzzk2nexocw1pyle1dnjvejfqv0thajj6x3noyxnlq1dyafk2uk5dqv8zzv8trgturtb5ekwywthxsze3dvcwoerrnkhgedbzytb6v1nmqmnhx0llwunroxdpslrnm1hsv2o2ny16zw?oc=5": {
+      "event_id": "c6b2c30dd6cf188f",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "匈牙利国庆日的无人机烟花灯光秀 - 新华网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmi8afbvv95cuxndfr5ynftzklvq0vgwjjozerldwhaafitui1nbtrnzhkweeplzejfyzvrb29oz1pgqwvszhu1rgzksk14dvuwswttd0fux1bnuhg2q0lhythkdkzkmdcxwmczrhndnhm3v05za2jwwjvvuxv4qnbvovreetjkv0nrmhg1qjzkeudbzjzwejlxzghsdgtdz0dvytvnx0xpxzg4rvbgnm44dvrny21rrgllt3nbbtnmbe4yc3ozrg95mhvxotvmedbzektdx3i4d3juwlfjqlu1derxowrctm0zbtroyk1xowhltgdpqwzxttlsafabqvvfexfmtxruewjxu2zjb0nfrloyagres3vowmhslvitz200z2r5mhhks2rcx2m1a29vagdarkflbgr1nurmskpnehvvmelrbxdbvf9qtvb4nknjywe4snzgsja3mvpnm0rzqzrzn1dowwtivlo1b1f1eejwbzlurhkyzfddazb4nui2snlhqwy2cho5v2robhrrq2dhvwe1tv9mt184oevqrjzuohvuz2ntuurps09zqw0ztgxomnn6m0rvetb1vzk1zngwc3plq19yohdyvfprsujvnxrectlkqk5tm200agjnctlozuxnt0fmcu0y?oc=5": {
+      "event_id": "cb7d62db817609ad",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 - 美国之音",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiiafbvv95cuxovwvwt1prmnbyqmrkntvyeepzyutuoe9zsevjrhhathfrafdvd3nksvy5oupav0tttg1ibuzjwg9oy3cts2lqwephqmjsbdbirkr0a1njwg4zavrhawxlogrcbevqzu04uhdwaxp4sehrm0pemujtx0xgs21fuutlywg2cxdpv25t?oc=5": {
+      "event_id": "6419215e3c37a66c",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "DJI",
+      "title_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiaefvx3lxte5czfjztjbdx1vwrvrxry1iyvfbsgx5b09mm2hnrwt5zg84dl9euv9brwthy08tzmy1yvbfuhpqlthiy2x4mxrac0yxbdd0qlrybjzdskcwzhmzvmz6d0z0m09jrzh3qu9o?oc=5": {
+      "event_id": "26f6156bb2f3a632",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "胡塞武装称对沙特发动无人机袭击 - chinanews.com.cn",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmipwfbvv95cuxqc1dpuzgyqvhmbhzrb3lyslrgdfhqy2tpuwhvand3q3jznw4xymnqmgh5ykuxvjvhmhrzcm1dvxd5s0ddz0zndgj6b1yzzujbvet0ned3dljnvtrpd0xddzbeuhnxtkrmwxd4mk51u1uyujnrnnjnulpoml9jrutrbhzdcfbib3dnzknowugwm1fmb0ryowpvdjbiukjpanjqtzhsdkdorq?oc=5": {
+      "event_id": "f7f9d9c750beae6d",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "DJI",
+      "title_zh": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - finance.sina.com.cn",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmibefvx3lxte9ia2xxvtk2zdzhv2thegu1d1viag9bew1lrkt2z2u0blflrvzxekjlcvprsxm0qnqzmezrc3jza3nhvxjvzlfawllnm0tjb25qnxc1mxlkdfdusdhibvnlexlemjvyzfm0sxnycw?oc=5": {
+      "event_id": "3f1ac9ad665e9018",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "上海民航职院师生赴青海果洛开展无人机专项培训 - 中国民航网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiw0fvx3lxte5qltq1nul2ykz1u2ltbwxsofpfnefgswpir2q4tjgzcnvwmtqyotjxwk43t21yzk96t2dyskj5u2zwtvpwzg1etfi5s3ewn0rhm2o0tlzunjz2ewm?oc=5": {
+      "event_id": "5bde50017c0f5f7e",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "美国陆军的无人机军改，被废除了 - 风闻",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmi2afbvv95cuxox2jbtzn2m2w0dgxla0jcz1n5vu5qul9xszffrkd6z21oslbhmxfilvjgdxa0wxburnrwm2jownfxuuxhunl3yllkeejgaxj0bdfauexxwnj1og1ubvzfvgpueehsm3bgwxrymg82m3hclwpcynrsate2rjr3vxfty1nat0hislvgnhvfs0xzqw5qdmhybelbsc1hwtvrm28xmxnvrmpicmlxmkvjzgcwm0niwewzuknovu9myzlgnhbyovhjc3pmzmqwm25mb3r2v01tz2zwx0y?oc=5": {
+      "event_id": "74cb3f6b6a749db3",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "空军一号万米高空遭无人机突袭，特工紧急应对 - 手机新浪网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmitefvx3lxte43cnp1ahppvudvmmtdq0douwrbnkxpvjnqq3v2ruhxedk5celqzmd3vkdjcvvlwhrbmej4uzljujzcbudzujbxqkgwrhq?oc=5": {
+      "event_id": "6de361a6570b96b0",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "亚马逊无人机送货“翻车”：包裹空投进泳池，噪音大吓退买家 - 凤凰网科技",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiiafbvv95cuxnsdctbg5rulvivthmrfdfem41yzcxd0ltmzv6t0vcy0dem1blre1ultzndxprd2hvnv9bswrlbjnlwv9rogpuzuhybdbsevptmlzkdhjftdzqowzrzzdaqtzycffyz0nnbunlaf8wqmfycgvxy2fynjrizmvit1n1azi3ntbxd0d2?oc=5": {
+      "event_id": "1834b26f7494a7df",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "匈牙利国庆日的无人机烟花灯光秀 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmigwfbvv95cuxozgl2dhnlanj6dtdytfgyme5muxnpa3hinfrdd2jyu1rkeuptau1ms3pnbehvrtflnexpx3ewugzbdjnpm1zfme1xte9xanhzzxbwzuzdnljrvepvmxi3nzvltwzuynbamgk4ujhotl80ytzvrmthowrernkxmerztuphna?oc=5": {
+      "event_id": "2c2def332792dcaf",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "【昆仑守护天路】守护219：无人机驰援高原受困群众 - xj.chinanews.com.cn",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmi0afbvv95cuxprgo4mmxweu9jmfi4zuhvrktralrtlwnqsgvcnefrz1zhutiwwnrjbhjmd0wwrtl1dwg1qtnpevrvmdffrxhrawnxt1lta1zkqmrtb0resdr6alvfvljbywhjbflloxlrwhpxotnuvhutu3b5cmfjzmw2lxzym1lunvnkcm5eblp4tjf6nf9dxzzsbwtubevouedlzmlvyl9cdjnqdmjsn2dwdfnzutvndgztvko1wmdaqmhrnxhfcs1qvelhy3cwchlwa1pqvfdf0ghqaufvx3lxte9eajgybfz5t2mwujhlsg9gs1fqvfmty2pizui0qwtnvmfrmjbadgnsckx3tdbfoxv1advbm2l5vg8wmuvfegtpy1dpwvnrvmrczfnvrerinhpqvv9wukfhaelswus5evfyelc5m25uds1tchlyywnmbdytdlgzww41u2rybkruwnhomxo0x0nfnljta1rsrwhqr2vmavvix0j2m2p2yli3z1z0u3nrnu10zlnwsjvaz1pcafe1ef9xlvbusudjdzbwevzrwmpuv18?oc=5": {
+      "event_id": "f03d1ab942c2e135",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "实地报道：自主无人艇全球首次在多国演习中完成补给任务，美军展示最新3D打印与无人机技术 - 美国之音",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiuafbvv95cuxpqxrrtvfmumxymefdyxuxneywofq0mthpagpzceetvxrnq0psuvnfu0r2bjhpzza3x0fswtlhb1lubnpxb3p5rhvlafbfbw5rlwsxbnpottlut1hxynvpautlz2loynvtdflpbm14rvjqmnq2quzyshl3eddysxa3cwddz1i0se1kannwlxlscte2unjoajjjd2zrdlhqcm1gwgj6yjjxtmqwznjwdnrstjzdy1hgcjdr0gg7aufvx3lxtfbwqldvdtjdqk9mnlnjnvbpbmv0ovrmskjtsldfnjeyqnrjqnzynjrsdzbmrvdgewh2u3dfwdzkc1o5znhnss1suu1nqxjovu1nujl1vkdtoepod3vlcwzrullgbjbwywxaq3lhrtroak5hcjzlvljzu2pvny1crmswdu82sejmalowwkdtdjlyennucvzpnum5bs1ibxm2qkdcskvxddj2z3rbwgvxsevithbnagrcewf2zws?oc=5": {
+      "event_id": "72c851e6766413a9",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "俄罗斯导弹和无人机袭击基辅地区，造成至少16人死亡 - 美国之音",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmit0fvx3lxte1rveptbfm2vnfitzc3bza3zjjcnfg4uuvpr3c0ymxma1bevmtrynfrn1ffnkzty0zxzgjxmtrrwu5zwwnuzuw2cldlsxn4vdq?oc=5": {
+      "event_id": "cb432ae56776a1f5",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Insta360",
+      "title_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmif0fvx3lxte1yzuzkvldvq0ddwtznm1dpby1nov9na1psul96u1vanl9trw9hd2hfzgdiewvjwjf0y19stgdlngl4vhdvdmfddkjebvppwxq1aephevfeyxrmlw5eddlpb2y3ov9jzgp6clhjadhos05aqvnayklvdwx6s2zyou0?oc=5": {
+      "event_id": "7b932d6f540fb2e7",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "亚马逊无人机翻车视频频发，配送服务还能放心用吗？ - 手机新浪网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiukfvx3lxtfa3wtfobnlkazh3mwfnsxlaqmtzsuv0d3f4r3fxrtbdyxztouljnulvnudzwdvhm0lmtxk4nuhlyxrsm2doqkvau29are5wr0zluxc?oc=5": {
+      "event_id": "5664725c2a1305ac",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "深读｜大树戴“智能手表”、无人机侦察……“七下八上”，防汛一线“科技换防” - 搜狐网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiiafbvv95cuxoddhunnpsdww2nxvnwmtyetzbwu1yddrxn21nmm5pnkpfde1cs2fzlw96b0m1r3rmvhfxel94zjf4m3nuu3bmwtddx2tkvenqtfdctlnhank5mdlontvby0helvhtaulrtgxlnznynutxzexmzmd3lu9nt1i4dwfgmer2atlxrnbj?oc=5": {
+      "event_id": "2226e3cbbf8a89c9",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "临县公安局查处一起无人机违规超高飞行案件 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmifkfvx3lxtfb6ykfhevmtzkhvqm1xnfjtrvzvt1vnmw5islezredurdf1yzrrmkthz1nwu012a3o0am9qtxlvqtlfrwozvupzutjeufbjsmrkoe52dkfjwmzutnnsa2f5bfbdaln1smprqje0ugrqmdrqnuxjnzjhznbrsk5qdw?oc=5": {
+      "event_id": "6dab3b4a1ce7b537",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Insta360",
+      "title_zh": "影石Insta360 Luna Ultra的双摄长焦功能有哪些优势？ - finance.sina.com.cn",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmit0fvx3lxte9mev9zwhjgzxg5qzn6dwp5mevoowhfoertswnuadbprmntww1brvu4yxhoy3h2wnvqswlqstderexstmtstzdhs3vsnzvwmfu?oc=5": {
+      "event_id": "84b832c7855ccd54",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Insta360",
+      "title_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmilafbvv95cuxoy19xvdf2rhznytbhwmxrzkhiuudfn3l4axqxqkuwvlruyxzomhlka1btsjjnagsxv3j6m05tv0u2qlhnluvzrfzjrzbhou4ynnhvs2kzqu1wb2vpntjbd09srfz4tvlwr0zlemrvbgl1smvlqi1za1jmctzpb0otvetfy0vidgd1sultymlzm0zulvfy?oc=5": {
+      "event_id": "a0b8f6e53eacb20e",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "DJI",
+      "title_zh": "“大疆教父”李泽湘，又将获得一个IPO - 手机新浪网",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmivkfvx3lxtfa2sjvszmnusupxc3zrxznky2llu0jdvgwzz21ex25qztqwatrwazvhttfrow9sa2gtwhfjdjdsv3roqtnnne5yq1a4rhcxm2t0cldoqjnb?oc=5": {
+      "event_id": "3f8107a3c14711d4",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Other",
+      "title_zh": "【深圳特区报】智能体“调度” 无人机“送餐” 机器人“指路” 一大批前沿科技应用场景落地城市公共空间 - 搜狐网",
+      "fingerprint": {
+        "importance_score": 4,
+        "threat_level": "low",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 4,
+          "threat_level": "low",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmif0fvx3lxte84d2h6v2z5x0v1sm5qyw9xwdzhty1yovfsow9lwjdnnjdfewpiudfuoxzvehbmoxzxmxfqtvdjz0dbqxp1m1hwvvvtz09pbxbkdmtrq0dyd2jlv095ymnodethrwh2z3y4sxpxx0h2nwdybgjtv2j3ugnjskrlwfe?oc=5": {
+      "event_id": "75b4272d871d53e9",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Insta360",
+      "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
+    },
+    "dji-cn-news|https://news.google.com/rss/articles/cbmiwefvx3lxte1fcmpytlf0ovpkvuhsr2rtnmyyoehyutrtrnlrbxpqtvm1wut5bku4ek9wwkzhdy1mr1nxy29uzfnewfk4rkjtsxbbbgdfslvlvzjqm0ruzve?oc=5": {
+      "event_id": "09dcc70d7029f860",
+      "first_seen": "2026-08-21T03:30:36.559490+00:00",
+      "last_seen": "2026-08-21T03:30:36.559490+00:00",
+      "brand": "Insta360",
+      "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
+      "fingerprint": {
+        "importance_score": 5,
+        "threat_level": "medium",
+        "push_decision": "dashboard_only",
+        "evidence_count": 1
+      },
+      "history": [
+        {
+          "at": "2026-08-21T03:30:36.559490+00:00",
+          "importance_score": 5,
+          "threat_level": "medium",
+          "push_decision": "dashboard_only",
+          "evidence_count": 1
+        }
+      ]
     }
   },
   "runs": [
@@ -3439,6 +4055,16 @@
       "new_count": 22,
       "updated_count": 0,
       "pushable_count": 6,
+      "pushed_count": 0,
+      "source_ok": 25,
+      "source_failed": 2
+    },
+    {
+      "generated_at": "2026-08-21T03:30:36.559490+00:00",
+      "candidate_count": 30,
+      "new_count": 28,
+      "updated_count": 0,
+      "pushable_count": 5,
       "pushed_count": 0,
       "source_ok": 25,
       "source_failed": 2
