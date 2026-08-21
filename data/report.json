@@ -1,32 +1,33 @@
 {
   "title": "影像行业与竞品信息监控报告",
-  "generated_at": "2026-08-21T03:30:36.562885+00:00",
+  "generated_at": "2026-08-21T11:00:08.959039+00:00",
   "window": {
-    "start": "2026-08-20T10:30:36.562293+00:00",
-    "end": "2026-08-21T03:30:36.562293+00:00",
+    "start": "2026-08-20T18:00:08.958586+00:00",
+    "end": "2026-08-21T11:00:08.958586+00:00",
     "hours": 17
   },
   "week_tag": "2026-W34",
   "summary": {
     "candidate_count": 30,
-    "pushable_count": 5,
-    "top_count": 5,
-    "new_count": 28,
+    "pushable_count": 1,
+    "top_count": 1,
+    "new_count": 20,
     "updated_count": 0,
-    "new_pushable_count": 5,
+    "new_pushable_count": 0,
     "source_ok": 25,
     "source_failed": 2,
     "domestic_count": 30,
     "global_count": 0
   },
   "category_counts": {
-    "software": 1,
-    "hardware": 9,
-    "industry": 20
+    "industry": 24,
+    "hardware": 4,
+    "pmf": 2
   },
   "brand_counts": {
-    "Other": 21,
-    "Insta360": 6,
+    "Sony": 1,
+    "Other": 23,
+    "Insta360": 3,
     "DJI": 3
   },
   "region_counts": {
@@ -36,8 +37,8 @@
     "zh": 30
   },
   "decision_counts": {
-    "dashboard_only": 25,
-    "push": 5
+    "dashboard_only": 29,
+    "push": 1
   },
   "top5": [
     {
@@ -83,416 +84,10 @@
       ],
       "source_weight": 4,
       "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "cb432ae56776a1f5",
-      "title": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
-      "details": [
-        "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-      "title_original": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
-      "details_zh": [
-        "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
-          "snippet": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "84b832c7855ccd54",
-      "title": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
-      "details": [
-        "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-      "title_original": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
-      "details_zh": [
-        "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
-          "snippet": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "75b4272d871d53e9",
-      "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-      "details": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-      "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-      "details_zh": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-          "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "09dcc70d7029f860",
-      "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-      "details": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-      "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-      "details_zh": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-          "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
+      "is_new": false
     }
   ],
-  "push_events": [
-    {
-      "id": "6419215e3c37a66c",
-      "title": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-      "brand": "DJI",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
-      "details": [
-        "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
-      ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-21",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-      "title_original": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
-      "details_zh": [
-        "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
-      ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
-          "snippet": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "cb432ae56776a1f5",
-      "title": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
-      "details": [
-        "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-      "title_original": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
-      "details_zh": [
-        "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
-          "snippet": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "84b832c7855ccd54",
-      "title": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
-      "details": [
-        "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-      "title_original": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
-      "details_zh": [
-        "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
-          "snippet": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "75b4272d871d53e9",
-      "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-      "details": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-      "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-      "details_zh": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-          "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "09dcc70d7029f860",
-      "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-      "details": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-      "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-      "details_zh": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-          "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    }
-  ],
+  "push_events": [],
   "pushable_events": [
     {
       "id": "6419215e3c37a66c",
@@ -537,187 +132,7 @@
       ],
       "source_weight": 4,
       "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "cb432ae56776a1f5",
-      "title": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "行业趋势",
-      "summary": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
-      "details": [
-        "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-      "title_original": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
-      "details_zh": [
-        "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
-          "snippet": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "84b832c7855ccd54",
-      "title": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
-      "details": [
-        "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-      "title_original": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
-      "details_zh": [
-        "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
-          "snippet": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "75b4272d871d53e9",
-      "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-      "details": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-      "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-      "details_zh": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-          "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
-    },
-    {
-      "id": "09dcc70d7029f860",
-      "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-      "brand": "Insta360",
-      "category": "hardware",
-      "event_type": "新品发布",
-      "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-      "details": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-      ],
-      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "threat_level": "medium",
-      "heat_score": 3,
-      "confidence": "media",
-      "published_at": "2026-08-20",
-      "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-      "week_tag": "2026-W34",
-      "source_id": "dji-cn-news",
-      "ai_confidence": 0.0,
-      "pushed": true,
-      "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-      "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-      "language": "zh",
-      "region": "domestic",
-      "source_market": "CN",
-      "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-      "details_zh": [
-        "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-      ],
-      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-      "importance_score": 5,
-      "confidence_score": 0.75,
-      "push_decision": "push",
-      "evidence": [
-        {
-          "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-          "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-        }
-      ],
-      "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": true
+      "is_new": false
     }
   ],
   "sections": {
@@ -765,187 +180,7 @@
         ],
         "source_weight": 4,
         "first_seen": "2026-08-21T03:30:36.559490+00:00",
-        "is_new": true
-      },
-      {
-        "id": "cb432ae56776a1f5",
-        "title": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-        "brand": "Insta360",
-        "category": "hardware",
-        "event_type": "行业趋势",
-        "summary": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
-        "details": [
-          "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-        ],
-        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-20",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-        "title_original": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
-        "details_zh": [
-          "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-        ],
-        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
-            "snippet": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-21T03:30:36.559490+00:00",
-        "is_new": true
-      },
-      {
-        "id": "84b832c7855ccd54",
-        "title": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-        "brand": "Insta360",
-        "category": "hardware",
-        "event_type": "新品发布",
-        "summary": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
-        "details": [
-          "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-        ],
-        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-20",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-        "title_original": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
-        "details_zh": [
-          "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-        ],
-        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
-            "snippet": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-21T03:30:36.559490+00:00",
-        "is_new": true
-      },
-      {
-        "id": "75b4272d871d53e9",
-        "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-        "brand": "Insta360",
-        "category": "hardware",
-        "event_type": "新品发布",
-        "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-        "details": [
-          "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-        ],
-        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-20",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-        "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-        "details_zh": [
-          "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-        ],
-        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-            "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-21T03:30:36.559490+00:00",
-        "is_new": true
-      },
-      {
-        "id": "09dcc70d7029f860",
-        "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-        "brand": "Insta360",
-        "category": "hardware",
-        "event_type": "新品发布",
-        "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-        "details": [
-          "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-        ],
-        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "threat_level": "medium",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-20",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": true,
-        "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-        "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-        "details_zh": [
-          "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-        ],
-        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "push",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-            "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-21T03:30:36.559490+00:00",
-        "is_new": true
+        "is_new": false
       },
       {
         "id": "0f6dc34e5bee025d",
@@ -992,75 +227,305 @@
         ],
         "source_weight": 3,
         "first_seen": "2026-08-21T03:30:36.559490+00:00",
-        "is_new": true
-      }
-    ],
-    "global": [],
-    "software": [
+        "is_new": false
+      },
       {
-        "id": "0a7a68b620ff3102",
-        "title": "荣耀平板 X10 Pro Max 上架预约：13 英寸屏、10100mAh 电池",
-        "brand": "Other",
-        "category": "software",
-        "event_type": "软件更新",
-        "summary": "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布。 商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版。 荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教",
+        "id": "49b0ce5ccf90d24a",
+        "title": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
+        "brand": "Sony",
+        "category": "industry",
+        "event_type": "行业趋势",
+        "summary": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是",
         "details": [
-          "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布",
-          "商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版",
-          "荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教辅学练资源等功能；搭载双前置，包含 800 万像素前置摄像头和 200 万像素 AI 专注眼，可实时检测 6 大不专注行为"
+          "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售",
+          "据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox",
+          "根据近期调查，这款主机在法国的售价是 899"
         ],
-        "insight": "Other 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+        "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
         "threat_level": "low",
         "heat_score": 3,
         "confidence": "media",
         "published_at": "2026-08-21",
         "source_name": "IT之家",
-        "source_url": "https://www.ithome.com/0/992/539.htm",
+        "source_url": "https://www.ithome.com/0/992/820.htm",
         "week_tag": "2026-W34",
         "source_id": "ithome-imaging",
         "ai_confidence": 0.0,
         "pushed": false,
-        "title_zh": "荣耀平板 X10 Pro Max 上架预约：13 英寸屏、10100mAh 电池",
-        "title_original": "荣耀平板 X10 Pro Max 上架预约：13 英寸屏、10100mAh 电池",
+        "title_zh": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
+        "title_original": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
         "language": "zh",
         "region": "domestic",
         "source_market": "CN",
-        "summary_zh": "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布。 商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版。 荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教辅学练资源等功能；搭载双前置，包含 80",
+        "summary_zh": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是 899.99 美元 （现汇率约合 6,",
         "details_zh": [
-          "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布",
-          "商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版",
-          "荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教辅学练资源等功能；搭载双前置，包含 800 万像素前置摄像头和 200 万像素 AI 专注眼，可实时检测 6 大不专注行为"
+          "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售",
+          "据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox",
+          "根据近期调查，这款主机在法国的售价是 899"
         ],
-        "insight_zh": "Other 软件/固件更新会影响创作者工作流体验，建议关注功能点与稳定性反馈。",
+        "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
         "importance_score": 5,
         "confidence_score": 0.75,
         "push_decision": "dashboard_only",
         "evidence": [
           {
             "source_name": "IT之家",
-            "url": "https://www.ithome.com/0/992/539.htm",
-            "snippet": "IT之家 8 月 21 日消息，荣耀平板 X10 Pro Max 现已上架电商平台并开启预约，具体价格暂未公布。 商品页面显示，荣耀平板 X10 Pro Max 有 8GB+128GB 和 8GB+256GB 版本可选，有苍山灰、森林绿两种颜色可选，其中苍山灰配色可选柔光版。 荣耀平板 X10 Pro Max 搭载 13 英寸屏幕 ，电池容量 10100mAh ；搭载荣耀学习空间，支持 1 对 1 AI 精准辅导、独立空间防沉迷、权威教"
+            "url": "https://www.ithome.com/0/992/820.htm",
+            "snippet": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是"
           }
         ],
         "source_weight": 4,
-        "first_seen": "2026-08-21T03:30:36.559490+00:00",
+        "first_seen": "2026-08-21T11:00:08.955793+00:00",
+        "is_new": true
+      },
+      {
+        "id": "21fd44317a8194a7",
+        "title": "消息称一加即将在海外发布全新平价手机，专供印度市场",
+        "brand": "Other",
+        "category": "hardware",
+        "event_type": "新品发布",
+        "summary": "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络。 据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售 。 根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端。 作为参考，一加曾在上个月推出 N6x 手机。IT之家了解到，该机配备联发科天玑 6360 Apex 芯片、7000mAh ",
+        "details": [
+          "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络",
+          "据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售",
+          "根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端"
+        ],
+        "insight": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "low",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-21",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/992/798.htm",
+        "week_tag": "2026-W34",
+        "source_id": "ithome-imaging",
+        "ai_confidence": 0.0,
+        "pushed": false,
+        "title_zh": "消息称一加即将在海外发布全新平价手机，专供印度市场",
+        "title_original": "消息称一加即将在海外发布全新平价手机，专供印度市场",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络。 据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售 。 根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端。 作为参考，一加曾在上个月推出 N6x 手机。IT之家了解到，该机配备联发科天玑 6360 Apex 芯片、7000mAh 电池、6.8 英寸 LCD 屏幕以及 1",
+        "details_zh": [
+          "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络",
+          "据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售",
+          "根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端"
+        ],
+        "insight_zh": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "dashboard_only",
+        "evidence": [
+          {
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/992/798.htm",
+            "snippet": "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络。 据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售 。 根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端。 作为参考，一加曾在上个月推出 N6x 手机。IT之家了解到，该机配备联发科天玑 6360 Apex 芯片、7000mAh "
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-21T11:00:08.955793+00:00",
+        "is_new": true
+      },
+      {
+        "id": "72049fe2cf89fb74",
+        "title": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 - 爱范儿",
+        "brand": "Insta360",
+        "category": "industry",
+        "event_type": "行业趋势",
+        "summary": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿",
+        "details": [
+          "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿"
+        ],
+        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "threat_level": "low",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-21",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1XMXFWcktGdEhBcTZrMXhxcW56R0I5X29CWVBaZ1ZEZ21LSEdkY29xY2xwMmx1UmhObHRKSE90S0lDSkU?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": false,
+        "title_zh": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 - 爱范儿",
+        "title_original": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 - 爱范儿",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿",
+        "details_zh": [
+          "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿"
+        ],
+        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "dashboard_only",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1XMXFWcktGdEhBcTZrMXhxcW56R0I5X29CWVBaZ1ZEZ21LSEdkY29xY2xwMmx1UmhObHRKSE90S0lDSkU?oc=5",
+            "snippet": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-21T11:00:08.955793+00:00",
+        "is_new": true
+      },
+      {
+        "id": "2721bd472321b555",
+        "title": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+        "brand": "DJI",
+        "category": "pmf",
+        "event_type": "场景信号",
+        "summary": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家",
+        "details": [
+          "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+        ],
+        "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+        "threat_level": "low",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-21",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44UUpOQUdxcVdhUGJJbGVVeS1wVG5pSlpIcFZPYzFDYlNpc0tjMC00TjlEc0o2MjZWaDFXSWNXemVNTVRJQ3FhcjVuU3BUNGMzbVExeUUxTks?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": false,
+        "title_zh": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+        "title_original": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家",
+        "details_zh": [
+          "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+        ],
+        "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "dashboard_only",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44UUpOQUdxcVdhUGJJbGVVeS1wVG5pSlpIcFZPYzFDYlNpc0tjMC00TjlEc0o2MjZWaDFXSWNXemVNTVRJQ3FhcjVuU3BUNGMzbVExeUUxTks?oc=5",
+            "snippet": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-21T11:00:08.955793+00:00",
         "is_new": true
       }
     ],
+    "global": [],
+    "software": [],
     "community": [],
-    "pmf": []
+    "pmf": [
+      {
+        "id": "2721bd472321b555",
+        "title": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+        "brand": "DJI",
+        "category": "pmf",
+        "event_type": "场景信号",
+        "summary": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家",
+        "details": [
+          "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+        ],
+        "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+        "threat_level": "low",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-21",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44UUpOQUdxcVdhUGJJbGVVeS1wVG5pSlpIcFZPYzFDYlNpc0tjMC00TjlEc0o2MjZWaDFXSWNXemVNTVRJQ3FhcjVuU3BUNGMzbVExeUUxTks?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": false,
+        "title_zh": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+        "title_original": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家",
+        "details_zh": [
+          "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+        ],
+        "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "dashboard_only",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44UUpOQUdxcVdhUGJJbGVVeS1wVG5pSlpIcFZPYzFDYlNpc0tjMC00TjlEc0o2MjZWaDFXSWNXemVNTVRJQ3FhcjVuU3BUNGMzbVExeUUxTks?oc=5",
+            "snippet": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-21T11:00:08.955793+00:00",
+        "is_new": true
+      },
+      {
+        "id": "9c7a16f8018e8fdc",
+        "title": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
+        "brand": "Insta360",
+        "category": "pmf",
+        "event_type": "场景信号",
+        "summary": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网",
+        "details": [
+          "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
+        ],
+        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "threat_level": "low",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-21",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVpKQnBFZjFGamNmTzloTkJUQ2U2Q0RSTmp2ODlicGtSMW9NdkRmbEtDZ1c3OTlQQjlhZTA3LXZuQ20zcEdhUVh6cXRTdjVEcUd5dFphclMwenliUGhRc1UxTzZwcnQ0dUt3c2x0QlJqWmZDUklnZnhzVmtUZDJJRw?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": false,
+        "title_zh": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
+        "title_original": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网",
+        "details_zh": [
+          "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
+        ],
+        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "dashboard_only",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVpKQnBFZjFGamNmTzloTkJUQ2U2Q0RSTmp2ODlicGtSMW9NdkRmbEtDZ1c3OTlQQjlhZTA3LXZuQ20zcEdhUVh6cXRTdjVEcUd5dFphclMwenliUGhRc1UxTzZwcnQ0dUt3c2x0QlJqWmZDUklnZnhzVmtUZDJJRw?oc=5",
+            "snippet": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-21T11:00:08.955793+00:00",
+        "is_new": true
+      }
+    ]
   },
   "battlecards": [
     {
       "brand": "Insta360",
       "is_self": true,
-      "event_count": 6,
-      "new_count": 6,
+      "event_count": 3,
+      "new_count": 2,
       "threat_summary": "medium",
       "max_importance": 5,
       "category_mix": {
-        "hardware": 5,
-        "industry": 1
+        "hardware": 1,
+        "industry": 1,
+        "pmf": 1
       },
       "key_insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "latest_events": [
@@ -1109,186 +574,96 @@
           ],
           "source_weight": 3,
           "first_seen": "2026-08-21T03:30:36.559490+00:00",
-          "is_new": true
+          "is_new": false
         },
         {
-          "id": "cb432ae56776a1f5",
-          "title": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
+          "id": "72049fe2cf89fb74",
+          "title": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 - 爱范儿",
           "brand": "Insta360",
-          "category": "hardware",
+          "category": "industry",
           "event_type": "行业趋势",
-          "summary": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
+          "summary": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿",
           "details": [
-            "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
+            "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿"
           ],
           "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "threat_level": "medium",
+          "threat_level": "low",
           "heat_score": 3,
           "confidence": "media",
-          "published_at": "2026-08-20",
+          "published_at": "2026-08-21",
           "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1XMXFWcktGdEhBcTZrMXhxcW56R0I5X29CWVBaZ1ZEZ21LSEdkY29xY2xwMmx1UmhObHRKSE90S0lDSkU?oc=5",
           "week_tag": "2026-W34",
           "source_id": "dji-cn-news",
           "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
-          "title_original": "竖屏视频也能拍4K了？影石Luna Pro上手体验 - 热点科技",
+          "pushed": false,
+          "title_zh": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 - 爱范儿",
+          "title_original": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 - 爱范儿",
           "language": "zh",
           "region": "domestic",
           "source_market": "CN",
-          "summary_zh": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技",
+          "summary_zh": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿",
           "details_zh": [
-            "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
+            "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿"
           ],
           "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
           "importance_score": 5,
           "confidence_score": 0.75,
-          "push_decision": "push",
+          "push_decision": "dashboard_only",
           "evidence": [
             {
               "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rVEpTbFM2VnFITzc3bzA3ZjJCNFg4UUVpR3c0YmxMa1BEVmtRYnFrN1FFNkZTY0ZXZGJxMTRrWU5ZWWNuZUw2cldlSXN4VDQ?oc=5",
-              "snippet": "竖屏视频也能拍4K了？影石Luna Pro上手体验 热点科技"
+              "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1XMXFWcktGdEhBcTZrMXhxcW56R0I5X29CWVBaZ1ZEZ21LSEdkY29xY2xwMmx1UmhObHRKSE90S0lDSkU?oc=5",
+              "snippet": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿"
             }
           ],
           "source_weight": 4,
-          "first_seen": "2026-08-21T03:30:36.559490+00:00",
+          "first_seen": "2026-08-21T11:00:08.955793+00:00",
           "is_new": true
         },
         {
-          "id": "84b832c7855ccd54",
-          "title": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
+          "id": "9c7a16f8018e8fdc",
+          "title": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
           "brand": "Insta360",
-          "category": "hardware",
-          "event_type": "新品发布",
-          "summary": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
+          "category": "pmf",
+          "event_type": "场景信号",
+          "summary": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网",
           "details": [
-            "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
+            "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
           ],
           "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "threat_level": "medium",
+          "threat_level": "low",
           "heat_score": 3,
           "confidence": "media",
-          "published_at": "2026-08-20",
+          "published_at": "2026-08-21",
           "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVpKQnBFZjFGamNmTzloTkJUQ2U2Q0RSTmp2ODlicGtSMW9NdkRmbEtDZ1c3OTlQQjlhZTA3LXZuQ20zcEdhUVh6cXRTdjVEcUd5dFphclMwenliUGhRc1UxTzZwcnQ0dUt3c2x0QlJqWmZDUklnZnhzVmtUZDJJRw?oc=5",
           "week_tag": "2026-W34",
           "source_id": "dji-cn-news",
           "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
-          "title_original": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 - 凤凰网",
+          "pushed": false,
+          "title_zh": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
+          "title_original": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
           "language": "zh",
           "region": "domestic",
           "source_market": "CN",
-          "summary_zh": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网",
+          "summary_zh": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网",
           "details_zh": [
-            "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
+            "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
           ],
           "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
           "importance_score": 5,
           "confidence_score": 0.75,
-          "push_decision": "push",
+          "push_decision": "dashboard_only",
           "evidence": [
             {
               "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9meV9zWHJGZXg5QzN6dWp5MEVoOWhFOERTSWNuaDBPRmNTWW1BRVU4YXhoY3h2WnVqSWlqSTdERExsTmtSTzdHS3VsNzVWMFU?oc=5",
-              "snippet": "影石发布云台相机Luna Pro：行业首款4K竖拍云台相机配徕卡一英寸大底 售3399元起 凤凰网"
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVpKQnBFZjFGamNmTzloTkJUQ2U2Q0RSTmp2ODlicGtSMW9NdkRmbEtDZ1c3OTlQQjlhZTA3LXZuQ20zcEdhUVh6cXRTdjVEcUd5dFphclMwenliUGhRc1UxTzZwcnQ0dUt3c2x0QlJqWmZDUklnZnhzVmtUZDJJRw?oc=5",
+              "snippet": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
             }
           ],
           "source_weight": 4,
-          "first_seen": "2026-08-21T03:30:36.559490+00:00",
-          "is_new": true
-        },
-        {
-          "id": "75b4272d871d53e9",
-          "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-          "brand": "Insta360",
-          "category": "hardware",
-          "event_type": "新品发布",
-          "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-          "details": [
-            "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-          ],
-          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "threat_level": "medium",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-20",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-          "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 新浪财经",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经",
-          "details_zh": [
-            "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-          ],
-          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "push",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2h6V2Z5X0V1Sm5QYW9XWDZHTy1YOVFsOW9lWjdNNjdFeWpIUDFuOXZveHBMOXZXMXFQTVdjZ0dBQXp1M1hwVVVTZ09PbXBkdmtrQ0dyd2JlV095YmNOdEtHRWh2Z3Y4SXpXX0h2NWdYbGJTV2J3UGNjSkRLWFE?oc=5",
-              "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 新浪财经"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-21T03:30:36.559490+00:00",
-          "is_new": true
-        },
-        {
-          "id": "09dcc70d7029f860",
-          "title": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-          "brand": "Insta360",
-          "category": "hardware",
-          "event_type": "新品发布",
-          "summary": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-          "details": [
-            "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-          ],
-          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "threat_level": "medium",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-20",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-          "title_original": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 - 驱动之家",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家",
-          "details_zh": [
-            "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-          ],
-          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "push",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FcmpYTlF0OVpkVUhSR2RTNmYyOEhyUTRtRnlRbXpqTVM1WUt5bkU4ek9WWkZhdy1mR1NxY29uZFNEWFk4RkJTSXBBbGdfSlVlVzJqM0RuZVE?oc=5",
-              "snippet": "3399元起！影石Luna Pro正式发布：徕卡1英寸8K单摄 支持4K竖拍 驱动之家"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-21T03:30:36.559490+00:00",
+          "first_seen": "2026-08-21T11:00:08.955793+00:00",
           "is_new": true
         }
       ]
@@ -1297,12 +672,13 @@
       "brand": "DJI",
       "is_self": false,
       "event_count": 3,
-      "new_count": 3,
+      "new_count": 1,
       "threat_summary": "medium",
       "max_importance": 5,
       "category_mix": {
         "hardware": 1,
-        "industry": 2
+        "pmf": 1,
+        "industry": 1
       },
       "key_insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
       "latest_events": [
@@ -1349,19 +725,62 @@
           ],
           "source_weight": 4,
           "first_seen": "2026-08-21T03:30:36.559490+00:00",
+          "is_new": false
+        },
+        {
+          "id": "2721bd472321b555",
+          "title": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+          "brand": "DJI",
+          "category": "pmf",
+          "event_type": "场景信号",
+          "summary": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家",
+          "details": [
+            "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+          ],
+          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-21",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44UUpOQUdxcVdhUGJJbGVVeS1wVG5pSlpIcFZPYzFDYlNpc0tjMC00TjlEc0o2MjZWaDFXSWNXemVNTVRJQ3FhcjVuU3BUNGMzbVExeUUxTks?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+          "title_original": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家",
+          "details_zh": [
+            "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+          ],
+          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44UUpOQUdxcVdhUGJJbGVVeS1wVG5pSlpIcFZPYzFDYlNpc0tjMC00TjlEc0o2MjZWaDFXSWNXemVNTVRJQ3FhcjVuU3BUNGMzbVExeUUxTks?oc=5",
+              "snippet": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-21T11:00:08.955793+00:00",
           "is_new": true
         },
         {
-          "id": "f7f9d9c750beae6d",
-          "title": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - finance.sina.com.cn",
+          "id": "d05806e7729f317b",
+          "title": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - 新浪财经",
           "brand": "DJI",
           "category": "industry",
           "event_type": "行业趋势",
-          "summary": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance.sina.com.cn",
+          "summary": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经",
           "details": [
-            "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance",
-            "sina",
-            "com"
+            "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经"
           ],
           "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
           "threat_level": "low",
@@ -1374,16 +793,14 @@
           "source_id": "dji-cn-news",
           "ai_confidence": 0.0,
           "pushed": false,
-          "title_zh": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - finance.sina.com.cn",
-          "title_original": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - finance.sina.com.cn",
+          "title_zh": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - 新浪财经",
+          "title_original": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - 新浪财经",
           "language": "zh",
           "region": "domestic",
           "source_market": "CN",
-          "summary_zh": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance.sina.com.cn",
+          "summary_zh": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经",
           "details_zh": [
-            "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance",
-            "sina",
-            "com"
+            "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经"
           ],
           "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
           "importance_score": 5,
@@ -1393,42 +810,60 @@
             {
               "source_name": "大疆/影石 中文动态",
               "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1dpUzgyQVhMbHZrb3lYSlRGdFhQY2tpUWhvand3Q3JzNW4xYmNQMGh5YkUxVjVhMHRZcm1DVXd5S0dDZ0ZNdGJ6b1YzZUJBVEt0NEd3dlJnVTRpd0xDdzBEUHNXTkRmWXd4Mk51U1UyUjNrNnJnUlpOMl9jRUtrbHZDcFBib3dNZkNoWUgwM1Fmb0RYOWpvdjBIUkJPanJqTzhsdkdORQ?oc=5",
-              "snippet": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 finance.sina.com.cn"
+              "snippet": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经"
             }
           ],
           "source_weight": 4,
           "first_seen": "2026-08-21T03:30:36.559490+00:00",
-          "is_new": true
-        },
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "brand": "Sony",
+      "is_self": false,
+      "event_count": 1,
+      "new_count": 1,
+      "threat_summary": "low",
+      "max_importance": 5,
+      "category_mix": {
+        "industry": 1
+      },
+      "key_insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+      "latest_events": [
         {
-          "id": "a0b8f6e53eacb20e",
-          "title": "“大疆教父”李泽湘，又将获得一个IPO - 手机新浪网",
-          "brand": "DJI",
+          "id": "49b0ce5ccf90d24a",
+          "title": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
+          "brand": "Sony",
           "category": "industry",
           "event_type": "行业趋势",
-          "summary": "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网",
+          "summary": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是",
           "details": [
-            "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网"
+            "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售",
+            "据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox",
+            "根据近期调查，这款主机在法国的售价是 899"
           ],
           "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
           "threat_level": "low",
           "heat_score": 3,
           "confidence": "media",
           "published_at": "2026-08-21",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY19XVDF2RHZNYTBhWmxrZkhiUUdFN3l4aXQxQkUwVlRUYXZOMHlKa1BtSjJNaGsxV3J6M05tV0U2QlhnLUVzRFZJRzBHOU4yNnhvS2kzQU1Wb2VpNTJBd09sRFZ4TVlwR0ZLemRVbGl1SmVlQi1Za1JMcTZpb0otVEtfY0VIdGd1SUltYmlZM0ZULVFy?oc=5",
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/0/992/820.htm",
           "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
+          "source_id": "ithome-imaging",
           "ai_confidence": 0.0,
           "pushed": false,
-          "title_zh": "“大疆教父”李泽湘，又将获得一个IPO - 手机新浪网",
-          "title_original": "“大疆教父”李泽湘，又将获得一个IPO - 手机新浪网",
+          "title_zh": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
+          "title_original": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
           "language": "zh",
           "region": "domestic",
           "source_market": "CN",
-          "summary_zh": "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网",
+          "summary_zh": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是 899.99 美元 （现汇率约合 6,",
           "details_zh": [
-            "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网"
+            "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售",
+            "据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox",
+            "根据近期调查，这款主机在法国的售价是 899"
           ],
           "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
           "importance_score": 5,
@@ -1436,13 +871,13 @@
           "push_decision": "dashboard_only",
           "evidence": [
             {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY19XVDF2RHZNYTBhWmxrZkhiUUdFN3l4aXQxQkUwVlRUYXZOMHlKa1BtSjJNaGsxV3J6M05tV0U2QlhnLUVzRFZJRzBHOU4yNnhvS2kzQU1Wb2VpNTJBd09sRFZ4TVlwR0ZLemRVbGl1SmVlQi1Za1JMcTZpb0otVEtfY0VIdGd1SUltYmlZM0ZULVFy?oc=5",
-              "snippet": "“大疆教父”李泽湘，又将获得一个IPO 手机新浪网"
+              "source_name": "IT之家",
+              "url": "https://www.ithome.com/0/992/820.htm",
+              "snippet": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是"
             }
           ],
           "source_weight": 4,
-          "first_seen": "2026-08-21T03:30:36.559490+00:00",
+          "first_seen": "2026-08-21T11:00:08.955793+00:00",
           "is_new": true
         }
       ]
@@ -1548,6 +983,16 @@
       "pushed_count": 0,
       "source_ok": 25,
       "source_failed": 2
+    },
+    {
+      "generated_at": "2026-08-21T11:00:08.955793+00:00",
+      "candidate_count": 30,
+      "new_count": 20,
+      "updated_count": 0,
+      "pushable_count": 1,
+      "pushed_count": 0,
+      "source_ok": 25,
+      "source_failed": 2
     }
   ],
   "health": [
@@ -1643,7 +1088,7 @@
       "source_id": "gnews-gopro-deals",
       "name": "GoPro 促销动态",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "region": "global",
       "language": "en"
     },
@@ -1651,7 +1096,7 @@
       "source_id": "gnews-cn-promo",
       "name": "大疆/影石 促销动态",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "region": "domestic",
       "language": "zh"
     },
@@ -1778,7 +1223,7 @@
     "stage": "fallback"
   },
   "quality": {
-    "generated_at": "2026-08-21T03:30:36.562430+00:00",
+    "generated_at": "2026-08-21T11:00:08.958684+00:00",
     "source_ok": 25,
     "source_failed": 2,
     "ai_enabled": false,
@@ -1786,14 +1231,14 @@
     "ai_stage": "fallback",
     "ai_fallback_count": 30,
     "events_total": 30,
-    "events_pushed": 5,
+    "events_pushed": 1,
     "events_discarded": 0,
     "events_without_evidence": 0,
     "top5_source_mix": {
-      "大疆/影石 中文动态": 5
+      "大疆/影石 中文动态": 1
     },
     "top5_region_mix": {
-      "domestic": 5
+      "domestic": 1
     }
   },
   "category_labels": {
