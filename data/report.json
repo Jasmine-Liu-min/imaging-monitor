@@ -1,34 +1,35 @@
 {
   "title": "影像行业与竞品信息监控报告",
-  "generated_at": "2026-08-21T11:00:08.959039+00:00",
+  "generated_at": "2026-08-22T03:21:57.150864+00:00",
   "window": {
-    "start": "2026-08-20T18:00:08.958586+00:00",
-    "end": "2026-08-21T11:00:08.958586+00:00",
+    "start": "2026-08-21T10:21:57.150333+00:00",
+    "end": "2026-08-22T03:21:57.150333+00:00",
     "hours": 17
   },
   "week_tag": "2026-W34",
   "summary": {
     "candidate_count": 30,
-    "pushable_count": 1,
-    "top_count": 1,
-    "new_count": 20,
+    "pushable_count": 2,
+    "top_count": 2,
+    "new_count": 23,
     "updated_count": 0,
-    "new_pushable_count": 0,
+    "new_pushable_count": 2,
     "source_ok": 25,
     "source_failed": 2,
     "domestic_count": 30,
     "global_count": 0
   },
   "category_counts": {
-    "industry": 24,
-    "hardware": 4,
-    "pmf": 2
+    "hardware": 7,
+    "pmf": 3,
+    "industry": 20
   },
   "brand_counts": {
+    "Nikon": 1,
+    "Other": 20,
     "Sony": 1,
-    "Other": 23,
-    "Insta360": 3,
-    "DJI": 3
+    "Insta360": 4,
+    "DJI": 4
   },
   "region_counts": {
     "domestic": 30
@@ -37,150 +38,474 @@
     "zh": 30
   },
   "decision_counts": {
-    "dashboard_only": 29,
-    "push": 1
+    "dashboard_only": 28,
+    "push": 2
   },
   "top5": [
     {
-      "id": "6419215e3c37a66c",
-      "title": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-      "brand": "DJI",
+      "id": "594437d712e830dd",
+      "title": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+      "brand": "Insta360",
       "category": "hardware",
       "event_type": "行业趋势",
-      "summary": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+      "summary": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
       "details": [
-        "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+        "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
       ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "threat_level": "medium",
       "heat_score": 3,
       "confidence": "media",
       "published_at": "2026-08-21",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-      "title_original": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
+      "title_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+      "title_original": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+      "summary_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
       "details_zh": [
-        "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+        "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
       ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "importance_score": 5,
       "confidence_score": 0.75,
       "push_decision": "push",
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
-          "snippet": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
+          "snippet": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": false
+      "first_seen": "2026-08-22T03:21:57.147614+00:00",
+      "is_new": true
+    },
+    {
+      "id": "2c97136073a966c7",
+      "title": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+      "details": [
+        "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-21",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+      "title_original": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+      "details_zh": [
+        "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+          "snippet": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-22T03:21:57.147614+00:00",
+      "is_new": true
     }
   ],
-  "push_events": [],
-  "pushable_events": [
+  "push_events": [
     {
-      "id": "6419215e3c37a66c",
-      "title": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-      "brand": "DJI",
+      "id": "594437d712e830dd",
+      "title": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+      "brand": "Insta360",
       "category": "hardware",
       "event_type": "行业趋势",
-      "summary": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+      "summary": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
       "details": [
-        "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+        "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
       ],
-      "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "threat_level": "medium",
       "heat_score": 3,
       "confidence": "media",
       "published_at": "2026-08-21",
       "source_name": "大疆/影石 中文动态",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
       "week_tag": "2026-W34",
       "source_id": "dji-cn-news",
       "ai_confidence": 0.0,
       "pushed": true,
-      "title_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-      "title_original": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
+      "title_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+      "title_original": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
       "language": "zh",
       "region": "domestic",
       "source_market": "CN",
-      "summary_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+      "summary_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
       "details_zh": [
-        "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+        "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
       ],
-      "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "importance_score": 5,
       "confidence_score": 0.75,
       "push_decision": "push",
       "evidence": [
         {
           "source_name": "大疆/影石 中文动态",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
-          "snippet": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
+          "snippet": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
         }
       ],
       "source_weight": 4,
-      "first_seen": "2026-08-21T03:30:36.559490+00:00",
-      "is_new": false
+      "first_seen": "2026-08-22T03:21:57.147614+00:00",
+      "is_new": true
+    },
+    {
+      "id": "2c97136073a966c7",
+      "title": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+      "details": [
+        "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-21",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+      "title_original": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+      "details_zh": [
+        "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+          "snippet": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-22T03:21:57.147614+00:00",
+      "is_new": true
+    }
+  ],
+  "pushable_events": [
+    {
+      "id": "594437d712e830dd",
+      "title": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
+      "details": [
+        "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-21",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+      "title_original": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
+      "details_zh": [
+        "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
+          "snippet": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-22T03:21:57.147614+00:00",
+      "is_new": true
+    },
+    {
+      "id": "2c97136073a966c7",
+      "title": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+      "brand": "Insta360",
+      "category": "hardware",
+      "event_type": "行业趋势",
+      "summary": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+      "details": [
+        "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+      ],
+      "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "threat_level": "medium",
+      "heat_score": 3,
+      "confidence": "media",
+      "published_at": "2026-08-21",
+      "source_name": "大疆/影石 中文动态",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+      "week_tag": "2026-W34",
+      "source_id": "dji-cn-news",
+      "ai_confidence": 0.0,
+      "pushed": true,
+      "title_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+      "title_original": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+      "language": "zh",
+      "region": "domestic",
+      "source_market": "CN",
+      "summary_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+      "details_zh": [
+        "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+      ],
+      "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+      "importance_score": 5,
+      "confidence_score": 0.75,
+      "push_decision": "push",
+      "evidence": [
+        {
+          "source_name": "大疆/影石 中文动态",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+          "snippet": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+        }
+      ],
+      "source_weight": 4,
+      "first_seen": "2026-08-22T03:21:57.147614+00:00",
+      "is_new": true
     }
   ],
   "sections": {
     "domestic": [
       {
-        "id": "6419215e3c37a66c",
-        "title": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-        "brand": "DJI",
+        "id": "26f89e4b3de7ad21",
+        "title": "深光影像推出 AF 35mm F1.4 APS-C 相机镜头：首发富士 X 卡口，649 元起",
+        "brand": "Nikon",
+        "category": "hardware",
+        "event_type": "软件更新",
+        "summary": "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1.4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元。 这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52.5mm；最近对焦距离 0.35m，滤镜尺寸 52mm。 这款镜头有银色、黑色、黑银三种颜色可选，镜身材质为金属，重约 227g。 IT之家附这款镜头详细参数如下： 京",
+        "details": [
+          "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1",
+          "4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元",
+          "这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52"
+        ],
+        "insight": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-22",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/992/934.htm",
+        "week_tag": "2026-W34",
+        "source_id": "ithome-imaging",
+        "ai_confidence": 0.0,
+        "pushed": false,
+        "title_zh": "深光影像推出 AF 35mm F1.4 APS-C 相机镜头：首发富士 X 卡口，649 元起",
+        "title_original": "深光影像推出 AF 35mm F1.4 APS-C 相机镜头：首发富士 X 卡口，649 元起",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1.4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元。 这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52.5mm；最近对焦距离 0.35m，滤镜尺寸 52mm。 这款镜头有银色、黑色、黑银三种颜色可选，镜身材质为金属，重约 227g。 IT之家附这款镜头详细参数如下： 京东 SGIMAGE 深光 AF 35mm",
+        "details_zh": [
+          "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1",
+          "4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元",
+          "这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52"
+        ],
+        "insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "dashboard_only",
+        "evidence": [
+          {
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/992/934.htm",
+            "snippet": "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1.4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元。 这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52.5mm；最近对焦距离 0.35m，滤镜尺寸 52mm。 这款镜头有银色、黑色、黑银三种颜色可选，镜身材质为金属，重约 227g。 IT之家附这款镜头详细参数如下： 京"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-22T03:21:57.147614+00:00",
+        "is_new": true
+      },
+      {
+        "id": "102eec52555b52dd",
+        "title": "iQOO Neo11 至尊版首销优惠价延续至 8 月 31 日，3399 元起",
+        "brand": "Sony",
+        "category": "hardware",
+        "event_type": "新品发布",
+        "summary": "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB",
+        "details": [
+          "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB 版本：4699 元，首销优惠价 4399 元，国补价 3899 元 iQOO 旗舰系列产品经理王侃今日宣布， iQOO Neo11 至尊版首销优惠价延续到 8 月 31 日",
+          "iQOO Neo11 至尊版首发 联发科天玑 9500M 处理器（IT之家注：与天玑 9500 相比，少一颗 GPU 核心），搭载 9600Mbps 速率的 LPDDR5X Ultra 内存，以及 UFS 4",
+          "1 闪存"
+        ],
+        "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-22",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/992/925.htm",
+        "week_tag": "2026-W34",
+        "source_id": "ithome-imaging",
+        "ai_confidence": 0.0,
+        "pushed": false,
+        "title_zh": "iQOO Neo11 至尊版首销优惠价延续至 8 月 31 日，3399 元起",
+        "title_original": "iQOO Neo11 至尊版首销优惠价延续至 8 月 31 日，3399 元起",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB 版本：4699 元，首销优惠价 439",
+        "details_zh": [
+          "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB 版本：4699 元，首销优惠价 4399 元，国补价 3899 元 iQOO 旗舰系列产品经理王侃今日宣布， iQOO Neo11 至尊版首销优惠价延续到 8 月 31 日",
+          "iQOO Neo11 至尊版首发 联发科天玑 9500M 处理器（IT之家注：与天玑 9500 相比，少一颗 GPU 核心），搭载 9600Mbps 速率的 LPDDR5X Ultra 内存，以及 UFS 4",
+          "1 闪存"
+        ],
+        "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "dashboard_only",
+        "evidence": [
+          {
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/992/925.htm",
+            "snippet": "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-22T03:21:57.147614+00:00",
+        "is_new": true
+      },
+      {
+        "id": "594437d712e830dd",
+        "title": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+        "brand": "Insta360",
         "category": "hardware",
         "event_type": "行业趋势",
-        "summary": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+        "summary": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
         "details": [
-          "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+          "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
         ],
-        "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
         "threat_level": "medium",
         "heat_score": 3,
         "confidence": "media",
         "published_at": "2026-08-21",
         "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
         "week_tag": "2026-W34",
         "source_id": "dji-cn-news",
         "ai_confidence": 0.0,
         "pushed": true,
-        "title_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-        "title_original": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
+        "title_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+        "title_original": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
         "language": "zh",
         "region": "domestic",
         "source_market": "CN",
-        "summary_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+        "summary_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
         "details_zh": [
-          "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+          "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
         ],
-        "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
         "importance_score": 5,
         "confidence_score": 0.75,
         "push_decision": "push",
         "evidence": [
           {
             "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
-            "snippet": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
+            "snippet": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
           }
         ],
         "source_weight": 4,
-        "first_seen": "2026-08-21T03:30:36.559490+00:00",
-        "is_new": false
+        "first_seen": "2026-08-22T03:21:57.147614+00:00",
+        "is_new": true
+      },
+      {
+        "id": "2c97136073a966c7",
+        "title": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+        "brand": "Insta360",
+        "category": "hardware",
+        "event_type": "行业趋势",
+        "summary": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+        "details": [
+          "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+        ],
+        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "threat_level": "medium",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-21",
+        "source_name": "大疆/影石 中文动态",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+        "week_tag": "2026-W34",
+        "source_id": "dji-cn-news",
+        "ai_confidence": 0.0,
+        "pushed": true,
+        "title_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+        "title_original": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+        "details_zh": [
+          "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+        ],
+        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "push",
+        "evidence": [
+          {
+            "source_name": "大疆/影石 中文动态",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+            "snippet": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-22T03:21:57.147614+00:00",
+        "is_new": true
       },
       {
         "id": "0f6dc34e5bee025d",
@@ -230,177 +555,38 @@
         "is_new": false
       },
       {
-        "id": "49b0ce5ccf90d24a",
-        "title": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
-        "brand": "Sony",
-        "category": "industry",
-        "event_type": "行业趋势",
-        "summary": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是",
-        "details": [
-          "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售",
-          "据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox",
-          "根据近期调查，这款主机在法国的售价是 899"
-        ],
-        "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-        "threat_level": "low",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-21",
-        "source_name": "IT之家",
-        "source_url": "https://www.ithome.com/0/992/820.htm",
-        "week_tag": "2026-W34",
-        "source_id": "ithome-imaging",
-        "ai_confidence": 0.0,
-        "pushed": false,
-        "title_zh": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
-        "title_original": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是 899.99 美元 （现汇率约合 6,",
-        "details_zh": [
-          "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售",
-          "据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox",
-          "根据近期调查，这款主机在法国的售价是 899"
-        ],
-        "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "dashboard_only",
-        "evidence": [
-          {
-            "source_name": "IT之家",
-            "url": "https://www.ithome.com/0/992/820.htm",
-            "snippet": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-21T11:00:08.955793+00:00",
-        "is_new": true
-      },
-      {
-        "id": "21fd44317a8194a7",
-        "title": "消息称一加即将在海外发布全新平价手机，专供印度市场",
+        "id": "569467a8aea800c7",
+        "title": "宝马新世代 BMW i3 更多规格公布：9 款车漆 + 4 款内饰，续航超 1000 公里",
         "brand": "Other",
-        "category": "hardware",
-        "event_type": "新品发布",
-        "summary": "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络。 据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售 。 根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端。 作为参考，一加曾在上个月推出 N6x 手机。IT之家了解到，该机配备联发科天玑 6360 Apex 芯片、7000mAh ",
-        "details": [
-          "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络",
-          "据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售",
-          "根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端"
-        ],
-        "insight": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "threat_level": "low",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-21",
-        "source_name": "IT之家",
-        "source_url": "https://www.ithome.com/0/992/798.htm",
-        "week_tag": "2026-W34",
-        "source_id": "ithome-imaging",
-        "ai_confidence": 0.0,
-        "pushed": false,
-        "title_zh": "消息称一加即将在海外发布全新平价手机，专供印度市场",
-        "title_original": "消息称一加即将在海外发布全新平价手机，专供印度市场",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络。 据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售 。 根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端。 作为参考，一加曾在上个月推出 N6x 手机。IT之家了解到，该机配备联发科天玑 6360 Apex 芯片、7000mAh 电池、6.8 英寸 LCD 屏幕以及 1",
-        "details_zh": [
-          "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络",
-          "据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售",
-          "根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端"
-        ],
-        "insight_zh": "Other 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "dashboard_only",
-        "evidence": [
-          {
-            "source_name": "IT之家",
-            "url": "https://www.ithome.com/0/992/798.htm",
-            "snippet": "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络。 据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售 。 根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端。 作为参考，一加曾在上个月推出 N6x 手机。IT之家了解到，该机配备联发科天玑 6360 Apex 芯片、7000mAh "
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-21T11:00:08.955793+00:00",
-        "is_new": true
-      },
-      {
-        "id": "72049fe2cf89fb74",
-        "title": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 - 爱范儿",
-        "brand": "Insta360",
-        "category": "industry",
-        "event_type": "行业趋势",
-        "summary": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿",
-        "details": [
-          "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿"
-        ],
-        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "threat_level": "low",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-21",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1XMXFWcktGdEhBcTZrMXhxcW56R0I5X29CWVBaZ1ZEZ21LSEdkY29xY2xwMmx1UmhObHRKSE90S0lDSkU?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": false,
-        "title_zh": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 - 爱范儿",
-        "title_original": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 - 爱范儿",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿",
-        "details_zh": [
-          "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿"
-        ],
-        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "dashboard_only",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1XMXFWcktGdEhBcTZrMXhxcW56R0I5X29CWVBaZ1ZEZ21LSEdkY29xY2xwMmx1UmhObHRKSE90S0lDSkU?oc=5",
-            "snippet": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕 爱范儿"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-21T11:00:08.955793+00:00",
-        "is_new": true
-      },
-      {
-        "id": "2721bd472321b555",
-        "title": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
-        "brand": "DJI",
         "category": "pmf",
         "event_type": "场景信号",
-        "summary": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家",
+        "summary": "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息。 IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆 。 座舱方面，该车采用环",
         "details": [
-          "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+          "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息",
+          "IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆",
+          "座舱方面，该车采用环抱式瀑布氛围灯与灵动透光面板，提供座椅加热、通风、按摩等舒适配置；全景一体式防晒天幕，三层镀银低辐射，防晒率高达 99"
         ],
         "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
         "threat_level": "low",
         "heat_score": 3,
         "confidence": "media",
-        "published_at": "2026-08-21",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44UUpOQUdxcVdhUGJJbGVVeS1wVG5pSlpIcFZPYzFDYlNpc0tjMC00TjlEc0o2MjZWaDFXSWNXemVNTVRJQ3FhcjVuU3BUNGMzbVExeUUxTks?oc=5",
+        "published_at": "2026-08-22",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/992/927.htm",
         "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
+        "source_id": "ithome-imaging",
         "ai_confidence": 0.0,
         "pushed": false,
-        "title_zh": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
-        "title_original": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
+        "title_zh": "宝马新世代 BMW i3 更多规格公布：9 款车漆 + 4 款内饰，续航超 1000 公里",
+        "title_original": "宝马新世代 BMW i3 更多规格公布：9 款车漆 + 4 款内饰，续航超 1000 公里",
         "language": "zh",
         "region": "domestic",
         "source_market": "CN",
-        "summary_zh": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家",
+        "summary_zh": "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息。 IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆 。 座舱方面，该车采用环抱式瀑布氛围灯与灵动透光面板，提供座椅加",
         "details_zh": [
-          "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+          "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息",
+          "IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆",
+          "座舱方面，该车采用环抱式瀑布氛围灯与灵动透光面板，提供座椅加热、通风、按摩等舒适配置；全景一体式防晒天幕，三层镀银低辐射，防晒率高达 99"
         ],
         "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
         "importance_score": 5,
@@ -408,13 +594,13 @@
         "push_decision": "dashboard_only",
         "evidence": [
           {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44UUpOQUdxcVdhUGJJbGVVeS1wVG5pSlpIcFZPYzFDYlNpc0tjMC00TjlEc0o2MjZWaDFXSWNXemVNTVRJQ3FhcjVuU3BUNGMzbVExeUUxTks?oc=5",
-            "snippet": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 驱动之家"
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/992/927.htm",
+            "snippet": "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息。 IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆 。 座舱方面，该车采用环"
           }
         ],
         "source_weight": 4,
-        "first_seen": "2026-08-21T11:00:08.955793+00:00",
+        "first_seen": "2026-08-22T03:21:57.147614+00:00",
         "is_new": true
       }
     ],
@@ -423,6 +609,104 @@
     "community": [],
     "pmf": [
       {
+        "id": "569467a8aea800c7",
+        "title": "宝马新世代 BMW i3 更多规格公布：9 款车漆 + 4 款内饰，续航超 1000 公里",
+        "brand": "Other",
+        "category": "pmf",
+        "event_type": "场景信号",
+        "summary": "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息。 IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆 。 座舱方面，该车采用环",
+        "details": [
+          "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息",
+          "IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆",
+          "座舱方面，该车采用环抱式瀑布氛围灯与灵动透光面板，提供座椅加热、通风、按摩等舒适配置；全景一体式防晒天幕，三层镀银低辐射，防晒率高达 99"
+        ],
+        "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+        "threat_level": "low",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-22",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/992/927.htm",
+        "week_tag": "2026-W34",
+        "source_id": "ithome-imaging",
+        "ai_confidence": 0.0,
+        "pushed": false,
+        "title_zh": "宝马新世代 BMW i3 更多规格公布：9 款车漆 + 4 款内饰，续航超 1000 公里",
+        "title_original": "宝马新世代 BMW i3 更多规格公布：9 款车漆 + 4 款内饰，续航超 1000 公里",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息。 IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆 。 座舱方面，该车采用环抱式瀑布氛围灯与灵动透光面板，提供座椅加",
+        "details_zh": [
+          "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息",
+          "IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆",
+          "座舱方面，该车采用环抱式瀑布氛围灯与灵动透光面板，提供座椅加热、通风、按摩等舒适配置；全景一体式防晒天幕，三层镀银低辐射，防晒率高达 99"
+        ],
+        "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "dashboard_only",
+        "evidence": [
+          {
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/992/927.htm",
+            "snippet": "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息。 IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆 。 座舱方面，该车采用环"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-22T03:21:57.147614+00:00",
+        "is_new": true
+      },
+      {
+        "id": "fe2bdcf777b68636",
+        "title": "5G 商用网络实现十厘米级别定位精度，爱立信、联发科完成全球首例高精度户外定位端到端测试",
+        "brand": "Other",
+        "category": "pmf",
+        "event_type": "场景信号",
+        "summary": "IT之家 8 月 22 日消息，爱立信宣布，与联发科成功完成 全球首例 高精度户外定位端到端（e2e）测试。 IT之家获悉，双方利用符合 3GPP 标准的全球导航卫星系统（GNSS）实时动态（RTK）技术， 在 5G 商用网络上直接实现了十厘米级别的定位精度 。 传统 GNSS 的精度通常为几米。基于 3GPP 的实时动态（RTK）技术利用参考站网络生成辅助数据，并通过蜂窝网络以大规模方式将这些数据分发至设备。设备利用这些辅助数据，实时",
+        "details": [
+          "IT之家 8 月 22 日消息，爱立信宣布，与联发科成功完成 全球首例 高精度户外定位端到端（e2e）测试",
+          "IT之家获悉，双方利用符合 3GPP 标准的全球导航卫星系统（GNSS）实时动态（RTK）技术， 在 5G 商用网络上直接实现了十厘米级别的定位精度",
+          "传统 GNSS 的精度通常为几米"
+        ],
+        "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+        "threat_level": "low",
+        "heat_score": 3,
+        "confidence": "media",
+        "published_at": "2026-08-22",
+        "source_name": "IT之家",
+        "source_url": "https://www.ithome.com/0/992/903.htm",
+        "week_tag": "2026-W34",
+        "source_id": "ithome-imaging",
+        "ai_confidence": 0.0,
+        "pushed": false,
+        "title_zh": "5G 商用网络实现十厘米级别定位精度，爱立信、联发科完成全球首例高精度户外定位端到端测试",
+        "title_original": "5G 商用网络实现十厘米级别定位精度，爱立信、联发科完成全球首例高精度户外定位端到端测试",
+        "language": "zh",
+        "region": "domestic",
+        "source_market": "CN",
+        "summary_zh": "IT之家 8 月 22 日消息，爱立信宣布，与联发科成功完成 全球首例 高精度户外定位端到端（e2e）测试。 IT之家获悉，双方利用符合 3GPP 标准的全球导航卫星系统（GNSS）实时动态（RTK）技术， 在 5G 商用网络上直接实现了十厘米级别的定位精度 。 传统 GNSS 的精度通常为几米。基于 3GPP 的实时动态（RTK）技术利用参考站网络生成辅助数据，并通过蜂窝网络以大规模方式将这些数据分发至设备。设备利用这些辅助数据，实时校正大气中的信号延迟和卫星误差，从而为当",
+        "details_zh": [
+          "IT之家 8 月 22 日消息，爱立信宣布，与联发科成功完成 全球首例 高精度户外定位端到端（e2e）测试",
+          "IT之家获悉，双方利用符合 3GPP 标准的全球导航卫星系统（GNSS）实时动态（RTK）技术， 在 5G 商用网络上直接实现了十厘米级别的定位精度",
+          "传统 GNSS 的精度通常为几米"
+        ],
+        "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+        "importance_score": 5,
+        "confidence_score": 0.75,
+        "push_decision": "dashboard_only",
+        "evidence": [
+          {
+            "source_name": "IT之家",
+            "url": "https://www.ithome.com/0/992/903.htm",
+            "snippet": "IT之家 8 月 22 日消息，爱立信宣布，与联发科成功完成 全球首例 高精度户外定位端到端（e2e）测试。 IT之家获悉，双方利用符合 3GPP 标准的全球导航卫星系统（GNSS）实时动态（RTK）技术， 在 5G 商用网络上直接实现了十厘米级别的定位精度 。 传统 GNSS 的精度通常为几米。基于 3GPP 的实时动态（RTK）技术利用参考站网络生成辅助数据，并通过蜂窝网络以大规模方式将这些数据分发至设备。设备利用这些辅助数据，实时"
+          }
+        ],
+        "source_weight": 4,
+        "first_seen": "2026-08-22T03:21:57.147614+00:00",
+        "is_new": true
+      },
+      {
         "id": "2721bd472321b555",
         "title": "多维协同赋能影像新境：DJI 大疆专业影像生态亮相 BIRTV 2026 - 驱动之家",
         "brand": "DJI",
@@ -465,52 +749,7 @@
         ],
         "source_weight": 4,
         "first_seen": "2026-08-21T11:00:08.955793+00:00",
-        "is_new": true
-      },
-      {
-        "id": "9c7a16f8018e8fdc",
-        "title": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
-        "brand": "Insta360",
-        "category": "pmf",
-        "event_type": "场景信号",
-        "summary": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网",
-        "details": [
-          "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
-        ],
-        "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "threat_level": "low",
-        "heat_score": 3,
-        "confidence": "media",
-        "published_at": "2026-08-21",
-        "source_name": "大疆/影石 中文动态",
-        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVpKQnBFZjFGamNmTzloTkJUQ2U2Q0RSTmp2ODlicGtSMW9NdkRmbEtDZ1c3OTlQQjlhZTA3LXZuQ20zcEdhUVh6cXRTdjVEcUd5dFphclMwenliUGhRc1UxTzZwcnQ0dUt3c2x0QlJqWmZDUklnZnhzVmtUZDJJRw?oc=5",
-        "week_tag": "2026-W34",
-        "source_id": "dji-cn-news",
-        "ai_confidence": 0.0,
-        "pushed": false,
-        "title_zh": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
-        "title_original": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
-        "language": "zh",
-        "region": "domestic",
-        "source_market": "CN",
-        "summary_zh": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网",
-        "details_zh": [
-          "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
-        ],
-        "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-        "importance_score": 5,
-        "confidence_score": 0.75,
-        "push_decision": "dashboard_only",
-        "evidence": [
-          {
-            "source_name": "大疆/影石 中文动态",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVpKQnBFZjFGamNmTzloTkJUQ2U2Q0RSTmp2ODlicGtSMW9NdkRmbEtDZ1c3OTlQQjlhZTA3LXZuQ20zcEdhUVh6cXRTdjVEcUd5dFphclMwenliUGhRc1UxTzZwcnQ0dUt3c2x0QlJqWmZDUklnZnhzVmtUZDJJRw?oc=5",
-            "snippet": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
-          }
-        ],
-        "source_weight": 4,
-        "first_seen": "2026-08-21T11:00:08.955793+00:00",
-        "is_new": true
+        "is_new": false
       }
     ]
   },
@@ -518,17 +757,106 @@
     {
       "brand": "Insta360",
       "is_self": true,
-      "event_count": 3,
+      "event_count": 4,
       "new_count": 2,
       "threat_summary": "medium",
       "max_importance": 5,
       "category_mix": {
-        "hardware": 1,
-        "industry": 1,
-        "pmf": 1
+        "hardware": 3,
+        "industry": 1
       },
       "key_insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
       "latest_events": [
+        {
+          "id": "594437d712e830dd",
+          "title": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+          "brand": "Insta360",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
+          "details": [
+            "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
+          ],
+          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-21",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+          "title_original": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 - 新浪财经",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经",
+          "details_zh": [
+            "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
+          ],
+          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3B1ek1uWlVydVhzYWd3cThCOVFwWmdrWUpXS0oxZmtJSU9SYzZ5TkN5WkVmSld6eUt0SDVESmxURWdxenBIcGRjbGY2RHFkT3pjOFlObC16dTFLSnpkZ3JXTHAxNTN1eS1MVnV4UW04SFAteGNKdUwwanE1UXZnSnlfV3FnbE9kX0kzM3RKTEdfUjl4QVd2R2NNZDJwWHBOMWtKUi1TeTZuX09xNFYzQnhn?oc=5",
+              "snippet": "影石Luna Pro云台相机快传功能：碰一下就传文件|徕卡(Leica)|Insta360|刘靖康|手机|创始人_手机新浪网 新浪财经"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-22T03:21:57.147614+00:00",
+          "is_new": true
+        },
+        {
+          "id": "2c97136073a966c7",
+          "title": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+          "brand": "Insta360",
+          "category": "hardware",
+          "event_type": "行业趋势",
+          "summary": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+          "details": [
+            "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+          ],
+          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-21",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": true,
+          "title_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+          "title_original": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 - 新浪财经",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经",
+          "details_zh": [
+            "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+          ],
+          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "push",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydzV5c0tfeXBTVWVxYml6dEZCcUhHN3ZWcUZYWDhqV2pVTHBLNS1RVUxla3FtX1JaRW1ncWJKSHZYaUUtcVZVeDhvcmNkTnhDU2JBVGZsV2phaDNJallFV3doa3BHcGc4QUljOHB5YmlSdXpYX0RrVTRzQmwxT1U?oc=5",
+              "snippet": "影石 CEO 介绍 Luna Pro 云台相机「Kiss & Fly」快传功能，手机 NFC 轻碰即可高速传文件 新浪财经"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-22T03:21:57.147614+00:00",
+          "is_new": true
+        },
         {
           "id": "0f6dc34e5bee025d",
           "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
@@ -619,51 +947,132 @@
           ],
           "source_weight": 4,
           "first_seen": "2026-08-21T11:00:08.955793+00:00",
-          "is_new": true
-        },
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "brand": "Nikon",
+      "is_self": false,
+      "event_count": 1,
+      "new_count": 1,
+      "threat_summary": "medium",
+      "max_importance": 5,
+      "category_mix": {
+        "hardware": 1
+      },
+      "key_insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "latest_events": [
         {
-          "id": "9c7a16f8018e8fdc",
-          "title": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
-          "brand": "Insta360",
-          "category": "pmf",
-          "event_type": "场景信号",
-          "summary": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网",
+          "id": "26f89e4b3de7ad21",
+          "title": "深光影像推出 AF 35mm F1.4 APS-C 相机镜头：首发富士 X 卡口，649 元起",
+          "brand": "Nikon",
+          "category": "hardware",
+          "event_type": "软件更新",
+          "summary": "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1.4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元。 这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52.5mm；最近对焦距离 0.35m，滤镜尺寸 52mm。 这款镜头有银色、黑色、黑银三种颜色可选，镜身材质为金属，重约 227g。 IT之家附这款镜头详细参数如下： 京",
           "details": [
-            "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
+            "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1",
+            "4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元",
+            "这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52"
           ],
-          "insight": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
-          "threat_level": "low",
+          "insight": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
           "heat_score": 3,
           "confidence": "media",
-          "published_at": "2026-08-21",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVpKQnBFZjFGamNmTzloTkJUQ2U2Q0RSTmp2ODlicGtSMW9NdkRmbEtDZ1c3OTlQQjlhZTA3LXZuQ20zcEdhUVh6cXRTdjVEcUd5dFphclMwenliUGhRc1UxTzZwcnQ0dUt3c2x0QlJqWmZDUklnZnhzVmtUZDJJRw?oc=5",
+          "published_at": "2026-08-22",
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/0/992/934.htm",
           "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
+          "source_id": "ithome-imaging",
           "ai_confidence": 0.0,
           "pushed": false,
-          "title_zh": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
-          "title_original": "影石X6全景相机搭配理想L6，开启公路旅行新视角 - 手机新浪网",
+          "title_zh": "深光影像推出 AF 35mm F1.4 APS-C 相机镜头：首发富士 X 卡口，649 元起",
+          "title_original": "深光影像推出 AF 35mm F1.4 APS-C 相机镜头：首发富士 X 卡口，649 元起",
           "language": "zh",
           "region": "domestic",
           "source_market": "CN",
-          "summary_zh": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网",
+          "summary_zh": "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1.4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元。 这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52.5mm；最近对焦距离 0.35m，滤镜尺寸 52mm。 这款镜头有银色、黑色、黑银三种颜色可选，镜身材质为金属，重约 227g。 IT之家附这款镜头详细参数如下： 京东 SGIMAGE 深光 AF 35mm",
           "details_zh": [
-            "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
+            "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1",
+            "4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元",
+            "这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52"
           ],
-          "insight_zh": "自有品牌动态，建议同步关注用户反馈、渠道节奏与配套软件承接。",
+          "insight_zh": "Nikon 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
           "importance_score": 5,
           "confidence_score": 0.75,
           "push_decision": "dashboard_only",
           "evidence": [
             {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVpKQnBFZjFGamNmTzloTkJUQ2U2Q0RSTmp2ODlicGtSMW9NdkRmbEtDZ1c3OTlQQjlhZTA3LXZuQ20zcEdhUVh6cXRTdjVEcUd5dFphclMwenliUGhRc1UxTzZwcnQ0dUt3c2x0QlJqWmZDUklnZnhzVmtUZDJJRw?oc=5",
-              "snippet": "影石X6全景相机搭配理想L6，开启公路旅行新视角 手机新浪网"
+              "source_name": "IT之家",
+              "url": "https://www.ithome.com/0/992/934.htm",
+              "snippet": "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1.4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元。 这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52.5mm；最近对焦距离 0.35m，滤镜尺寸 52mm。 这款镜头有银色、黑色、黑银三种颜色可选，镜身材质为金属，重约 227g。 IT之家附这款镜头详细参数如下： 京"
             }
           ],
           "source_weight": 4,
-          "first_seen": "2026-08-21T11:00:08.955793+00:00",
+          "first_seen": "2026-08-22T03:21:57.147614+00:00",
+          "is_new": true
+        }
+      ]
+    },
+    {
+      "brand": "Sony",
+      "is_self": false,
+      "event_count": 1,
+      "new_count": 1,
+      "threat_summary": "medium",
+      "max_importance": 5,
+      "category_mix": {
+        "hardware": 1
+      },
+      "key_insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "latest_events": [
+        {
+          "id": "102eec52555b52dd",
+          "title": "iQOO Neo11 至尊版首销优惠价延续至 8 月 31 日，3399 元起",
+          "brand": "Sony",
+          "category": "hardware",
+          "event_type": "新品发布",
+          "summary": "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB",
+          "details": [
+            "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB 版本：4699 元，首销优惠价 4399 元，国补价 3899 元 iQOO 旗舰系列产品经理王侃今日宣布， iQOO Neo11 至尊版首销优惠价延续到 8 月 31 日",
+            "iQOO Neo11 至尊版首发 联发科天玑 9500M 处理器（IT之家注：与天玑 9500 相比，少一颗 GPU 核心），搭载 9600Mbps 速率的 LPDDR5X Ultra 内存，以及 UFS 4",
+            "1 闪存"
+          ],
+          "insight": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "threat_level": "medium",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-22",
+          "source_name": "IT之家",
+          "source_url": "https://www.ithome.com/0/992/925.htm",
+          "week_tag": "2026-W34",
+          "source_id": "ithome-imaging",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "iQOO Neo11 至尊版首销优惠价延续至 8 月 31 日，3399 元起",
+          "title_original": "iQOO Neo11 至尊版首销优惠价延续至 8 月 31 日，3399 元起",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB 版本：4699 元，首销优惠价 439",
+          "details_zh": [
+            "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB 版本：4699 元，首销优惠价 4399 元，国补价 3899 元 iQOO 旗舰系列产品经理王侃今日宣布， iQOO Neo11 至尊版首销优惠价延续到 8 月 31 日",
+            "iQOO Neo11 至尊版首发 联发科天玑 9500M 处理器（IT之家注：与天玑 9500 相比，少一颗 GPU 核心），搭载 9600Mbps 速率的 LPDDR5X Ultra 内存，以及 UFS 4",
+            "1 闪存"
+          ],
+          "insight_zh": "Sony 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "IT之家",
+              "url": "https://www.ithome.com/0/992/925.htm",
+              "snippet": "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-22T03:21:57.147614+00:00",
           "is_new": true
         }
       ]
@@ -671,61 +1080,150 @@
     {
       "brand": "DJI",
       "is_self": false,
-      "event_count": 3,
-      "new_count": 1,
-      "threat_summary": "medium",
+      "event_count": 4,
+      "new_count": 3,
+      "threat_summary": "low",
       "max_importance": 5,
       "category_mix": {
-        "hardware": 1,
-        "pmf": 1,
-        "industry": 1
+        "industry": 3,
+        "pmf": 1
       },
-      "key_insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+      "key_insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
       "latest_events": [
         {
-          "id": "6419215e3c37a66c",
-          "title": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
+          "id": "b9e783e1e5726797",
+          "title": "影石大疆又在近百亿的池子里狭路相逢了 - 凤凰网",
           "brand": "DJI",
-          "category": "hardware",
+          "category": "industry",
           "event_type": "行业趋势",
-          "summary": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+          "summary": "影石大疆又在近百亿的池子里狭路相逢了 凤凰网",
           "details": [
-            "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+            "影石大疆又在近百亿的池子里狭路相逢了 凤凰网"
           ],
-          "insight": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
-          "threat_level": "medium",
+          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "threat_level": "low",
           "heat_score": 3,
           "confidence": "media",
           "published_at": "2026-08-21",
           "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wNUoxMldwbXh4TmdRMjBGY2JCX1lCcmxlYmNNUGN5V2JIVmlXa3BqY2oySHhjZTcwcmRibk1hWllvd2UxYWFtTmE5QW1BdDNa?oc=5",
           "week_tag": "2026-W34",
           "source_id": "dji-cn-news",
           "ai_confidence": 0.0,
-          "pushed": true,
-          "title_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
-          "title_original": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 - 搜狐网",
+          "pushed": false,
+          "title_zh": "影石大疆又在近百亿的池子里狭路相逢了 - 凤凰网",
+          "title_original": "影石大疆又在近百亿的池子里狭路相逢了 - 凤凰网",
           "language": "zh",
           "region": "domestic",
           "source_market": "CN",
-          "summary_zh": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网",
+          "summary_zh": "影石大疆又在近百亿的池子里狭路相逢了 凤凰网",
           "details_zh": [
-            "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+            "影石大疆又在近百亿的池子里狭路相逢了 凤凰网"
           ],
-          "insight_zh": "DJI 硬件动态可能影响同价位产品定位、发布节奏和对比话术。",
+          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
           "importance_score": 5,
           "confidence_score": 0.75,
-          "push_decision": "push",
+          "push_decision": "dashboard_only",
           "evidence": [
             {
               "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVwT1prMnBYQmRKNTVYeEpZYUtUOE9ZSEVjRHhaTHFraFdvd3NkSVY5OUpaV0tTTG1ibUZJWG9OY3ctS2lQWEpHQmJSbDBIRkR0a1NJWG4zaVRHaWxlOGRCbEVQZU04UHdwaXp4SEhrM0pEMUJTX0xGS21fUUtlYWg2cXdpV25t?oc=5",
-              "snippet": "比大疆Pocket 4贵！影石Luna Pro卖3399的底气，在于这两点 搜狐网"
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wNUoxMldwbXh4TmdRMjBGY2JCX1lCcmxlYmNNUGN5V2JIVmlXa3BqY2oySHhjZTcwcmRibk1hWllvd2UxYWFtTmE5QW1BdDNa?oc=5",
+              "snippet": "影石大疆又在近百亿的池子里狭路相逢了 凤凰网"
             }
           ],
           "source_weight": 4,
-          "first_seen": "2026-08-21T03:30:36.559490+00:00",
-          "is_new": false
+          "first_seen": "2026-08-22T03:21:57.147614+00:00",
+          "is_new": true
+        },
+        {
+          "id": "fa7868a503687b2e",
+          "title": "安装在朱雀火箭上的大疆无人机摄像头 - 手机新浪网",
+          "brand": "DJI",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "安装在朱雀火箭上的大疆无人机摄像头 手机新浪网",
+          "details": [
+            "安装在朱雀火箭上的大疆无人机摄像头 手机新浪网"
+          ],
+          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-21",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTlRMOWdGanZ2Q3RmQll3X2JDRFRacFFqRTRlM3NxUjlhMVM0a2d0Z05YN2gyaFE5THFCaEw3XzctZXhqenNUX1g5MVo4RW12Y05xN28zVVB5SHhRYXVJMzhWNnF5X0JtVXpUWENUUG9HX2pxakVyMEk4eWM1Nk1McnNn?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "安装在朱雀火箭上的大疆无人机摄像头 - 手机新浪网",
+          "title_original": "安装在朱雀火箭上的大疆无人机摄像头 - 手机新浪网",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "安装在朱雀火箭上的大疆无人机摄像头 手机新浪网",
+          "details_zh": [
+            "安装在朱雀火箭上的大疆无人机摄像头 手机新浪网"
+          ],
+          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTlRMOWdGanZ2Q3RmQll3X2JDRFRacFFqRTRlM3NxUjlhMVM0a2d0Z05YN2gyaFE5THFCaEw3XzctZXhqenNUX1g5MVo4RW12Y05xN28zVVB5SHhRYXVJMzhWNnF5X0JtVXpUWENUUG9HX2pxakVyMEk4eWM1Nk1McnNn?oc=5",
+              "snippet": "安装在朱雀火箭上的大疆无人机摄像头 手机新浪网"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-22T03:21:57.147614+00:00",
+          "is_new": true
+        },
+        {
+          "id": "410d77e7b0d37c9b",
+          "title": "冲击250亿，拓竹复刻大疆第一步：隔壁开店圈地 - 新浪财经",
+          "brand": "DJI",
+          "category": "industry",
+          "event_type": "行业趋势",
+          "summary": "冲击250亿，拓竹复刻大疆第一步：隔壁开店圈地 新浪财经",
+          "details": [
+            "冲击250亿，拓竹复刻大疆第一步：隔壁开店圈地 新浪财经"
+          ],
+          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "threat_level": "low",
+          "heat_score": 3,
+          "confidence": "media",
+          "published_at": "2026-08-21",
+          "source_name": "大疆/影石 中文动态",
+          "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXY0MGlheFRHWEp4NzVmWW5RWGhaX3piZkkzYU8tU2VQRHlFYlU1WUd4YzZEVTEzSE1kTFRJYi1KVVZxTm1wYzlXUXcxaF9rSE1GWUFfbXZGcUZscGo0Q0RVbVpubVk4bEMzRkVhT20zdGxrVHBOZHN1WFpZWmI0ZFpGRW43eUJ1Y1VFZXlEUFFPWkJ4bHktQ05QREpTalhNd1cwcGotTnlKX21pdVBvY3Z3?oc=5",
+          "week_tag": "2026-W34",
+          "source_id": "dji-cn-news",
+          "ai_confidence": 0.0,
+          "pushed": false,
+          "title_zh": "冲击250亿，拓竹复刻大疆第一步：隔壁开店圈地 - 新浪财经",
+          "title_original": "冲击250亿，拓竹复刻大疆第一步：隔壁开店圈地 - 新浪财经",
+          "language": "zh",
+          "region": "domestic",
+          "source_market": "CN",
+          "summary_zh": "冲击250亿，拓竹复刻大疆第一步：隔壁开店圈地 新浪财经",
+          "details_zh": [
+            "冲击250亿，拓竹复刻大疆第一步：隔壁开店圈地 新浪财经"
+          ],
+          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
+          "importance_score": 5,
+          "confidence_score": 0.75,
+          "push_decision": "dashboard_only",
+          "evidence": [
+            {
+              "source_name": "大疆/影石 中文动态",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXY0MGlheFRHWEp4NzVmWW5RWGhaX3piZkkzYU8tU2VQRHlFYlU1WUd4YzZEVTEzSE1kTFRJYi1KVVZxTm1wYzlXUXcxaF9rSE1GWUFfbXZGcUZscGo0Q0RVbVpubVk4bEMzRkVhT20zdGxrVHBOZHN1WFpZWmI0ZFpGRW43eUJ1Y1VFZXlEUFFPWkJ4bHktQ05QREpTalhNd1cwcGotTnlKX21pdVBvY3Z3?oc=5",
+              "snippet": "冲击250亿，拓竹复刻大疆第一步：隔壁开店圈地 新浪财经"
+            }
+          ],
+          "source_weight": 4,
+          "first_seen": "2026-08-22T03:21:57.147614+00:00",
+          "is_new": true
         },
         {
           "id": "2721bd472321b555",
@@ -770,115 +1268,7 @@
           ],
           "source_weight": 4,
           "first_seen": "2026-08-21T11:00:08.955793+00:00",
-          "is_new": true
-        },
-        {
-          "id": "d05806e7729f317b",
-          "title": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - 新浪财经",
-          "brand": "DJI",
-          "category": "industry",
-          "event_type": "行业趋势",
-          "summary": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经",
-          "details": [
-            "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经"
-          ],
-          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "threat_level": "low",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-21",
-          "source_name": "大疆/影石 中文动态",
-          "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1dpUzgyQVhMbHZrb3lYSlRGdFhQY2tpUWhvand3Q3JzNW4xYmNQMGh5YkUxVjVhMHRZcm1DVXd5S0dDZ0ZNdGJ6b1YzZUJBVEt0NEd3dlJnVTRpd0xDdzBEUHNXTkRmWXd4Mk51U1UyUjNrNnJnUlpOMl9jRUtrbHZDcFBib3dNZkNoWUgwM1Fmb0RYOWpvdjBIUkJPanJqTzhsdkdORQ?oc=5",
-          "week_tag": "2026-W34",
-          "source_id": "dji-cn-news",
-          "ai_confidence": 0.0,
-          "pushed": false,
-          "title_zh": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - 新浪财经",
-          "title_original": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 - 新浪财经",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经",
-          "details_zh": [
-            "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经"
-          ],
-          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "dashboard_only",
-          "evidence": [
-            {
-              "source_name": "大疆/影石 中文动态",
-              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1dpUzgyQVhMbHZrb3lYSlRGdFhQY2tpUWhvand3Q3JzNW4xYmNQMGh5YkUxVjVhMHRZcm1DVXd5S0dDZ0ZNdGJ6b1YzZUJBVEt0NEd3dlJnVTRpd0xDdzBEUHNXTkRmWXd4Mk51U1UyUjNrNnJnUlpOMl9jRUtrbHZDcFBib3dNZkNoWUgwM1Fmb0RYOWpvdjBIUkJPanJqTzhsdkdORQ?oc=5",
-              "snippet": "大疆DJI Mic Mini 2S无线麦克风体验：这么小的无线麦终于也能给收音留个后手|手机|发射器|人声|环境|录音_手机新浪网 新浪财经"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-21T03:30:36.559490+00:00",
           "is_new": false
-        }
-      ]
-    },
-    {
-      "brand": "Sony",
-      "is_self": false,
-      "event_count": 1,
-      "new_count": 1,
-      "threat_summary": "low",
-      "max_importance": 5,
-      "category_mix": {
-        "industry": 1
-      },
-      "key_insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-      "latest_events": [
-        {
-          "id": "49b0ce5ccf90d24a",
-          "title": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
-          "brand": "Sony",
-          "category": "industry",
-          "event_type": "行业趋势",
-          "summary": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是",
-          "details": [
-            "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售",
-            "据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox",
-            "根据近期调查，这款主机在法国的售价是 899"
-          ],
-          "insight": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "threat_level": "low",
-          "heat_score": 3,
-          "confidence": "media",
-          "published_at": "2026-08-21",
-          "source_name": "IT之家",
-          "source_url": "https://www.ithome.com/0/992/820.htm",
-          "week_tag": "2026-W34",
-          "source_id": "ithome-imaging",
-          "ai_confidence": 0.0,
-          "pushed": false,
-          "title_zh": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
-          "title_original": "消息称微软 Xbox Series X 主机 25 周年纪念版 11 月上市，899 美元",
-          "language": "zh",
-          "region": "domestic",
-          "source_market": "CN",
-          "summary_zh": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是 899.99 美元 （现汇率约合 6,",
-          "details_zh": [
-            "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售",
-            "据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox",
-            "根据近期调查，这款主机在法国的售价是 899"
-          ],
-          "insight_zh": "该动态可作为影像行业趋势输入，建议结合产品路线、内容场景和渠道反馈继续观察。",
-          "importance_score": 5,
-          "confidence_score": 0.75,
-          "push_decision": "dashboard_only",
-          "evidence": [
-            {
-              "source_name": "IT之家",
-              "url": "https://www.ithome.com/0/992/820.htm",
-              "snippet": "IT之家 8 月 21 日消息，消息人士 billbil-kun 今日发文称，微软 Xbox Series X 主机 25 周年纪念版（Xbox Series X25）将在黑色星期五（11 月 27 日）当天正式发售。 据介绍，Xbox Series X25 采用绿色半透明外壳，致敬 2001 年推出的初代 Xbox。根据近期调查，这款主机在法国的售价是 899.99 欧元 （IT之家注：现汇率约合 7,082 元人民币） ， 美国则是"
-            }
-          ],
-          "source_weight": 4,
-          "first_seen": "2026-08-21T11:00:08.955793+00:00",
-          "is_new": true
         }
       ]
     }
@@ -993,6 +1383,16 @@
       "pushed_count": 0,
       "source_ok": 25,
       "source_failed": 2
+    },
+    {
+      "generated_at": "2026-08-22T03:21:57.147614+00:00",
+      "candidate_count": 30,
+      "new_count": 23,
+      "updated_count": 0,
+      "pushable_count": 2,
+      "pushed_count": 0,
+      "source_ok": 25,
+      "source_failed": 2
     }
   ],
   "health": [
@@ -1088,7 +1488,7 @@
       "source_id": "gnews-gopro-deals",
       "name": "GoPro 促销动态",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "region": "global",
       "language": "en"
     },
@@ -1096,7 +1496,7 @@
       "source_id": "gnews-cn-promo",
       "name": "大疆/影石 促销动态",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "region": "domestic",
       "language": "zh"
     },
@@ -1104,7 +1504,7 @@
       "source_id": "gnews-cam-promo",
       "name": "影像设备促销动态",
       "ok": true,
-      "count": 5,
+      "count": 4,
       "region": "domestic",
       "language": "zh"
     },
@@ -1223,7 +1623,7 @@
     "stage": "fallback"
   },
   "quality": {
-    "generated_at": "2026-08-21T11:00:08.958684+00:00",
+    "generated_at": "2026-08-22T03:21:57.150440+00:00",
     "source_ok": 25,
     "source_failed": 2,
     "ai_enabled": false,
@@ -1231,14 +1631,14 @@
     "ai_stage": "fallback",
     "ai_fallback_count": 30,
     "events_total": 30,
-    "events_pushed": 1,
+    "events_pushed": 2,
     "events_discarded": 0,
     "events_without_evidence": 0,
     "top5_source_mix": {
-      "大疆/影石 中文动态": 1
+      "大疆/影石 中文动态": 2
     },
     "top5_region_mix": {
-      "domestic": 1
+      "domestic": 2
     }
   },
   "category_labels": {

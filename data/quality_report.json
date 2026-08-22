@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:00:08.958684+00:00",
+  "generated_at": "2026-08-22T03:21:57.150440+00:00",
   "source_ok": 25,
   "source_failed": 2,
   "ai_enabled": false,
@@ -7,13 +7,13 @@
   "ai_stage": "fallback",
   "ai_fallback_count": 30,
   "events_total": 30,
-  "events_pushed": 1,
+  "events_pushed": 2,
   "events_discarded": 0,
   "events_without_evidence": 0,
   "top5_source_mix": {
-    "大疆/影石 中文动态": 1
+    "大疆/影石 中文动态": 2
   },
   "top5_region_mix": {
-    "domestic": 1
+    "domestic": 2
   }
 }
