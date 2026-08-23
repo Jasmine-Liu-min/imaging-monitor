@@ -127,16 +127,37 @@ So although these files are generated, they are part of the product surface and 
 
 ## CI
 
-GitHub Actions:
+Workflow file: [.github/workflows/imaging-monitor.yml](.github/workflows/imaging-monitor.yml)
+
+When enabled, the GitHub Actions workflow:
 
 - runs tests first
-- runs the monitor on schedule
+- runs the monitor
 - commits updated `data/`
 - deploys the static dashboard via GitHub Pages
 
-Workflow file:
+### Current status: scheduled runs disabled
 
-[.github/workflows/imaging-monitor.yml](.github/workflows/imaging-monitor.yml)
+Automatic (scheduled) runs are currently **turned off**, because GitHub Pages is
+not enabled on this repository and the deploy step would otherwise fail with a
+404. Manual runs via **Actions → Imaging Monitor → Run workflow** still work
+(the Pages deploy step will only succeed once Pages is enabled).
+
+### Re-enabling automatic runs and dashboard deployment
+
+1. Enable Pages: repo **Settings → Pages → Build and deployment → Source = GitHub Actions**
+2. Uncomment the `schedule:` block in the workflow file
+3. (Optional) trigger a manual run to deploy immediately
+
+The Pages deploy steps are kept intact, so once Pages is enabled and the
+workflow runs, the dashboard is published automatically at:
+
+```text
+https://jasmine-liu-min.github.io/imaging-monitor/web/
+```
+
+Note the trailing `/web/`: `index.html` lives in `web/` and the workflow
+publishes the whole repository root.
 
 ## License
 
